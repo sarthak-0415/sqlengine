@@ -1,0 +1,7 @@
+unable to open csv file: data/dbs.csvunable to open csv file: data/t1.csvunable to open csv file: data/test1.csvunable to open csv file: data/test2.csvunable to open csv file: data/test3.csv
+ enter query ::
+>>>>>entered queryselect * from countries where namelike"u.s." orderby id,name;
+passed query :select * from countries where namelike"u.s." orderby id,name;
+
+distinct:0
+Invalid query 2

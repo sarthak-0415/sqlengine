@@ -1,0 +1,27 @@
+PAGE_SIZE 100
+NUM_PAGES 4
+PATH_FOR_DATA data/
+BEGIN
+countries
+id, int
+code, String
+name, String
+continent, String
+END
+BEGIN
+test55
+no, int
+name, varchar(100)
+sal, varchar(100)
+no2, int
+END
+BEGIN
+employee
+id, int
+name, varchar(100)
+sal, float
+spouseid, int
+spousename, varchar(100)
+spousesal, float
+PRIMARY KEY, id
+END

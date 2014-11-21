@@ -1,0 +1,17 @@
+PAGE_SIZE 250
+NUM_PAGES 10
+PATH_FOR_DATA data/
+BEGIN
+countries
+id, int
+code, String
+name, String
+continent, String
+END
+BEGIN
+water
+code , String
+district , String
+population , int
+water_consumption , int
+END

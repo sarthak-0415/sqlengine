@@ -1,0 +1,875 @@
+
+analysis ::  
+pagesize	50
+lrusize	2 
+numpages	300
+insert_performance	 100
+get_performance	 377
+
+analysis ::  
+pagesize	50
+lrusize	2 
+numpages	400
+insert_performance	 100
+get_performance	 377
+
+analysis ::  
+pagesize	50
+lrusize	2 
+numpages	500
+insert_performance	 100
+get_performance	 377
+
+analysis ::  
+pagesize	50
+lrusize	2 
+numpages	600
+insert_performance	 100
+get_performance	 377
+
+analysis ::  
+pagesize	50
+lrusize	2 
+numpages	700
+insert_performance	 100
+get_performance	 377
+
+analysis ::  
+pagesize	50
+lrusize	4 
+numpages	300
+insert_performance	 100
+get_performance	 377
+
+analysis ::  
+pagesize	50
+lrusize	4 
+numpages	400
+insert_performance	 100
+get_performance	 377
+
+analysis ::  
+pagesize	50
+lrusize	4 
+numpages	500
+insert_performance	 100
+get_performance	 377
+
+analysis ::  
+pagesize	50
+lrusize	4 
+numpages	600
+insert_performance	 100
+get_performance	 377
+
+analysis ::  
+pagesize	50
+lrusize	4 
+numpages	700
+insert_performance	 100
+get_performance	 377
+
+analysis ::  
+pagesize	50
+lrusize	6 
+numpages	300
+insert_performance	 51
+get_performance	 377
+
+analysis ::  
+pagesize	50
+lrusize	6 
+numpages	400
+insert_performance	 100
+get_performance	 377
+
+analysis ::  
+pagesize	50
+lrusize	6 
+numpages	500
+insert_performance	 100
+get_performance	 377
+
+analysis ::  
+pagesize	50
+lrusize	6 
+numpages	600
+insert_performance	 100
+get_performance	 377
+
+analysis ::  
+pagesize	50
+lrusize	6 
+numpages	700
+insert_performance	 100
+get_performance	 377
+
+analysis ::  
+pagesize	50
+lrusize	8 
+numpages	300
+insert_performance	 1
+get_performance	 377
+
+analysis ::  
+pagesize	50
+lrusize	8 
+numpages	400
+insert_performance	 1
+get_performance	 377
+
+analysis ::  
+pagesize	50
+lrusize	8 
+numpages	500
+insert_performance	 100
+get_performance	 377
+
+analysis ::  
+pagesize	50
+lrusize	8 
+numpages	600
+insert_performance	 100
+get_performance	 377
+
+analysis ::  
+pagesize	50
+lrusize	8 
+numpages	700
+insert_performance	 100
+get_performance	 377
+
+analysis ::  
+pagesize	50
+lrusize	10 
+numpages	300
+insert_performance	 1
+get_performance	 377
+
+analysis ::  
+pagesize	50
+lrusize	10 
+numpages	400
+insert_performance	 1
+get_performance	 377
+
+analysis ::  
+pagesize	50
+lrusize	10 
+numpages	500
+insert_performance	 1
+get_performance	 377
+
+analysis ::  
+pagesize	50
+lrusize	10 
+numpages	600
+insert_performance	 100
+get_performance	 377
+
+analysis ::  
+pagesize	50
+lrusize	10 
+numpages	700
+insert_performance	 100
+get_performance	 377
+
+analysis ::  
+pagesize	100
+lrusize	2 
+numpages	300
+insert_performance	 3
+get_performance	 0
+
+analysis ::  
+pagesize	100
+lrusize	2 
+numpages	400
+insert_performance	 3
+get_performance	 0
+
+analysis ::  
+pagesize	100
+lrusize	2 
+numpages	500
+insert_performance	 3
+get_performance	 0
+
+analysis ::  
+pagesize	100
+lrusize	2 
+numpages	600
+insert_performance	 1
+get_performance	 0
+
+analysis ::  
+pagesize	100
+lrusize	2 
+numpages	700
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	100
+lrusize	4 
+numpages	300
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	100
+lrusize	4 
+numpages	400
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	100
+lrusize	4 
+numpages	500
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	100
+lrusize	4 
+numpages	600
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	100
+lrusize	4 
+numpages	700
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	100
+lrusize	6 
+numpages	300
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	100
+lrusize	6 
+numpages	400
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	100
+lrusize	6 
+numpages	500
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	100
+lrusize	6 
+numpages	600
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	100
+lrusize	6 
+numpages	700
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	100
+lrusize	8 
+numpages	300
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	100
+lrusize	8 
+numpages	400
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	100
+lrusize	8 
+numpages	500
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	100
+lrusize	8 
+numpages	600
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	100
+lrusize	8 
+numpages	700
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	100
+lrusize	10 
+numpages	300
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	100
+lrusize	10 
+numpages	400
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	100
+lrusize	10 
+numpages	500
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	100
+lrusize	10 
+numpages	600
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	100
+lrusize	10 
+numpages	700
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	150
+lrusize	2 
+numpages	300
+insert_performance	 3
+get_performance	 0
+
+analysis ::  
+pagesize	150
+lrusize	2 
+numpages	400
+insert_performance	 3
+get_performance	 0
+
+analysis ::  
+pagesize	150
+lrusize	2 
+numpages	500
+insert_performance	 3
+get_performance	 0
+
+analysis ::  
+pagesize	150
+lrusize	2 
+numpages	600
+insert_performance	 3
+get_performance	 0
+
+analysis ::  
+pagesize	150
+lrusize	2 
+numpages	700
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	150
+lrusize	4 
+numpages	300
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	150
+lrusize	4 
+numpages	400
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	150
+lrusize	4 
+numpages	500
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	150
+lrusize	4 
+numpages	600
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	150
+lrusize	4 
+numpages	700
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	150
+lrusize	6 
+numpages	300
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	150
+lrusize	6 
+numpages	400
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	150
+lrusize	6 
+numpages	500
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	150
+lrusize	6 
+numpages	600
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	150
+lrusize	6 
+numpages	700
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	150
+lrusize	8 
+numpages	300
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	150
+lrusize	8 
+numpages	400
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	150
+lrusize	8 
+numpages	500
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	150
+lrusize	8 
+numpages	600
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	150
+lrusize	8 
+numpages	700
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	150
+lrusize	10 
+numpages	300
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	150
+lrusize	10 
+numpages	400
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	150
+lrusize	10 
+numpages	500
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	150
+lrusize	10 
+numpages	600
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	150
+lrusize	10 
+numpages	700
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	200
+lrusize	2 
+numpages	300
+insert_performance	 2
+get_performance	 0
+
+analysis ::  
+pagesize	200
+lrusize	2 
+numpages	400
+insert_performance	 2
+get_performance	 0
+
+analysis ::  
+pagesize	200
+lrusize	2 
+numpages	500
+insert_performance	 2
+get_performance	 0
+
+analysis ::  
+pagesize	200
+lrusize	2 
+numpages	600
+insert_performance	 2
+get_performance	 0
+
+analysis ::  
+pagesize	200
+lrusize	2 
+numpages	700
+insert_performance	 1
+get_performance	 0
+
+analysis ::  
+pagesize	200
+lrusize	4 
+numpages	300
+insert_performance	 1
+get_performance	 0
+
+analysis ::  
+pagesize	200
+lrusize	4 
+numpages	400
+insert_performance	 1
+get_performance	 0
+
+analysis ::  
+pagesize	200
+lrusize	4 
+numpages	500
+insert_performance	 1
+get_performance	 0
+
+analysis ::  
+pagesize	200
+lrusize	4 
+numpages	600
+insert_performance	 1
+get_performance	 0
+
+analysis ::  
+pagesize	200
+lrusize	4 
+numpages	700
+insert_performance	 1
+get_performance	 0
+
+analysis ::  
+pagesize	200
+lrusize	6 
+numpages	300
+insert_performance	 1
+get_performance	 0
+
+analysis ::  
+pagesize	200
+lrusize	6 
+numpages	400
+insert_performance	 1
+get_performance	 0
+
+analysis ::  
+pagesize	200
+lrusize	6 
+numpages	500
+insert_performance	 1
+get_performance	 0
+
+analysis ::  
+pagesize	200
+lrusize	6 
+numpages	600
+insert_performance	 1
+get_performance	 0
+
+analysis ::  
+pagesize	200
+lrusize	6 
+numpages	700
+insert_performance	 1
+get_performance	 0
+
+analysis ::  
+pagesize	200
+lrusize	8 
+numpages	300
+insert_performance	 1
+get_performance	 0
+
+analysis ::  
+pagesize	200
+lrusize	8 
+numpages	400
+insert_performance	 1
+get_performance	 0
+
+analysis ::  
+pagesize	200
+lrusize	8 
+numpages	500
+insert_performance	 1
+get_performance	 0
+
+analysis ::  
+pagesize	200
+lrusize	8 
+numpages	600
+insert_performance	 1
+get_performance	 0
+
+analysis ::  
+pagesize	200
+lrusize	8 
+numpages	700
+insert_performance	 1
+get_performance	 0
+
+analysis ::  
+pagesize	200
+lrusize	10 
+numpages	300
+insert_performance	 1
+get_performance	 0
+
+analysis ::  
+pagesize	200
+lrusize	10 
+numpages	400
+insert_performance	 1
+get_performance	 0
+
+analysis ::  
+pagesize	200
+lrusize	10 
+numpages	500
+insert_performance	 1
+get_performance	 0
+
+analysis ::  
+pagesize	200
+lrusize	10 
+numpages	600
+insert_performance	 1
+get_performance	 0
+
+analysis ::  
+pagesize	200
+lrusize	10 
+numpages	700
+insert_performance	 1
+get_performance	 0
+
+analysis ::  
+pagesize	250
+lrusize	2 
+numpages	300
+insert_performance	 3
+get_performance	 0
+
+analysis ::  
+pagesize	250
+lrusize	2 
+numpages	400
+insert_performance	 3
+get_performance	 0
+
+analysis ::  
+pagesize	250
+lrusize	2 
+numpages	500
+insert_performance	 3
+get_performance	 0
+
+analysis ::  
+pagesize	250
+lrusize	2 
+numpages	600
+insert_performance	 3
+get_performance	 0
+
+analysis ::  
+pagesize	250
+lrusize	2 
+numpages	700
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	250
+lrusize	4 
+numpages	300
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	250
+lrusize	4 
+numpages	400
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	250
+lrusize	4 
+numpages	500
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	250
+lrusize	4 
+numpages	600
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	250
+lrusize	4 
+numpages	700
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	250
+lrusize	6 
+numpages	300
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	250
+lrusize	6 
+numpages	400
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	250
+lrusize	6 
+numpages	500
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	250
+lrusize	6 
+numpages	600
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	250
+lrusize	6 
+numpages	700
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	250
+lrusize	8 
+numpages	300
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	250
+lrusize	8 
+numpages	400
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	250
+lrusize	8 
+numpages	500
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	250
+lrusize	8 
+numpages	600
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	250
+lrusize	8 
+numpages	700
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	250
+lrusize	10 
+numpages	300
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	250
+lrusize	10 
+numpages	400
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	250
+lrusize	10 
+numpages	500
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	250
+lrusize	10 
+numpages	600
+insert_performance	 0
+get_performance	 0
+
+analysis ::  
+pagesize	250
+lrusize	10 
+numpages	700
+insert_performance	 0
+get_performance	 0

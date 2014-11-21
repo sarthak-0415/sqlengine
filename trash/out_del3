@@ -1,0 +1,43 @@
+unable to open csv file: data/employee.csv
+ enter query ::
+>>>>>entered queryselect * from employee;
+passed query :select * from employee;
+
+distinct:0
+Invalid query 2
+ enter query ::
+>>>>>entered queryselect id,spousesal from employee;
+passed query :select id,spousesal from employee;
+
+distinct:0
+Invalid query 2
+ enter query ::
+>>>>>entered queryselect * from employee;
+passed query :select * from employee;
+
+distinct:0
+Invalid query 2
+ enter query ::
+>>>>>entered queryselect id,spousename from employee where id>20;
+passed query :select id,spousename from employee where id>20;
+
+distinct:0
+select clause: id spousename  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :id>20;
+join_clause
+join_att
+join_flag :0
+where sub-clauses: id>20; 
+orderby attributes:  
+ 
+att_no:1query_type:5comparison_number:20comparison_string:
+in order_results	orderby condition 	
+result 	
+
+printing in select command 
+displaying column list
+xidx
+xspousenamex

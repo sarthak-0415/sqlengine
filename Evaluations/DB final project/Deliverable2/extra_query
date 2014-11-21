@@ -1,0 +1,5 @@
+1
+2
+6
+select * from test1 where id>(select id from test1 where fname='abcd');
+0

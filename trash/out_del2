@@ -1,0 +1,113 @@
+unable to open csv file: data/dbs.csvunable to open csv file: data/t1.csvunable to open csv file: data/test1.csvunable to open csv file: data/test2.csvunable to open csv file: data/test3.csv
+ enter query ::
+>>>>>entered querycreate table test1(id int,fname varchar(30),lname varchar(50),percent float,class varchar(50),year int);passed query create table test1(id int,fname varchar(30),lname varchar(50),percent float,class varchar(50),year int);
+
+id int
+fname varchar(30)
+lname varchar(50)
+percent float
+class varchar(50)
+year int
+ enter query ::
+>>>>>entered querycreate table test2(id int,fname varchar(40),percent float);passed query create table test2(id int,fname varchar(40),percent float);
+
+id int
+fname varchar(40)
+percent float
+ enter query ::
+>>>>>entered querycreate table test3(id int,lname varchar(50),percent float);passed query create table test3(id int,lname varchar(50),percent float);
+
+id int
+lname varchar(50)
+percent float
+ enter query ::
+>>>>>entered querycreate table dbs(id int,roll_no int,name varchar(50));passed query create table dbs(id int,roll_no int,name varchar(50));
+
+id int
+roll_no int
+name varchar(50)
+ enter query ::
+>>>>>entered querycreate table t1(temp int,temp int);passed query create table t1(temp int,temp int);
+
+temp int
+temp int
+ enter query ::
+>>>>>entered querycreate table t1(temp int,temp float);passed query create table t1(temp int,temp float);
+
+temp int
+temp float
+ enter query ::
+>>>>>entered querycreate table t1(temp int,temp int);passed query create table t1(temp int,temp int);
+
+temp int
+temp int
+ enter query ::
+>>>>>entered querycreate table dbs(temp int,temp int);passed query create table dbs(temp int,temp int);
+
+temp int
+temp int
+ enter query ::
+>>>>>entered querycreate table t1(varchar int,temp int);passed query create table t1(varchar int,temp int);
+
+varchar int
+temp int
+ enter query ::
+>>>>>entered querycreate table t1(float int,temp int);passed query create table t1(float int,temp int);
+
+float int
+temp int
+ enter query ::
+>>>>>entered querycreate table t1(temp integer,temp1 float);passed query create table t1(temp integer,temp1 float);
+
+temp integer
+temp1 float
+ enter query ::
+>>>>>entered queryselect roll_no from dbs where id=1;
+passed query :select roll_no from dbs where id=1;
+
+distinct:0
+select clause: roll_no  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :id=1;
+join_clause
+join_att
+join_flag :0
+where sub-clauses: id=1; 
+orderby attributes:  
+ 
+att_no:1query_type:1comparison_number:1comparison_string:
+in order_results	orderby condition 	
+result 	
+
+printing in select command 
+displaying column list
+xroll_nox
+
+select roll_no column
+select specifies:  2
+
+ FINAL RESULTS: 
+ 
+ enter query ::
+>>>>>entered queryselect * from dbs;
+passed query :select * from dbs;
+
+distinct:0
+Invalid query 2
+ enter query ::
+>>>>>entered queryselect * from dbs where id>=1;
+passed query :select * from dbs where id>=1;
+
+distinct:0
+select clause: *  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :id>=1;
+join_clause
+join_att
+join_flag :0
+where sub-clauses: id>=1; 
+orderby attributes:  

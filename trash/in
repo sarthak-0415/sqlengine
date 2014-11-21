@@ -1,0 +1,6 @@
+1
+2
+6
+select * from countries where namelike"u.s." orderby id,name;
+0
+select id,name from countries where id>0 ;

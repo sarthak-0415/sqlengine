@@ -1,0 +1,149 @@
+1
+2
+6
+create table test1(id int,fname varchar(30),lname varchar(50),percent float,class varchar(50),year int);
+6
+create table test2(id int,fname varchar(40),percent float);
+6
+create table test3(id int,lname varchar(50),percent float);
+6
+create table dbs(id int,roll_no int,name varchar(50));
+6
+create table t1(temp int,temp int);
+6
+create table t1(temp int,temp float);
+6
+create table t1(temp int,tEMp int);
+6
+create table dbs(temp int,temp int);
+6
+create table t1(varchar int,temp int);
+6
+create table t1(fLOat int,temp int);
+6
+create table t1(temp intEGer,temp1 FloAt)
+6
+select roll_no from dbs where id=1;
+6
+select * from dbs;
+6
+select * from abc;
+6
+select * from test1,test1;
+6
+select * from test1,test2,test3;
+6
+select abc from test1;
+6
+select abc from test1,test2,test3;
+6
+select (id),(fname) from test1;
+6
+select test1.id from test1;
+6
+select test2.id from test1;
+6
+select test2.fname from test1,test2,test3;
+6
+select id,fname from test1,test2,test3;
+6
+select id,test2.fname,lname from test1,test2,test3;
+6
+select * from test1;
+6
+select * from test1,test2,test3;
+6
+select *,id from test1;
+6
+select *,id,fname from test1,test2,test3;
+6
+select null from test1;
+6
+select null;
+6
+select distinct (id),fname,lname from test1;
+6
+select distinct id,fname,lname from test1;
+6
+select distinct (id,fname,lname) from test1;
+6
+select distinct fname,abc from test1;
+6
+select distinct test2.lname ,fname from test1,test2;
+6
+select * from test1 where id>5.5;
+6
+select * from test1 where percent>10;
+6
+select * from test1 where id like 5.5;
+6
+select * from test1 where percent like 10;
+6
+select * from test1 where fname = 'abcd';
+6
+select * from test1 where fname like 23;
+6
+select * from test1 where fname like 34.5;
+6
+select * from test1 where id like 'sdffs';
+6
+select * from test1 where percent like 'sdffs';
+6
+select * from test1,test2 where lname='abcd');
+6
+select * from test1,test2 where id=1;
+6
+select * from test1 where roll=45;
+6
+select * from test1,test2 where roll=34;
+6
+select * from test1,test2 where test1.id=1;
+6
+select * from test1,test2 where (id)=2;
+6
+select * from test1 where id<3 and percent<30;
+6
+select * from test1 where id<3 AND percent<30;
+6
+select * from test1 where id>3 OR percent<30;
+6
+select * from test1 where id>3 or percent<30;
+6
+select * from test1 where lname like 'cdef';
+6
+select roll from test1 group by roll;
+6
+select id,fname from test1 group by class;
+6
+select class from test1 group by (class);
+6
+select class,year from test1 group by class,year;
+6
+select test1.class from test1 group by test1.class, test1.year;
+6
+select year from test1 group by class having class like 'B';
+6
+select class from test1 group by class having year=2012;
+6
+select fname from test1 having id<=3;
+6
+select id from test1 having id<=3;
+6
+select * from test1 order by roll;
+6
+select id from test1 order by percent;
+6
+select id,percent from test1 order by percent;
+6
+select * from test1 order by year;
+6
+select test1.id,test1.percent,test1.year from test1 order by percent,year;
+6
+select test1.id,test1.percent,test1.year from test1 order by year,percent;
+6
+select * from test1 where id<=3 or percent>30 and fname like 'abce';
+6
+select * from test1 where id<32492752938523958237529;
+6
+select * from test1 where percent<32492752938523958237529;
+0

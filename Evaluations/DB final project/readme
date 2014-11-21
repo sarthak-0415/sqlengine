@@ -1,0 +1,6 @@
+-to run each code
+> sh run.sh 
+
+*run.sh script is present in all the folders
+
+*for deliverable 2 we have changed the order of the queries ,the code is not working for two queries "where id<32492752938523958237529;" because the range od integers is exceeding ,these queries are put at the end. and extra query is also working for validation

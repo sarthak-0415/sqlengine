@@ -1,0 +1,873 @@
+
+ enter query ::
+>>>>>entered queryselect * from employee;
+passed query :select * from employee
+
+distinct:0
+token1:employee:
+table_name_num
+countries---->0
+employee---->2
+test55---->1
+table_name_list
+employee
+
+select clause: *  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :
+join_clause
+join_att
+join_flag :0
+orderby attributes:  *
+
+
+ FINAL RESULTS: 
+0#"82","test81","1081.11","48","test47","1047.11"
+1#"39","test38","1038.11","66","test65","1065.11"
+2#"44","test43","1043.11","82","test81","1081.11"
+3#"76","test75","1075.11","87","test86","1086.11"
+4#"43","test42","1042.11","66","test65","1065.11"
+5#"55","test54","1054.11","91","test90","1090.11"
+6#"75","test74","1074.11","64","test63","1063.11"
+7#"5","test4","1004.11","47","test46","1046.11"
+8#"21","test20","1020.11","40","test39","1039.11"
+9#"50","test49","1049.11","70","test69","1069.11"
+10#"83","test82","1082.11","22","test21","1021.11"
+11#"4","test3","1003.11","20","test19","1019.11"
+12#"35","test34","1034.11","4","test3","1003.11"
+13#"78","test77","1077.11","33","test32","1032.11"
+14#"7","test6","1006.11","12","test11","1011.11"
+15#"91","test90","1090.11","20","test19","1019.11"
+16#"43","test42","1042.11","17","test16","1016.11"
+17#"43","test42","1042.11","90","test89","1089.11"
+18#"4","test3","1003.11","69","test68","1068.11"
+19#"45","test44","1044.11","78","test77","1077.11"
+20#"62","test61","1061.11","70","test69","1069.11"
+21#"80","test79","1079.11","91","test90","1090.11"
+22#"96","test95","1095.11","31","test30","1030.11"
+23#"54","test53","1053.11","8","test7","1007.11"
+24#"34","test33","1033.11","77","test76","1076.11"
+25#"49","test48","1048.11","69","test68","1068.11"
+26#"44","test43","1043.11","44","test43","1043.11"
+27#"64","test63","1063.11","45","test44","1044.11"
+28#"42","test41","1041.11","40","test39","1039.11"
+29#"62","test61","1061.11","40","test39","1039.11"
+30#"72","test71","1071.11","21","test20","1020.11"
+31#"3","test2","1002.11","22","test21","1021.11"
+32#"34","test33","1033.11","31","test30","1030.11"
+33#"14","test13","1013.11","52","test51","1051.11"
+34#"53","test52","1052.11","8","test7","1007.11"
+35#"15","test14","1014.11","39","test38","1038.11"
+36#"99","test98","1098.11","81","test80","1080.11"
+37#"47","test46","1046.11","99","test98","1098.11"
+38#"44","test43","1043.11","28","test27","1027.11"
+39#"71","test70","1070.11","14","test13","1013.11"
+40#"22","test21","1021.11","25","test24","1024.11"
+41#"59","test58","1058.11","14","test13","1013.11"
+42#"23","test22","1022.11","42","test41","1041.11"
+43#"97","test96","1096.11","59","test58","1058.11"
+44#"5","test4","1004.11","42","test41","1041.11"
+45#"51","test50","1050.11","54","test53","1053.11"
+46#"68","test67","1067.11","56","test55","1055.11"
+47#"93","test92","1092.11","72","test71","1071.11"
+48#"83","test82","1082.11","39","test38","1038.11"
+49#"41","test40","1040.11","87","test86","1086.11"
+50#"22","test21","1021.11","74","test73","1073.11"
+51#"49","test48","1048.11","36","test35","1035.11"
+52#"96","test95","1095.11","18","test17","1017.11"
+53#"54","test53","1053.11","68","test67","1067.11"
+54#"7","test6","1006.11","31","test30","1030.11"
+55#"96","test95","1095.11","38","test37","1037.11"
+56#"81","test80","1080.11","71","test70","1070.11"
+57#"71","test70","1070.11","29","test28","1028.11"
+58#"50","test49","1049.11","16","test15","1015.11"
+59#"45","test44","1044.11","58","test57","1057.11"
+60#"18","test17","1017.11","86","test85","1085.11"
+61#"46","test45","1045.11","39","test38","1038.11"
+62#"75","test74","1074.11","11","test10","1010.11"
+63#"93","test92","1092.11","99","test98","1098.11"
+64#"65","test64","1064.11","35","test34","1034.11"
+65#"89","test88","1088.11","20","test19","1019.11"
+66#"44","test43","1043.11","61","test60","1060.11"
+67#"7","test6","1006.11","77","test76","1076.11"
+68#"32","test31","1031.11","81","test80","1080.11"
+69#"58","test57","1057.11","51","test50","1050.11"
+70#"96","test95","1095.11","28","test27","1027.11"
+71#"25","test24","1024.11","44","test43","1043.11"
+72#"6","test5","1005.11","26","test25","1025.11"
+73#"38","test37","1037.11","68","test67","1067.11"
+74#"49","test48","1048.11","2","test1","1001.11"
+75#"13","test12","1012.11","60","test59","1059.11"
+76#"25","test24","1024.11","33","test32","1032.11"
+77#"75","test74","1074.11","70","test69","1069.11"
+78#"22","test21","1021.11","2","test1","1001.11"
+79#"19","test18","1018.11","90","test89","1089.11"
+80#"98","test97","1097.11","9","test8","1008.11"
+81#"29","test28","1028.11","60","test59","1059.11"
+82#"18","test17","1017.11","97","test96","1096.11"
+83#"49","test48","1048.11","71","test70","1070.11"
+84#"69","test68","1068.11","80","test79","1079.11"
+85#"34","test33","1033.11","91","test90","1090.11"
+86#"2","test1","1001.11","50","test49","1049.11"
+87#"18","test17","1017.11","84","test83","1083.11"
+88#"34","test33","1033.11","1","test0","1000.11"
+89#"70","test69","1069.11","51","test50","1050.11"
+90#"13","test12","1012.11","83","test82","1082.11"
+91#"75","test74","1074.11","81","test80","1080.11"
+92#"76","test75","1075.11","90","test89","1089.11"
+93#"84","test83","1083.11","47","test46","1046.11"
+94#"9","test8","1008.11","14","test13","1013.11"
+95#"47","test46","1046.11","8","test7","1007.11"
+96#"56","test55","1055.11","94","test93","1093.11"
+97#"20","test19","1019.11","62","test61","1061.11"
+98#"19","test18","1018.11","2","test1","1001.11"
+99#"72","test71","1071.11","47","test46","1046.11"
+
+
+ enter query ::
+>>>>>entered queryselect id,spousesal from employee;
+passed query :select id,spousesal from employee
+
+distinct:0
+token1:employee:
+table_name_num
+countries---->0
+employee---->2
+test55---->1
+table_name_list
+employee
+
+select clause: id spousesal  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :
+join_clause
+join_att
+join_flag :0
+orderby attributes:  id
+spousesal
+in wring block
+
+select id column
+select spousesal columnwhere we stop
+att_nos size:2
+select specifies:  1 6here
+
+ FINAL RESULTS: 
+0#"82","1047.11",
+1#"39","1065.11",
+2#"44","1081.11",
+3#"76","1086.11",
+4#"43","1065.11",
+5#"55","1090.11",
+6#"75","1063.11",
+7#"5","1046.11",
+8#"21","1039.11",
+9#"50","1069.11",
+10#"83","1021.11",
+11#"4","1019.11",
+12#"35","1003.11",
+13#"78","1032.11",
+14#"7","1011.11",
+15#"91","1019.11",
+16#"43","1016.11",
+17#"43","1089.11",
+18#"4","1068.11",
+19#"45","1077.11",
+20#"62","1069.11",
+21#"80","1090.11",
+22#"96","1030.11",
+23#"54","1007.11",
+24#"34","1076.11",
+25#"49","1068.11",
+26#"44","1043.11",
+27#"64","1044.11",
+28#"42","1039.11",
+29#"62","1039.11",
+30#"72","1020.11",
+31#"3","1021.11",
+32#"34","1030.11",
+33#"14","1051.11",
+34#"53","1007.11",
+35#"15","1038.11",
+36#"99","1080.11",
+37#"47","1098.11",
+38#"44","1027.11",
+39#"71","1013.11",
+40#"22","1024.11",
+41#"59","1013.11",
+42#"23","1041.11",
+43#"97","1058.11",
+44#"5","1041.11",
+45#"51","1053.11",
+46#"68","1055.11",
+47#"93","1071.11",
+48#"83","1038.11",
+49#"41","1086.11",
+50#"22","1073.11",
+51#"49","1035.11",
+52#"96","1017.11",
+53#"54","1067.11",
+54#"7","1030.11",
+55#"96","1037.11",
+56#"81","1070.11",
+57#"71","1028.11",
+58#"50","1015.11",
+59#"45","1057.11",
+60#"18","1085.11",
+61#"46","1038.11",
+62#"75","1010.11",
+63#"93","1098.11",
+64#"65","1034.11",
+65#"89","1019.11",
+66#"44","1060.11",
+67#"7","1076.11",
+68#"32","1080.11",
+69#"58","1050.11",
+70#"96","1027.11",
+71#"25","1043.11",
+72#"6","1025.11",
+73#"38","1067.11",
+74#"49","1001.11",
+75#"13","1059.11",
+76#"25","1032.11",
+77#"75","1069.11",
+78#"22","1001.11",
+79#"19","1089.11",
+80#"98","1008.11",
+81#"29","1059.11",
+82#"18","1096.11",
+83#"49","1070.11",
+84#"69","1079.11",
+85#"34","1090.11",
+86#"2","1049.11",
+87#"18","1083.11",
+88#"34","1000.11",
+89#"70","1050.11",
+90#"13","1082.11",
+91#"75","1080.11",
+92#"76","1089.11",
+93#"84","1046.11",
+94#"9","1013.11",
+95#"47","1007.11",
+96#"56","1093.11",
+97#"20","1061.11",
+98#"19","1001.11",
+99#"72","1046.11",
+
+ enter query ::
+>>>>>entered queryselect * from employee;
+passed query :select * from employee
+
+distinct:0
+token1:employee:
+table_name_num
+countries---->0
+employee---->2
+test55---->1
+table_name_list
+employee
+
+select clause: *  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :
+join_clause
+join_att
+join_flag :0
+orderby attributes:  *
+
+
+ FINAL RESULTS: 
+0#"82","test81","1081.11","48","test47","1047.11"
+1#"39","test38","1038.11","66","test65","1065.11"
+2#"44","test43","1043.11","82","test81","1081.11"
+3#"76","test75","1075.11","87","test86","1086.11"
+4#"43","test42","1042.11","66","test65","1065.11"
+5#"55","test54","1054.11","91","test90","1090.11"
+6#"75","test74","1074.11","64","test63","1063.11"
+7#"5","test4","1004.11","47","test46","1046.11"
+8#"21","test20","1020.11","40","test39","1039.11"
+9#"50","test49","1049.11","70","test69","1069.11"
+10#"83","test82","1082.11","22","test21","1021.11"
+11#"4","test3","1003.11","20","test19","1019.11"
+12#"35","test34","1034.11","4","test3","1003.11"
+13#"78","test77","1077.11","33","test32","1032.11"
+14#"7","test6","1006.11","12","test11","1011.11"
+15#"91","test90","1090.11","20","test19","1019.11"
+16#"43","test42","1042.11","17","test16","1016.11"
+17#"43","test42","1042.11","90","test89","1089.11"
+18#"4","test3","1003.11","69","test68","1068.11"
+19#"45","test44","1044.11","78","test77","1077.11"
+20#"62","test61","1061.11","70","test69","1069.11"
+21#"80","test79","1079.11","91","test90","1090.11"
+22#"96","test95","1095.11","31","test30","1030.11"
+23#"54","test53","1053.11","8","test7","1007.11"
+24#"34","test33","1033.11","77","test76","1076.11"
+25#"49","test48","1048.11","69","test68","1068.11"
+26#"44","test43","1043.11","44","test43","1043.11"
+27#"64","test63","1063.11","45","test44","1044.11"
+28#"42","test41","1041.11","40","test39","1039.11"
+29#"62","test61","1061.11","40","test39","1039.11"
+30#"72","test71","1071.11","21","test20","1020.11"
+31#"3","test2","1002.11","22","test21","1021.11"
+32#"34","test33","1033.11","31","test30","1030.11"
+33#"14","test13","1013.11","52","test51","1051.11"
+34#"53","test52","1052.11","8","test7","1007.11"
+35#"15","test14","1014.11","39","test38","1038.11"
+36#"99","test98","1098.11","81","test80","1080.11"
+37#"47","test46","1046.11","99","test98","1098.11"
+38#"44","test43","1043.11","28","test27","1027.11"
+39#"71","test70","1070.11","14","test13","1013.11"
+40#"22","test21","1021.11","25","test24","1024.11"
+41#"59","test58","1058.11","14","test13","1013.11"
+42#"23","test22","1022.11","42","test41","1041.11"
+43#"97","test96","1096.11","59","test58","1058.11"
+44#"5","test4","1004.11","42","test41","1041.11"
+45#"51","test50","1050.11","54","test53","1053.11"
+46#"68","test67","1067.11","56","test55","1055.11"
+47#"93","test92","1092.11","72","test71","1071.11"
+48#"83","test82","1082.11","39","test38","1038.11"
+49#"41","test40","1040.11","87","test86","1086.11"
+50#"22","test21","1021.11","74","test73","1073.11"
+51#"49","test48","1048.11","36","test35","1035.11"
+52#"96","test95","1095.11","18","test17","1017.11"
+53#"54","test53","1053.11","68","test67","1067.11"
+54#"7","test6","1006.11","31","test30","1030.11"
+55#"96","test95","1095.11","38","test37","1037.11"
+56#"81","test80","1080.11","71","test70","1070.11"
+57#"71","test70","1070.11","29","test28","1028.11"
+58#"50","test49","1049.11","16","test15","1015.11"
+59#"45","test44","1044.11","58","test57","1057.11"
+60#"18","test17","1017.11","86","test85","1085.11"
+61#"46","test45","1045.11","39","test38","1038.11"
+62#"75","test74","1074.11","11","test10","1010.11"
+63#"93","test92","1092.11","99","test98","1098.11"
+64#"65","test64","1064.11","35","test34","1034.11"
+65#"89","test88","1088.11","20","test19","1019.11"
+66#"44","test43","1043.11","61","test60","1060.11"
+67#"7","test6","1006.11","77","test76","1076.11"
+68#"32","test31","1031.11","81","test80","1080.11"
+69#"58","test57","1057.11","51","test50","1050.11"
+70#"96","test95","1095.11","28","test27","1027.11"
+71#"25","test24","1024.11","44","test43","1043.11"
+72#"6","test5","1005.11","26","test25","1025.11"
+73#"38","test37","1037.11","68","test67","1067.11"
+74#"49","test48","1048.11","2","test1","1001.11"
+75#"13","test12","1012.11","60","test59","1059.11"
+76#"25","test24","1024.11","33","test32","1032.11"
+77#"75","test74","1074.11","70","test69","1069.11"
+78#"22","test21","1021.11","2","test1","1001.11"
+79#"19","test18","1018.11","90","test89","1089.11"
+80#"98","test97","1097.11","9","test8","1008.11"
+81#"29","test28","1028.11","60","test59","1059.11"
+82#"18","test17","1017.11","97","test96","1096.11"
+83#"49","test48","1048.11","71","test70","1070.11"
+84#"69","test68","1068.11","80","test79","1079.11"
+85#"34","test33","1033.11","91","test90","1090.11"
+86#"2","test1","1001.11","50","test49","1049.11"
+87#"18","test17","1017.11","84","test83","1083.11"
+88#"34","test33","1033.11","1","test0","1000.11"
+89#"70","test69","1069.11","51","test50","1050.11"
+90#"13","test12","1012.11","83","test82","1082.11"
+91#"75","test74","1074.11","81","test80","1080.11"
+92#"76","test75","1075.11","90","test89","1089.11"
+93#"84","test83","1083.11","47","test46","1046.11"
+94#"9","test8","1008.11","14","test13","1013.11"
+95#"47","test46","1046.11","8","test7","1007.11"
+96#"56","test55","1055.11","94","test93","1093.11"
+97#"20","test19","1019.11","62","test61","1061.11"
+98#"19","test18","1018.11","2","test1","1001.11"
+99#"72","test71","1071.11","47","test46","1046.11"
+
+
+ enter query ::
+>>>>>entered queryselect id,spousename from employee where id>20;
+passed query :select id,spousename from employee where id>20
+
+distinct:0
+token1:employee:
+table_name_num
+countries---->0
+employee---->2
+test55---->1
+table_name_list
+employee
+
+select clause: id spousename  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :id>20
+join_clause
+join_att
+join_flag :0
+where sub-clauses: id>20 
+orderby attributes:  id
+spousename
+in wring block
+
+select id column
+select spousename columnwhere we stop
+att_nos size:2
+select specifies:  1 5here
+
+ FINAL RESULTS: 
+0#"82","test47",
+
+ enter query ::
+>>>>>entered queryselect name,id from employee order by id;
+passed query :select name,id from employee order by id
+
+distinct:0
+token1:employee order by id:
+table_name_num
+countries---->0
+employee---->2
+test55---->1
+table_name_list
+employee
+
+select clause: name id  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :
+join_clause
+join_att
+join_flag :0
+orderby attributes:  name
+id
+in wring block
+
+select name column
+select id columnwhere we stop
+att_nos size:2
+select specifies:  2 1here
+
+ FINAL RESULTS: 
+0#"test81","82",
+1#"test38","39",
+2#"test43","44",
+3#"test75","76",
+4#"test42","43",
+5#"test54","55",
+6#"test74","75",
+7#"test4","5",
+8#"test20","21",
+9#"test49","50",
+10#"test82","83",
+11#"test3","4",
+12#"test34","35",
+13#"test77","78",
+14#"test6","7",
+15#"test90","91",
+16#"test42","43",
+17#"test42","43",
+18#"test3","4",
+19#"test44","45",
+20#"test61","62",
+21#"test79","80",
+22#"test95","96",
+23#"test53","54",
+24#"test33","34",
+25#"test48","49",
+26#"test43","44",
+27#"test63","64",
+28#"test41","42",
+29#"test61","62",
+30#"test71","72",
+31#"test2","3",
+32#"test33","34",
+33#"test13","14",
+34#"test52","53",
+35#"test14","15",
+36#"test98","99",
+37#"test46","47",
+38#"test43","44",
+39#"test70","71",
+40#"test21","22",
+41#"test58","59",
+42#"test22","23",
+43#"test96","97",
+44#"test4","5",
+45#"test50","51",
+46#"test67","68",
+47#"test92","93",
+48#"test82","83",
+49#"test40","41",
+50#"test21","22",
+51#"test48","49",
+52#"test95","96",
+53#"test53","54",
+54#"test6","7",
+55#"test95","96",
+56#"test80","81",
+57#"test70","71",
+58#"test49","50",
+59#"test44","45",
+60#"test17","18",
+61#"test45","46",
+62#"test74","75",
+63#"test92","93",
+64#"test64","65",
+65#"test88","89",
+66#"test43","44",
+67#"test6","7",
+68#"test31","32",
+69#"test57","58",
+70#"test95","96",
+71#"test24","25",
+72#"test5","6",
+73#"test37","38",
+74#"test48","49",
+75#"test12","13",
+76#"test24","25",
+77#"test74","75",
+78#"test21","22",
+79#"test18","19",
+80#"test97","98",
+81#"test28","29",
+82#"test17","18",
+83#"test48","49",
+84#"test68","69",
+85#"test33","34",
+86#"test1","2",
+87#"test17","18",
+88#"test33","34",
+89#"test69","70",
+90#"test12","13",
+91#"test74","75",
+92#"test75","76",
+93#"test83","84",
+94#"test8","9",
+95#"test46","47",
+96#"test55","56",
+97#"test19","20",
+98#"test18","19",
+99#"test71","72",
+
+ enter query ::
+>>>>>entered queryselect spousename from employee where id>20 or spouseid>10 or sal>1900 or spousesal>1400;
+passed query :select spousename from employee where id>20 or spouseid>10 or sal>1900 or spousesal>1400
+
+distinct:0
+token1:employee:
+table_name_num
+countries---->0
+employee---->2
+test55---->1
+table_name_list
+employee
+
+select clause: spousename  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :id>20 or spouseid>10 or sal>1900 or spousesal>1400
+join_clause
+join_att
+join_flag :0
+where sub-clauses: id>20 spouseid>10 sal>1900 spousesal>1400 
+orderby attributes:  spousename
+in wring block
+
+select spousename columnwhere we stop
+att_nos size:1
+select specifies:  5here
+
+ FINAL RESULTS: 
+0#"test47",
+0#"test47",
+
+ enter query ::
+>>>>>entered queryselect spousename from employee where id>20 order by id;
+passed query :select spousename from employee where id>20 order by id
+
+distinct:0
+token1:employee:
+table_name_num
+countries---->0
+employee---->2
+test55---->1
+table_name_list
+employee
+
+select clause: spousename  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :id>20 order by id
+join_clause
+join_att
+join_flag :0
+where sub-clauses: id>20 order by id 
+orderby attributes:  spousename
+in wring block
+
+select spousename columnwhere we stop
+att_nos size:1
+select specifies:  5here
+
+ FINAL RESULTS: 
+0#"test47",
+
+ enter query ::
+>>>>>entered queryselect spousename from employee where id>20 and spouseid>10 and sal>1900 and spousesal>1400 order by id;
+passed query :select spousename from employee where id>20 and spouseid>10 and sal>1900 and spousesal>1400 order by id
+
+distinct:0
+token1:employee:
+table_name_num
+countries---->0
+employee---->2
+test55---->1
+table_name_list
+employee
+
+select clause: spousename  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :id>20 and spouseid>10 and sal>1900 and spousesal>1400 order by id
+join_clause
+join_att
+join_flag :0
+where sub-clauses: id>20 spouseid>10 sal>1900 spousesal>1400 order by id 
+orderby attributes:  spousename
+in wring block
+
+select spousename columnwhere we stop
+att_nos size:1
+select specifies:  5here
+
+ FINAL RESULTS: 
+
+ enter query ::
+>>>>>entered queryselect spousename from employee where id>20 or spouseid>10 or sal>1900 or spousesal>1400 order by id;
+passed query :select spousename from employee where id>20 or spouseid>10 or sal>1900 or spousesal>1400 order by id
+
+distinct:0
+token1:employee:
+table_name_num
+countries---->0
+employee---->2
+test55---->1
+table_name_list
+employee
+
+select clause: spousename  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :id>20 or spouseid>10 or sal>1900 or spousesal>1400 order by id
+join_clause
+join_att
+join_flag :0
+where sub-clauses: id>20 spouseid>10 sal>1900 spousesal>1400 order by id 
+orderby attributes:  spousename
+in wring block
+
+select spousename columnwhere we stop
+att_nos size:1
+select specifies:  5here
+
+ FINAL RESULTS: 
+0#"test47",
+0#"test47",
+
+ enter query ::
+>>>>>entered queryselect * from employee where id>20 order by id,name;
+passed query :select * from employee where id>20 order by id,name
+
+distinct:0
+token1:employee:
+table_name_num
+countries---->0
+employee---->2
+test55---->1
+table_name_list
+employee
+
+select clause: *  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :id>20 order by id,name
+join_clause
+join_att
+join_flag :0
+where sub-clauses: id>20 order by id,name 
+orderby attributes:  *
+
+
+ FINAL RESULTS: 
+0#"82","test81","1081.11","48","test47","1047.11"1#"39","test38","1038.11","66","test65","1065.11"2#"44","test43","1043.11","82","test81","1081.11"3#"76","test75","1075.11","87","test86","1086.11"4#"43","test42","1042.11","66","test65","1065.11"5#"55","test54","1054.11","91","test90","1090.11"6#"75","test74","1074.11","64","test63","1063.11"8#"21","test20","1020.11","40","test39","1039.11"9#"50","test49","1049.11","70","test69","1069.11"10#"83","test82","1082.11","22","test21","1021.11"12#"35","test34","1034.11","4","test3","1003.11"13#"78","test77","1077.11","33","test32","1032.11"15#"91","test90","1090.11","20","test19","1019.11"16#"43","test42","1042.11","17","test16","1016.11"17#"43","test42","1042.11","90","test89","1089.11"19#"45","test44","1044.11","78","test77","1077.11"20#"62","test61","1061.11","70","test69","1069.11"21#"80","test79","1079.11","91","test90","1090.11"22#"96","test95","1095.11","31","test30","1030.11"23#"54","test53","1053.11","8","test7","1007.11"24#"34","test33","1033.11","77","test76","1076.11"25#"49","test48","1048.11","69","test68","1068.11"26#"44","test43","1043.11","44","test43","1043.11"27#"64","test63","1063.11","45","test44","1044.11"28#"42","test41","1041.11","40","test39","1039.11"29#"62","test61","1061.11","40","test39","1039.11"30#"72","test71","1071.11","21","test20","1020.11"32#"34","test33","1033.11","31","test30","1030.11"34#"53","test52","1052.11","8","test7","1007.11"36#"99","test98","1098.11","81","test80","1080.11"37#"47","test46","1046.11","99","test98","1098.11"38#"44","test43","1043.11","28","test27","1027.11"39#"71","test70","1070.11","14","test13","1013.11"40#"22","test21","1021.11","25","test24","1024.11"41#"59","test58","1058.11","14","test13","1013.11"42#"23","test22","1022.11","42","test41","1041.11"43#"97","test96","1096.11","59","test58","1058.11"45#"51","test50","1050.11","54","test53","1053.11"46#"68","test67","1067.11","56","test55","1055.11"47#"93","test92","1092.11","72","test71","1071.11"48#"83","test82","1082.11","39","test38","1038.11"49#"41","test40","1040.11","87","test86","1086.11"50#"22","test21","1021.11","74","test73","1073.11"51#"49","test48","1048.11","36","test35","1035.11"52#"96","test95","1095.11","18","test17","1017.11"53#"54","test53","1053.11","68","test67","1067.11"55#"96","test95","1095.11","38","test37","1037.11"56#"81","test80","1080.11","71","test70","1070.11"57#"71","test70","1070.11","29","test28","1028.11"58#"50","test49","1049.11","16","test15","1015.11"59#"45","test44","1044.11","58","test57","1057.11"61#"46","test45","1045.11","39","test38","1038.11"62#"75","test74","1074.11","11","test10","1010.11"63#"93","test92","1092.11","99","test98","1098.11"64#"65","test64","1064.11","35","test34","1034.11"65#"89","test88","1088.11","20","test19","1019.11"66#"44","test43","1043.11","61","test60","1060.11"68#"32","test31","1031.11","81","test80","1080.11"69#"58","test57","1057.11","51","test50","1050.11"70#"96","test95","1095.11","28","test27","1027.11"71#"25","test24","1024.11","44","test43","1043.11"73#"38","test37","1037.11","68","test67","1067.11"74#"49","test48","1048.11","2","test1","1001.11"76#"25","test24","1024.11","33","test32","1032.11"77#"75","test74","1074.11","70","test69","1069.11"78#"22","test21","1021.11","2","test1","1001.11"80#"98","test97","1097.11","9","test8","1008.11"81#"29","test28","1028.11","60","test59","1059.11"83#"49","test48","1048.11","71","test70","1070.11"84#"69","test68","1068.11","80","test79","1079.11"85#"34","test33","1033.11","91","test90","1090.11"88#"34","test33","1033.11","1","test0","1000.11"89#"70","test69","1069.11","51","test50","1050.11"91#"75","test74","1074.11","81","test80","1080.11"92#"76","test75","1075.11","90","test89","1089.11"93#"84","test83","1083.11","47","test46","1046.11"95#"47","test46","1046.11","8","test7","1007.11"96#"56","test55","1055.11","94","test93","1093.11"99#"72","test71","1071.11","47","test46","1046.11"
+
+ enter query ::
+>>>>>entered queryselect spousename from employee where id>20 order by spousename;
+passed query :select spousename from employee where id>20 order by spousename
+
+distinct:0
+token1:employee:
+table_name_num
+countries---->0
+employee---->2
+test55---->1
+table_name_list
+employee
+
+select clause: spousename  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :id>20 order by spousename
+join_clause
+join_att
+join_flag :0
+where sub-clauses: id>20 order by spousename 
+orderby attributes:  spousename
+in wring block
+
+select spousename columnwhere we stop
+att_nos size:1
+select specifies:  5here
+
+ FINAL RESULTS: 
+0#"test47",
+
+ enter query ::
+>>>>>entered queryselect spousename from employee where id>20 and spouseid>10 and sal>1900 and spousesal>1400;
+passed query :select spousename from employee where id>20 and spouseid>10 and sal>1900 and spousesal>1400
+
+distinct:0
+token1:employee:
+table_name_num
+countries---->0
+employee---->2
+test55---->1
+table_name_list
+employee
+
+select clause: spousename  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :id>20 and spouseid>10 and sal>1900 and spousesal>1400
+join_clause
+join_att
+join_flag :0
+where sub-clauses: id>20 spouseid>10 sal>1900 spousesal>1400 
+orderby attributes:  spousename
+in wring block
+
+select spousename columnwhere we stop
+att_nos size:1
+select specifies:  5here
+
+ FINAL RESULTS: 
+
+ enter query ::
+>>>>>entered queryselect * from employee where id>20 and spouseid>10 and sal>1020 and spousesal>1010;
+passed query :select * from employee where id>20 and spouseid>10 and sal>1020 and spousesal>1010
+
+distinct:0
+token1:employee:
+table_name_num
+countries---->0
+employee---->2
+test55---->1
+table_name_list
+employee
+
+select clause: *  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :id>20 and spouseid>10 and sal>1020 and spousesal>1010
+join_clause
+join_att
+join_flag :0
+where sub-clauses: id>20 spouseid>10 sal>1020 spousesal>1010 
+orderby attributes:  *
+
+
+ FINAL RESULTS: 
+0#"82","test81","1081.11","48","test47","1047.11"
+1#"39","test38","1038.11","66","test65","1065.11"
+2#"44","test43","1043.11","82","test81","1081.11"
+3#"76","test75","1075.11","87","test86","1086.11"
+4#"43","test42","1042.11","66","test65","1065.11"
+5#"55","test54","1054.11","91","test90","1090.11"
+6#"75","test74","1074.11","64","test63","1063.11"
+
+
+ enter query ::
+>>>>>entered queryselect * from employee where id>20 and spouseid>10 and sal>1020 and spousesal<1010;
+passed query :select * from employee where id>20 and spouseid>10 and sal>1020 and spousesal<1010
+
+distinct:0
+token1:employee:
+table_name_num
+countries---->0
+employee---->2
+test55---->1
+table_name_list
+employee
+
+select clause: *  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :id>20 and spouseid>10 and sal>1020 and spousesal<1010
+join_clause
+join_att
+join_flag :0
+where sub-clauses: id>20 spouseid>10 sal>1020 spousesal<1010 
+orderby attributes:  *
+
+
+ FINAL RESULTS: 
+
+
+
+
+
+
+
+
+
+ enter query ::
+>>>>>entered queryselect spousename from employee where id>20 and spouseid>10 and sal>1900 and spousesal>1400;
+passed query :select spousename from employee where id>20 and spouseid>10 and sal>1900 and spousesal>1400
+
+distinct:0
+token1:employee:
+table_name_num
+countries---->0
+employee---->2
+test55---->1
+table_name_list
+employee
+
+select clause: spousename  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :id>20 and spouseid>10 and sal>1900 and spousesal>1400
+join_clause
+join_att
+join_flag :0
+where sub-clauses: id>20 spouseid>10 sal>1900 spousesal>1400 
+orderby attributes:  spousename
+in wring block
+
+select spousename columnwhere we stop
+att_nos size:1
+select specifies:  5here
+
+ FINAL RESULTS: 

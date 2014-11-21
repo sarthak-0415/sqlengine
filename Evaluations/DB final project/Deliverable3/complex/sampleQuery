@@ -1,0 +1,17 @@
+1
+2
+6
+Select * from countries
+6
+Select TYPE,NAME from airports
+6
+Select ID from airports where TYPE='small_airport'
+6
+Select ID from airports where TYPE like 'SMALL_Airport'
+6
+Select ID,NAME,CODE,CONTINENT from countries where CONTINENT='OC' or NAME='India' 
+6
+Select ID,NAME from airports order by NAME
+6
+Select NAME,COUNTRY from airports where LATITUDE>=40 and LATITUDE<=42 order by NAME
+0

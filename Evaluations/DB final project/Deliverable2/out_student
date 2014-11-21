@@ -1,0 +1,1724 @@
+
+ enter query ::
+>>>>>entered querycreate table test1(id int,fname varchar(30),lname varchar(50),percent float,class varchar(50),year int);passed query create table test1(id int,fname varchar(30),lname varchar(50),percent float,class varchar(50),year int);
+table already exists
+
+ enter query ::
+>>>>>entered querycreate table test2(id int,fname varchar(40),percent float);passed query create table test2(id int,fname varchar(40),percent float);
+table already exists
+
+ enter query ::
+>>>>>entered querycreate table test3(id int,lname varchar(50),percent float);passed query create table test3(id int,lname varchar(50),percent float);
+table already exists
+
+ enter query ::
+>>>>>entered querycreate table dbs(id int,roll_no int,name varchar(50));passed query create table dbs(id int,roll_no int,name varchar(50));
+table already exists
+
+ enter query ::
+>>>>>entered querycreate table t1(temp int,temp int);passed query create table t1(temp int,temp int);
+table already exists
+
+ enter query ::
+>>>>>entered querycreate table t1(temp int,temp float);passed query create table t1(temp int,temp float);
+table already exists
+
+ enter query ::
+>>>>>entered querycreate table t1(temp int,temp int);passed query create table t1(temp int,temp int);
+table already exists
+
+ enter query ::
+>>>>>entered querycreate table dbs(temp int,temp int);passed query create table dbs(temp int,temp int);
+table already exists
+
+ enter query ::
+>>>>>entered querycreate table t1(varchar int,temp int);passed query create table t1(varchar int,temp int);
+table already exists
+
+ enter query ::
+>>>>>entered querycreate table t1(float int,temp int);passed query create table t1(float int,temp int);
+table already exists
+
+ enter query ::
+>>>>>>>>>entered querycreate table t1(temp integer,temp1 float) 6 select roll_no from dbs where id=1;passed query create table t1(temp integer,temp1 float) 6 select roll_no from dbs where id=1;
+table already exists
+
+ enter query ::
+>>>>>entered queryselect * from dbs;
+passed query :select * from dbs
+
+distinct:0
+token1:dbs:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+dbs
+
+select clause: *  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :
+join_clause
+join_att
+join_flag :0
+orderby attributes:  *
+
+
+ FINAL RESULTS: 
+
+
+ enter query ::
+>>>>>entered queryselect * from abc;
+passed query :select * from abc
+
+distinct:0
+token1:abc:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+abc
+
+Invalid query 2
+ enter query ::
+>>>>>entered queryselect * from test1,test1;
+passed query :select * from test1,test1
+
+distinct:0
+token1:test1,test1:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+test1
+
+select clause: *  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :
+join_clause
+join_att
+join_flag :0
+orderby attributes:  *
+
+
+ FINAL RESULTS: 
+
+
+
+ enter query ::
+>>>>>entered queryselect * from test1,test2,test3;
+passed query :select * from test1,test2,test3
+
+distinct:0
+token1:test1,test2,test3:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+test2
+test3
+
+select clause: *  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :
+join_clause
+join_att
+join_flag :0
+orderby attributes:  *
+
+
+ FINAL RESULTS: 
+
+
+
+
+ enter query ::
+>>>>>entered queryselect abc from test1;
+passed query :select abc from test1
+
+distinct:0
+token1:test1:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+select clause: abc  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :
+join_clause
+join_att
+join_flag :0
+orderby attributes:  abc
+in wring block
+
+select abc columnwhere we stop
+att_nos size:0
+select specifies: here
+
+ FINAL RESULTS: 
+
+ enter query ::
+>>>>>entered queryselect abc from test1,test2,test3;
+passed query :select abc from test1,test2,test3
+
+distinct:0
+token1:test1,test2,test3:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+test2
+test3
+
+select clause: abc  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :
+join_clause
+join_att
+join_flag :0
+orderby attributes:  abc
+in wring block
+
+select abc columnwhere we stop
+att_nos size:0
+select specifies: here
+
+ FINAL RESULTS: 
+
+ enter query ::
+>>>>>entered queryselect (id),(fname) from test1;
+passed query :select (id),(fname
+
+distinct:0
+Invalid query 3
+ enter query ::
+>>>>>entered queryselect test1.id from test1;
+passed query :select test1.id from test1
+
+distinct:0
+token1:test1:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+select clause: test1.id  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :
+join_clause
+join_att
+join_flag :0
+orderby attributes:  test1.id
+in wring block
+
+select test1.id columnwhere we stop
+att_nos size:0
+select specifies: here
+
+ FINAL RESULTS: 
+
+ enter query ::
+>>>>>entered queryselect test2.id from test1;
+passed query :select test2.id from test1
+
+distinct:0
+token1:test1:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+select clause: test2.id  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :
+join_clause
+join_att
+join_flag :0
+orderby attributes:  test2.id
+in wring block
+
+select test2.id columnwhere we stop
+att_nos size:0
+select specifies: here
+
+ FINAL RESULTS: 
+
+ enter query ::
+>>>>>entered queryselect test2.fname from test1,test2,test3;
+passed query :select test2.fname from test1,test2,test3
+
+distinct:0
+token1:test1,test2,test3:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+test2
+test3
+
+select clause: test2.fname  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :
+join_clause
+join_att
+join_flag :0
+orderby attributes:  test2.fname
+in wring block
+
+select test2.fname columnwhere we stop
+att_nos size:0
+select specifies: here
+
+ FINAL RESULTS: 
+
+ enter query ::
+>>>>>entered queryselect id,fname from test1,test2,test3;
+passed query :select id,fname from test1,test2,test3
+
+distinct:0
+token1:test1,test2,test3:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+test2
+test3
+
+select clause: id fname  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :
+join_clause
+join_att
+join_flag :0
+orderby attributes:  id
+fname
+in wring block
+
+select id column
+select fname columnwhere we stop
+att_nos size:1
+select specifies:  1here
+
+ FINAL RESULTS: 
+
+ enter query ::
+>>>>>entered queryselect id,test2.fname,lname from test1,test2,test3;
+passed query :select id,test2.fname,lname from test1,test2,test3
+
+distinct:0
+token1:test1,test2,test3:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+test2
+test3
+
+select clause: id test2.fname lname  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :
+join_clause
+join_att
+join_flag :0
+orderby attributes:  id
+test2.fname
+lname
+in wring block
+
+select id column
+select test2.fname column
+select lname columnwhere we stop
+att_nos size:2
+select specifies:  1 2here
+
+ FINAL RESULTS: 
+
+ enter query ::
+>>>>>entered queryselect * from test1;
+passed query :select * from test1
+
+distinct:0
+token1:test1:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+select clause: *  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :
+join_clause
+join_att
+join_flag :0
+orderby attributes:  *
+
+
+ FINAL RESULTS: 
+
+
+ enter query ::
+>>>>>entered queryselect * from test1,test2,test3;
+passed query :select * from test1,test2,test3
+
+distinct:0
+token1:test1,test2,test3:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+test2
+test3
+
+select clause: *  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :
+join_clause
+join_att
+join_flag :0
+orderby attributes:  *
+
+
+ FINAL RESULTS: 
+
+
+
+
+ enter query ::
+>>>>>entered queryselect *,id from test1;
+passed query :select *,id from test1
+
+distinct:0
+token1:test1:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+select clause: * id  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :
+join_clause
+join_att
+join_flag :0
+orderby attributes:  *
+id
+
+
+ FINAL RESULTS: 
+
+
+ enter query ::
+>>>>>entered queryselect *,id,fname from test1,test2,test3;
+passed query :select *,id,fname from test1,test2,test3
+
+distinct:0
+token1:test1,test2,test3:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+test2
+test3
+
+select clause: * id fname  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :
+join_clause
+join_att
+join_flag :0
+orderby attributes:  *
+id
+fname
+
+
+ FINAL RESULTS: 
+
+
+
+
+ enter query ::
+>>>>>entered queryselect null from test1;
+passed query :select null from test1
+
+distinct:0
+token1:test1:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+select clause: null  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :
+join_clause
+join_att
+join_flag :0
+orderby attributes:  null
+in wring block
+
+select null columnwhere we stop
+att_nos size:0
+select specifies: here
+
+ FINAL RESULTS: 
+
+ enter query ::
+>>>>>entered queryselect null;
+passed query :select null
+
+distinct:0
+Invalid query 3
+ enter query ::
+>>>>>entered queryselect distinct (id),fname,lname from test1;
+passed query :select distinct (id
+
+distinct:1
+Invalid query 3
+ enter query ::
+>>>>>entered queryselect distinct id,fname,lname from test1;
+passed query :select distinct id,fname,lname from test1
+
+distinct:1
+token1:test1:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+select clause: id fname lname  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :
+join_clause
+join_att
+join_flag :0
+orderby attributes:  id
+fname
+lname
+in wring block
+
+select id column
+select fname column
+select lname columnwhere we stop
+att_nos size:3
+select specifies:  1 2 3here
+
+ FINAL RESULTS: 
+
+ enter query ::
+>>>>>entered queryselect distinct (id,fname,lname) from test1;
+passed query :select distinct (id,fname,lname
+
+distinct:1
+Invalid query 3
+ enter query ::
+>>>>>entered queryselect distinct fname,abc from test1;
+passed query :select distinct fname,abc from test1
+
+distinct:1
+token1:test1:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+select clause: fname abc  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :
+join_clause
+join_att
+join_flag :0
+orderby attributes:  fname
+abc
+in wring block
+
+select fname column
+select abc columnwhere we stop
+att_nos size:1
+select specifies:  2here
+
+ FINAL RESULTS: 
+
+ enter query ::
+>>>>>entered queryselect distinct test2.lname ,fname from test1,test2;
+passed query :select distinct test2.lname ,fname from test1,test2
+
+distinct:1
+token1:test1,test2:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+test2
+
+select clause: test2.lname  fname  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :
+join_clause
+join_att
+join_flag :0
+orderby attributes:  test2.lname
+fname
+in wring block
+
+select test2.lname column
+select fname columnwhere we stop
+att_nos size:1
+select specifies:  2here
+
+ FINAL RESULTS: 
+
+ enter query ::
+>>>>>entered queryselect * from test1 where id>5.5;
+passed query :select * from test1 where id>5.5
+
+distinct:0
+token1:test1:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+select clause: *  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :id>5.5
+join_clause
+join_att
+join_flag :0
+where sub-clauses: id>5.5 
+orderby attributes:  *
+
+
+ FINAL RESULTS: 
+
+
+ enter query ::
+>>>>>entered queryselect * from test1 where percent>10;
+passed query :select * from test1 where percent>10
+
+distinct:0
+token1:test1:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+select clause: *  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :percent>10
+join_clause
+join_att
+join_flag :0
+where sub-clauses: percent>10 
+orderby attributes:  *
+
+
+ FINAL RESULTS: 
+
+
+ enter query ::
+>>>>>entered queryselect * from test1 where id like 5.5;
+passed query :select * from test1 where id like 5.5
+
+distinct:0
+token1:test1:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+select clause: *  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :id like 5.5
+join_clause
+join_att
+join_flag :0
+where sub-clauses: id like 5.5 
+orderby attributes:  *
+
+
+ FINAL RESULTS: 
+
+
+ enter query ::
+>>>>>entered queryselect * from test1 where percent like 10;
+passed query :select * from test1 where percent like 10
+
+distinct:0
+token1:test1:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+select clause: *  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :percent like 10
+join_clause
+join_att
+join_flag :0
+where sub-clauses: percent like 10 
+orderby attributes:  *
+
+
+ FINAL RESULTS: 
+
+
+ enter query ::
+>>>>>entered queryselect * from test1 where fname = 'abcd';
+passed query :select * from test1 where fname = 'abcd'
+
+distinct:0
+token1:test1:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+select clause: *  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :fname = 'abcd'
+join_clause
+join_att
+join_flag :0
+where sub-clauses: fname = 'abcd' 
+orderby attributes:  *
+
+
+ FINAL RESULTS: 
+
+
+ enter query ::
+>>>>>entered queryselect * from test1 where fname like 23;
+passed query :select * from test1 where fname like 23
+
+distinct:0
+token1:test1:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+select clause: *  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :fname like 23
+join_clause
+join_att
+join_flag :0
+where sub-clauses: fname like 23 
+orderby attributes:  *
+
+
+ FINAL RESULTS: 
+
+
+ enter query ::
+>>>>>entered queryselect * from test1 where fname like 34.5;
+passed query :select * from test1 where fname like 34.5
+
+distinct:0
+token1:test1:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+select clause: *  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :fname like 34.5
+join_clause
+join_att
+join_flag :0
+where sub-clauses: fname like 34.5 
+orderby attributes:  *
+
+
+ FINAL RESULTS: 
+
+
+ enter query ::
+>>>>>entered queryselect * from test1 where id like 'sdffs';
+passed query :select * from test1 where id like 'sdffs'
+
+distinct:0
+token1:test1:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+select clause: *  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :id like 'sdffs'
+join_clause
+join_att
+join_flag :0
+where sub-clauses: id like 'sdffs' 
+orderby attributes:  *
+
+
+ FINAL RESULTS: 
+
+
+ enter query ::
+>>>>>entered queryselect * from test1 where percent like 'sdffs';
+passed query :select * from test1 where percent like 'sdffs'
+
+distinct:0
+token1:test1:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+select clause: *  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :percent like 'sdffs'
+join_clause
+join_att
+join_flag :0
+where sub-clauses: percent like 'sdffs' 
+orderby attributes:  *
+
+
+ FINAL RESULTS: 
+
+
+ enter query ::
+>>>>>entered queryselect * from test1,test2 where lname='abcd');
+passed query :select * from test1,test2 where lname='abcd'
+
+distinct:0
+token1:test1,test2:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+test2
+
+select clause: *  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :lname='abcd'
+join_clause
+join_att
+join_flag :0
+where sub-clauses: lname='abcd' no such attribute like lnameerror!!
+orderby attributes:  *
+
+
+ FINAL RESULTS: 
+
+ enter query ::
+>>>>>entered queryselect * from test1,test2 where id=1;
+passed query :select * from test1,test2 where id=1
+
+distinct:0
+token1:test1,test2:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+test2
+
+select clause: *  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :id=1
+join_clause
+join_att
+join_flag :0
+where sub-clauses: id=1 
+orderby attributes:  *
+
+
+ FINAL RESULTS: 
+
+
+ enter query ::
+>>>>>entered queryselect * from test1 where roll=45;
+passed query :select * from test1 where roll=45
+
+distinct:0
+token1:test1:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+select clause: *  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :roll=45
+join_clause
+join_att
+join_flag :0
+where sub-clauses: roll=45 no such attribute like rollerror!!
+orderby attributes:  *
+
+
+ FINAL RESULTS: 
+
+ enter query ::
+>>>>>entered queryselect * from test1,test2 where roll=34;
+passed query :select * from test1,test2 where roll=34
+
+distinct:0
+token1:test1,test2:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+test2
+
+select clause: *  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :roll=34
+join_clause
+join_att
+join_flag :0
+where sub-clauses: roll=34 no such attribute like rollerror!!
+orderby attributes:  *
+
+
+ FINAL RESULTS: 
+
+ enter query ::
+>>>>>entered queryselect * from test1,test2 where test1.id=1;
+passed query :select * from test1,test2 where test1.id=1
+
+distinct:0
+token1:test1,test2:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+test2
+
+select clause: *  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :test1.id=1
+join_clause
+join_att
+join_flag :0
+where sub-clauses: test1.id=1 no such attribute like test1.iderror!!
+orderby attributes:  *
+
+
+ FINAL RESULTS: 
+
+ enter query ::
+>>>>>entered queryselect * from test1,test2 where (id)=2;
+passed query :select * from test1,test2 where (id
+
+distinct:0
+token1:test1,test2:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+test2
+
+select clause: *  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :(id
+join_clause
+join_att
+join_flag :0
+where sub-clauses: (id no such attribute like error!!
+orderby attributes:  *
+
+
+ FINAL RESULTS: 
+
+ enter query ::
+>>>>>entered queryselect * from test1 where id<3 and percent<30;
+passed query :select * from test1 where id<3 and percent<30
+
+distinct:0
+token1:test1:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+select clause: *  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :id<3 and percent<30
+join_clause
+join_att
+join_flag :0
+where sub-clauses: id<3 percent<30 
+orderby attributes:  *
+
+
+ FINAL RESULTS: 
+
+
+ enter query ::
+>>>>>entered queryselect * from test1 where id<3 and percent<30;
+passed query :select * from test1 where id<3 and percent<30
+
+distinct:0
+token1:test1:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+select clause: *  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :id<3 and percent<30
+join_clause
+join_att
+join_flag :0
+where sub-clauses: id<3 percent<30 
+orderby attributes:  *
+
+
+ FINAL RESULTS: 
+
+
+ enter query ::
+>>>>>entered queryselect * from test1 where id>3 or percent<30;
+passed query :select * from test1 where id>3 or percent<30
+
+distinct:0
+token1:test1:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+select clause: *  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :id>3 or percent<30
+join_clause
+join_att
+join_flag :0
+where sub-clauses: id>3 percent<30 
+orderby attributes:  *
+
+
+ FINAL RESULTS: 
+
+
+
+ enter query ::
+>>>>>entered queryselect * from test1 where id>3 or percent<30;
+passed query :select * from test1 where id>3 or percent<30
+
+distinct:0
+token1:test1:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+select clause: *  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :id>3 or percent<30
+join_clause
+join_att
+join_flag :0
+where sub-clauses: id>3 percent<30 
+orderby attributes:  *
+
+
+ FINAL RESULTS: 
+
+
+
+ enter query ::
+>>>>>entered queryselect * from test1 where lname like 'cdef';
+passed query :select * from test1 where lname like 'cdef'
+
+distinct:0
+token1:test1:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+select clause: *  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :lname like 'cdef'
+join_clause
+join_att
+join_flag :0
+where sub-clauses: lname like 'cdef' 
+orderby attributes:  *
+
+
+ FINAL RESULTS: 
+
+
+ enter query ::
+>>>>>entered queryselect roll from test1 group by roll;
+passed query :select roll from test1 group by roll
+
+distinct:0
+token1:test1 group by roll:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+select clause: roll  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :
+join_clause
+join_att
+join_flag :0
+orderby attributes:  roll
+in wring block
+
+select roll columnwhere we stop
+att_nos size:0
+select specifies: here
+
+ FINAL RESULTS: 
+
+ enter query ::
+>>>>>entered queryselect id,fname from test1 group by class;
+passed query :select id,fname from test1 group by class
+
+distinct:0
+token1:test1 group by class:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+select clause: id fname  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :
+join_clause
+join_att
+join_flag :0
+orderby attributes:  id
+fname
+in wring block
+
+select id column
+select fname columnwhere we stop
+att_nos size:2
+select specifies:  1 2here
+
+ FINAL RESULTS: 
+
+ enter query ::
+>>>>>entered queryselect class from test1 group by (class);
+passed query :select class from test1 group by (class
+
+distinct:0
+token1:test1 group by (class:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+select clause: class  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :
+join_clause
+join_att
+join_flag :0
+orderby attributes:  class
+in wring block
+
+select class columnwhere we stop
+att_nos size:1
+select specifies:  5here
+
+ FINAL RESULTS: 
+
+ enter query ::
+>>>>>entered queryselect class,year from test1 group by class,year;
+passed query :select class,year from test1 group by class,year
+
+distinct:0
+token1:test1 group by class,year:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+year
+
+Invalid query 2
+ enter query ::
+>>>>>entered queryselect test1.class from test1 group by test1.class, test1.year;
+passed query :select test1.class from test1 group by test1.class, test1.year
+
+distinct:0
+token1:test1 group by test1.class, test1.year:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+
+Invalid query 2
+ enter query ::
+>>>>>entered queryselect year from test1 group by class having class like 'b';
+passed query :select year from test1 group by class having class like 'b'
+
+distinct:0
+token1:test1 group by class :
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+select clause: year  
+orderby_clause :
+having clause :class like 'b'
+groupby clause :
+where clause :
+join_clause
+join_att
+join_flag :0
+orderby attributes:  year
+in wring block
+
+select year columnwhere we stop
+att_nos size:1
+select specifies:  6here
+
+ FINAL RESULTS: 
+
+ enter query ::
+>>>>>entered queryselect class from test1 group by class having year=2012;
+passed query :select class from test1 group by class having year=2012
+
+distinct:0
+token1:test1 group by class :
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+select clause: class  
+orderby_clause :
+having clause :year=2012
+groupby clause :
+where clause :
+join_clause
+join_att
+join_flag :0
+orderby attributes:  class
+in wring block
+
+select class columnwhere we stop
+att_nos size:1
+select specifies:  5here
+
+ FINAL RESULTS: 
+
+ enter query ::
+>>>>>entered queryselect fname from test1 having id<=3;
+passed query :select fname from test1 having id<=3
+
+distinct:0
+token1:test1 :
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+select clause: fname  
+orderby_clause :
+having clause :id<=3
+groupby clause :
+where clause :
+join_clause
+join_att
+join_flag :0
+orderby attributes:  fname
+in wring block
+
+select fname columnwhere we stop
+att_nos size:1
+select specifies:  2here
+
+ FINAL RESULTS: 
+
+ enter query ::
+>>>>>entered queryselect id from test1 having id<=3;
+passed query :select id from test1 having id<=3
+
+distinct:0
+token1:test1 :
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+select clause: id  
+orderby_clause :
+having clause :id<=3
+groupby clause :
+where clause :
+join_clause
+join_att
+join_flag :0
+orderby attributes:  id
+in wring block
+
+select id columnwhere we stop
+att_nos size:1
+select specifies:  1here
+
+ FINAL RESULTS: 
+
+ enter query ::
+>>>>>entered queryselect * from test1 order by roll;
+passed query :select * from test1 order by roll
+
+distinct:0
+token1:test1 order by roll:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+select clause: *  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :
+join_clause
+join_att
+join_flag :0
+orderby attributes:  *
+
+
+ FINAL RESULTS: 
+
+
+ enter query ::
+>>>>>entered queryselect id from test1 order by percent;
+passed query :select id from test1 order by percent
+
+distinct:0
+token1:test1 order by percent:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+select clause: id  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :
+join_clause
+join_att
+join_flag :0
+orderby attributes:  id
+in wring block
+
+select id columnwhere we stop
+att_nos size:1
+select specifies:  1here
+
+ FINAL RESULTS: 
+
+ enter query ::
+>>>>>entered queryselect id,percent from test1 order by percent;
+passed query :select id,percent from test1 order by percent
+
+distinct:0
+token1:test1 order by percent:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+select clause: id percent  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :
+join_clause
+join_att
+join_flag :0
+orderby attributes:  id
+percent
+in wring block
+
+select id column
+select percent columnwhere we stop
+att_nos size:2
+select specifies:  1 4here
+
+ FINAL RESULTS: 
+
+ enter query ::
+>>>>>entered queryselect * from test1 order by year;
+passed query :select * from test1 order by year
+
+distinct:0
+token1:test1 order by year:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+select clause: *  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :
+join_clause
+join_att
+join_flag :0
+orderby attributes:  *
+
+
+ FINAL RESULTS: 
+
+
+ enter query ::
+>>>>>entered queryselect test1.id,test1.percent,test1.year from test1 order by percent,year;
+passed query :select test1.id,test1.percent,test1.year from test1 order by percent,year
+
+distinct:0
+token1:test1 order by percent,year:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+year
+
+Invalid query 2
+ enter query ::
+>>>>>entered queryselect test1.id,test1.percent,test1.year from test1 order by year,percent;
+passed query :select test1.id,test1.percent,test1.year from test1 order by year,percent
+
+distinct:0
+token1:test1 order by year,percent:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+percent
+
+Invalid query 2
+ enter query ::
+>>>>>entered queryselect * from test1 where id<=3 or percent>30 and fname like 'abce';
+passed query :select * from test1 where id<=3 or percent>30 and fname like 'abce'
+
+distinct:0
+token1:test1:
+table_name_num
+dbs---->3
+t1---->4
+test1---->0
+test2---->1
+test3---->2
+table_name_list
+test1
+
+select clause: *  
+orderby_clause :
+having clause :
+groupby clause :
+where clause :id<=3 or percent>30 and fname like 'abce'
+join_clause
+join_att
+join_flag :0
+where sub-clauses: id<=3 or percent>30 fname like 'abce' 

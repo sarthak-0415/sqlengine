@@ -1,0 +1,864 @@
+HH2406T,09,000,STATE - UTTAR PRADESH,Total,Total,"  512,649 ","  120,008 ","  36,386 ","  4,991 ","  32,507 ","  288,089 ","  19,057 ",  797 ,"  2,749 ","  1,429 ","  6,636 "
+HH2406T,09,000,STATE - UTTAR PRADESH,Total,Within the premises,"  220,251 ","  85,357 ","  16,113 ","  1,404 ","  2,486 ","  100,656 ","  14,235 ",  -   ,  -   ,  -   ,  -   
+HH2406T,09,000,STATE - UTTAR PRADESH,Total,Near the premises,"  199,076 ","  27,266 ","  16,160 ","  2,426 ","  17,662 ","  128,559 ","  2,864 ",  274 ,  626 ,  788 ,"  2,451 "
+HH2406T,09,000,STATE - UTTAR PRADESH,Total,Away,"  93,322 ","  7,385 ","  4,113 ","  1,161 ","  12,359 ","  58,874 ","  1,958 ",  523 ,"  2,123 ",  641 ,"  4,185 "
+HH2406T,09,000,STATE - UTTAR PRADESH,Rural,Total,"  359,499 ","  51,297 ","  24,548 ","  3,936 ","  31,658 ","  238,511 ","  2,033 ",  708 ,"  2,660 ",  784 ,"  3,364 "
+HH2406T,09,000,STATE - UTTAR PRADESH,Rural,Within the premises,"  111,116 ","  25,977 ","  9,062 ",  797 ,"  2,259 ","  71,890 ","  1,131 ",  -   ,  -   ,  -   ,  -   
+HH2406T,09,000,STATE - UTTAR PRADESH,Rural,Near the premises,"  168,760 ","  19,743 ","  12,382 ","  2,131 ","  17,247 ","  114,408 ",  520 ,  192 ,  543 ,  386 ,"  1,208 "
+HH2406T,09,000,STATE - UTTAR PRADESH,Rural,Away,"  79,623 ","  5,577 ","  3,104 ","  1,008 ","  12,152 ","  52,213 ",  382 ,  516 ,"  2,117 ",  398 ,"  2,156 "
+HH2406T,09,000,STATE - UTTAR PRADESH,Urban,Total,"  153,150 ","  68,711 ","  11,838 ","  1,055 ",  849 ,"  49,578 ","  17,024 ",  89 ,  89 ,  645 ,"  3,272 "
+HH2406T,09,000,STATE - UTTAR PRADESH,Urban,Within the premises,"  109,135 ","  59,380 ","  7,051 ",  607 ,  227 ,"  28,766 ","  13,104 ",  -   ,  -   ,  -   ,  -   
+HH2406T,09,000,STATE - UTTAR PRADESH,Urban,Near the premises,"  30,316 ","  7,523 ","  3,778 ",  295 ,  415 ,"  14,151 ","  2,344 ",  82 ,  83 ,  402 ,"  1,243 "
+HH2406T,09,000,STATE - UTTAR PRADESH,Urban,Away,"  13,699 ","  1,808 ","  1,009 ",  153 ,  207 ,"  6,661 ","  1,576 ",  7 ,  6 ,  243 ,"  2,029 "
+HH2406T,09,132,District - Saharanpur,Total,Total,"  4,285 ","  1,807 ",  452 ,  12 ,  2 ,"  1,914 ",  24 ,  1 ,  1 ,  31 ,  41 
+HH2406T,09,132,District - Saharanpur,Total,Within the premises,"  3,199 ","  1,708 ",  270 ,  4 ,  1 ,"  1,197 ",  19 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,132,District - Saharanpur,Total,Near the premises,  717 ,  62 ,  161 ,  6 ,  1 ,  434 ,  3 ,  1 ,  1 ,  25 ,  23 
+HH2406T,09,132,District - Saharanpur,Total,Away,  369 ,  37 ,  21 ,  2 ,  -   ,  283 ,  2 ,  -   ,  -   ,  6 ,  18 
+HH2406T,09,132,District - Saharanpur,Rural,Total,"  1,706 ",  333 ,  194 ,  7 ,  -   ,"  1,123 ",  12 ,  -   ,  -   ,  9 ,  28 
+HH2406T,09,132,District - Saharanpur,Rural,Within the premises,  886 ,  274 ,  117 ,  2 ,  -   ,  485 ,  8 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,132,District - Saharanpur,Rural,Near the premises,  473 ,  31 ,  58 ,  3 ,  -   ,  365 ,  2 ,  -   ,  -   ,  3 ,  11 
+HH2406T,09,132,District - Saharanpur,Rural,Away,  347 ,  28 ,  19 ,  2 ,  -   ,  273 ,  2 ,  -   ,  -   ,  6 ,  17 
+HH2406T,09,132,District - Saharanpur,Urban,Total,"  2,579 ","  1,474 ",  258 ,  5 ,  2 ,  791 ,  12 ,  1 ,  1 ,  22 ,  13 
+HH2406T,09,132,District - Saharanpur,Urban,Within the premises,"  2,313 ","  1,434 ",  153 ,  2 ,  1 ,  712 ,  11 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,132,District - Saharanpur,Urban,Near the premises,  244 ,  31 ,  103 ,  3 ,  1 ,  69 ,  1 ,  1 ,  1 ,  22 ,  12 
+HH2406T,09,132,District - Saharanpur,Urban,Away,  22 ,  9 ,  2 ,  -   ,  -   ,  10 ,  -   ,  -   ,  -   ,  -   ,  1 
+HH2406T,09,133,District - Muzaffarnagar,Total,Total,"  6,065 ","  1,691 ",  492 ,  61 ,  2 ,"  3,440 ",  224 ,  4 ,  6 ,  41 ,  104 
+HH2406T,09,133,District - Muzaffarnagar,Total,Within the premises,"  4,139 ","  1,382 ",  230 ,  23 ,  1 ,"  2,306 ",  197 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,133,District - Muzaffarnagar,Total,Near the premises,"  1,390 ",  241 ,  202 ,  16 ,  1 ,  814 ,  19 ,  3 ,  6 ,  26 ,  62 
+HH2406T,09,133,District - Muzaffarnagar,Total,Away,  536 ,  68 ,  60 ,  22 ,  -   ,  320 ,  8 ,  1 ,  -   ,  15 ,  42 
+HH2406T,09,133,District - Muzaffarnagar,Rural,Total,"  3,831 ",  896 ,  324 ,  46 ,  1 ,"  2,403 ",  75 ,  3 ,  5 ,  24 ,  54 
+HH2406T,09,133,District - Muzaffarnagar,Rural,Within the premises,"  2,211 ",  649 ,  122 ,  9 ,  -   ,"  1,367 ",  64 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,133,District - Muzaffarnagar,Rural,Near the premises,"  1,162 ",  184 ,  168 ,  15 ,  1 ,  738 ,  9 ,  2 ,  5 ,  9 ,  31 
+HH2406T,09,133,District - Muzaffarnagar,Rural,Away,  458 ,  63 ,  34 ,  22 ,  -   ,  298 ,  2 ,  1 ,  -   ,  15 ,  23 
+HH2406T,09,133,District - Muzaffarnagar,Urban,Total,"  2,234 ",  795 ,  168 ,  15 ,  1 ,"  1,037 ",  149 ,  1 ,  1 ,  17 ,  50 
+HH2406T,09,133,District - Muzaffarnagar,Urban,Within the premises,"  1,928 ",  733 ,  108 ,  14 ,  1 ,  939 ,  133 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,133,District - Muzaffarnagar,Urban,Near the premises,  228 ,  57 ,  34 ,  1 ,  -   ,  76 ,  10 ,  1 ,  1 ,  17 ,  31 
+HH2406T,09,133,District - Muzaffarnagar,Urban,Away,  78 ,  5 ,  26 ,  -   ,  -   ,  22 ,  6 ,  -   ,  -   ,  -   ,  19 
+HH2406T,09,134,District - Bijnor,Total,Total,"  5,132 ","  1,677 ",  711 ,  33 ,  2 ,"  2,558 ",  85 ,  4 ,  6 ,  4 ,  52 
+HH2406T,09,134,District - Bijnor,Total,Within the premises,"  3,156 ","  1,302 ",  439 ,  17 ,  1 ,"  1,321 ",  76 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,134,District - Bijnor,Total,Near the premises,"  1,492 ",  303 ,  210 ,  13 ,  1 ,  926 ,  9 ,  4 ,  6 ,  4 ,  16 
+HH2406T,09,134,District - Bijnor,Total,Away,  484 ,  72 ,  62 ,  3 ,  -   ,  311 ,  -   ,  -   ,  -   ,  -   ,  36 
+HH2406T,09,134,District - Bijnor,Rural,Total,"  3,668 ","  1,126 ",  519 ,  30 ,  2 ,"  1,911 ",  24 ,  2 ,  5 ,  2 ,  47 
+HH2406T,09,134,District - Bijnor,Rural,Within the premises,"  2,088 ",  826 ,  317 ,  16 ,  1 ,  913 ,  15 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,134,District - Bijnor,Rural,Near the premises,"  1,233 ",  251 ,  153 ,  13 ,  1 ,  784 ,  9 ,  2 ,  5 ,  2 ,  13 
+HH2406T,09,134,District - Bijnor,Rural,Away,  347 ,  49 ,  49 ,  1 ,  -   ,  214 ,  -   ,  -   ,  -   ,  -   ,  34 
+HH2406T,09,134,District - Bijnor,Urban,Total,"  1,464 ",  551 ,  192 ,  3 ,  -   ,  647 ,  61 ,  2 ,  1 ,  2 ,  5 
+HH2406T,09,134,District - Bijnor,Urban,Within the premises,"  1,068 ",  476 ,  122 ,  1 ,  -   ,  408 ,  61 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,134,District - Bijnor,Urban,Near the premises,  259 ,  52 ,  57 ,  -   ,  -   ,  142 ,  -   ,  2 ,  1 ,  2 ,  3 
+HH2406T,09,134,District - Bijnor,Urban,Away,  137 ,  23 ,  13 ,  2 ,  -   ,  97 ,  -   ,  -   ,  -   ,  -   ,  2 
+HH2406T,09,135,District - Moradabad,Total,Total,"  6,486 ","  2,579 ",  624 ,  19 ,  4 ,"  2,816 ",  269 ,  2 ,  2 ,  34 ,  137 
+HH2406T,09,135,District - Moradabad,Total,Within the premises,"  5,057 ","  2,053 ",  515 ,  7 ,  2 ,"  2,278 ",  202 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,135,District - Moradabad,Total,Near the premises,  856 ,  217 ,  96 ,  12 ,  2 ,  389 ,  41 ,  2 ,  1 ,  11 ,  85 
+HH2406T,09,135,District - Moradabad,Total,Away,  573 ,  309 ,  13 ,  -   ,  -   ,  149 ,  26 ,  -   ,  1 ,  23 ,  52 
+HH2406T,09,135,District - Moradabad,Rural,Total,"  2,793 ",  995 ,  239 ,  18 ,  1 ,"  1,440 ",  4 ,  2 ,  1 ,  9 ,  84 
+HH2406T,09,135,District - Moradabad,Rural,Within the premises,"  2,016 ",  815 ,  174 ,  6 ,  1 ,"  1,017 ",  3 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,135,District - Moradabad,Rural,Near the premises,  602 ,  154 ,  54 ,  12 ,  -   ,  297 ,  1 ,  2 ,  -   ,  9 ,  73 
+HH2406T,09,135,District - Moradabad,Rural,Away,  175 ,  26 ,  11 ,  -   ,  -   ,  126 ,  -   ,  -   ,  1 ,  -   ,  11 
+HH2406T,09,135,District - Moradabad,Urban,Total,"  3,693 ","  1,584 ",  385 ,  1 ,  3 ,"  1,376 ",  265 ,  -   ,  1 ,  25 ,  53 
+HH2406T,09,135,District - Moradabad,Urban,Within the premises,"  3,041 ","  1,238 ",  341 ,  1 ,  1 ,"  1,261 ",  199 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,135,District - Moradabad,Urban,Near the premises,  254 ,  63 ,  42 ,  -   ,  2 ,  92 ,  40 ,  -   ,  1 ,  2 ,  12 
+HH2406T,09,135,District - Moradabad,Urban,Away,  398 ,  283 ,  2 ,  -   ,  -   ,  23 ,  26 ,  -   ,  -   ,  23 ,  41 
+HH2406T,09,136,District - Rampur,Total,Total,"  2,857 ",  967 ,  316 ,  20 ,  2 ,"  1,503 ",  18 ,  3 ,  -   ,  3 ,  25 
+HH2406T,09,136,District - Rampur,Total,Within the premises,"  2,364 ",  865 ,  243 ,  16 ,  1 ,"  1,224 ",  15 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,136,District - Rampur,Total,Near the premises,  375 ,  97 ,  67 ,  3 ,  1 ,  184 ,  2 ,  3 ,  -   ,  3 ,  15 
+HH2406T,09,136,District - Rampur,Total,Away,  118 ,  5 ,  6 ,  1 ,  -   ,  95 ,  1 ,  -   ,  -   ,  -   ,  10 
+HH2406T,09,136,District - Rampur,Rural,Total,"  2,051 ",  570 ,  283 ,  15 ,  1 ,"  1,143 ",  8 ,  3 ,  -   ,  3 ,  25 
+HH2406T,09,136,District - Rampur,Rural,Within the premises,"  1,583 ",  476 ,  217 ,  11 ,  1 ,  873 ,  5 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,136,District - Rampur,Rural,Near the premises,  351 ,  89 ,  60 ,  3 ,  -   ,  176 ,  2 ,  3 ,  -   ,  3 ,  15 
+HH2406T,09,136,District - Rampur,Rural,Away,  117 ,  5 ,  6 ,  1 ,  -   ,  94 ,  1 ,  -   ,  -   ,  -   ,  10 
+HH2406T,09,136,District - Rampur,Urban,Total,  806 ,  397 ,  33 ,  5 ,  1 ,  360 ,  10 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,136,District - Rampur,Urban,Within the premises,  781 ,  389 ,  26 ,  5 ,  -   ,  351 ,  10 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,136,District - Rampur,Urban,Near the premises,  24 ,  8 ,  7 ,  -   ,  1 ,  8 ,  -   ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,136,District - Rampur,Urban,Away,  1 ,  -   ,  -   ,  -   ,  -   ,  1 ,  -   ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,137,District - Jyotiba Phule Nagar,Total,Total,"  1,588 ",  763 ,  144 ,  4 ,  -   ,  604 ,  19 ,  -   ,  -   ,  2 ,  52 
+HH2406T,09,137,District - Jyotiba Phule Nagar,Total,Within the premises,"  1,150 ",  637 ,  93 ,  1 ,  -   ,  401 ,  18 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,137,District - Jyotiba Phule Nagar,Total,Near the premises,  274 ,  88 ,  31 ,  2 ,  -   ,  131 ,  1 ,  -   ,  -   ,  2 ,  19 
+HH2406T,09,137,District - Jyotiba Phule Nagar,Total,Away,  164 ,  38 ,  20 ,  1 ,  -   ,  72 ,  -   ,  -   ,  -   ,  -   ,  33 
+HH2406T,09,137,District - Jyotiba Phule Nagar,Rural,Total,"  1,071 ",  493 ,  90 ,  3 ,  -   ,  453 ,  4 ,  -   ,  -   ,  -   ,  28 
+HH2406T,09,137,District - Jyotiba Phule Nagar,Rural,Within the premises,  716 ,  396 ,  54 ,  -   ,  -   ,  262 ,  4 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,137,District - Jyotiba Phule Nagar,Rural,Near the premises,  207 ,  59 ,  18 ,  2 ,  -   ,  124 ,  -   ,  -   ,  -   ,  -   ,  4 
+HH2406T,09,137,District - Jyotiba Phule Nagar,Rural,Away,  148 ,  38 ,  18 ,  1 ,  -   ,  67 ,  -   ,  -   ,  -   ,  -   ,  24 
+HH2406T,09,137,District - Jyotiba Phule Nagar,Urban,Total,  517 ,  270 ,  54 ,  1 ,  -   ,  151 ,  15 ,  -   ,  -   ,  2 ,  24 
+HH2406T,09,137,District - Jyotiba Phule Nagar,Urban,Within the premises,  434 ,  241 ,  39 ,  1 ,  -   ,  139 ,  14 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,137,District - Jyotiba Phule Nagar,Urban,Near the premises,  67 ,  29 ,  13 ,  -   ,  -   ,  7 ,  1 ,  -   ,  -   ,  2 ,  15 
+HH2406T,09,137,District - Jyotiba Phule Nagar,Urban,Away,  16 ,  -   ,  2 ,  -   ,  -   ,  5 ,  -   ,  -   ,  -   ,  -   ,  9 
+HH2406T,09,138,District - Meerut,Total,Total,"  7,506 ","  3,191 ",  708 ,  15 ,  4 ,"  2,863 ",  516 ,  6 ,  -   ,  47 ,  156 
+HH2406T,09,138,District - Meerut,Total,Within the premises,"  6,030 ","  2,878 ",  482 ,  12 ,  4 ,"  2,172 ",  482 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,138,District - Meerut,Total,Near the premises,"  1,121 ",  232 ,  197 ,  3 ,  -   ,  510 ,  28 ,  6 ,  -   ,  47 ,  98 
+HH2406T,09,138,District - Meerut,Total,Away,  355 ,  81 ,  29 ,  -   ,  -   ,  181 ,  6 ,  -   ,  -   ,  -   ,  58 
+HH2406T,09,138,District - Meerut,Rural,Total,"  2,244 ",  461 ,  338 ,  4 ,  -   ,"  1,373 ",  38 ,  1 ,  -   ,  -   ,  29 
+HH2406T,09,138,District - Meerut,Rural,Within the premises,"  1,525 ",  309 ,  220 ,  3 ,  -   ,  961 ,  32 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,138,District - Meerut,Rural,Near the premises,  523 ,  94 ,  99 ,  1 ,  -   ,  305 ,  5 ,  1 ,  -   ,  -   ,  18 
+HH2406T,09,138,District - Meerut,Rural,Away,  196 ,  58 ,  19 ,  -   ,  -   ,  107 ,  1 ,  -   ,  -   ,  -   ,  11 
+HH2406T,09,138,District - Meerut,Urban,Total,"  5,262 ","  2,730 ",  370 ,  11 ,  4 ,"  1,490 ",  478 ,  5 ,  -   ,  47 ,  127 
+HH2406T,09,138,District - Meerut,Urban,Within the premises,"  4,505 ","  2,569 ",  262 ,  9 ,  4 ,"  1,211 ",  450 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,138,District - Meerut,Urban,Near the premises,  598 ,  138 ,  98 ,  2 ,  -   ,  205 ,  23 ,  5 ,  -   ,  47 ,  80 
+HH2406T,09,138,District - Meerut,Urban,Away,  159 ,  23 ,  10 ,  -   ,  -   ,  74 ,  5 ,  -   ,  -   ,  -   ,  47 
+HH2406T,09,139,District - Baghpat,Total,Total,"  1,717 ",  314 ,  211 ,  28 ,  1 ,"  1,027 ",  79 ,  -   ,  1 ,  -   ,  56 
+HH2406T,09,139,District - Baghpat,Total,Within the premises,  679 ,  194 ,  60 ,  6 ,  -   ,  355 ,  64 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,139,District - Baghpat,Total,Near the premises,  717 ,  70 ,  82 ,  20 ,  -   ,  526 ,  12 ,  -   ,  1 ,  -   ,  6 
+HH2406T,09,139,District - Baghpat,Total,Away,  321 ,  50 ,  69 ,  2 ,  1 ,  146 ,  3 ,  -   ,  -   ,  -   ,  50 
+HH2406T,09,139,District - Baghpat,Rural,Total,"  1,326 ",  189 ,  152 ,  28 ,  1 ,  879 ,  53 ,  -   ,  -   ,  -   ,  24 
+HH2406T,09,139,District - Baghpat,Rural,Within the premises,  470 ,  115 ,  16 ,  6 ,  -   ,  291 ,  42 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,139,District - Baghpat,Rural,Near the premises,  627 ,  49 ,  72 ,  20 ,  -   ,  471 ,  11 ,  -   ,  -   ,  -   ,  4 
+HH2406T,09,139,District - Baghpat,Rural,Away,  229 ,  25 ,  64 ,  2 ,  1 ,  117 ,  -   ,  -   ,  -   ,  -   ,  20 
+HH2406T,09,139,District - Baghpat,Urban,Total,  391 ,  125 ,  59 ,  -   ,  -   ,  148 ,  26 ,  -   ,  1 ,  -   ,  32 
+HH2406T,09,139,District - Baghpat,Urban,Within the premises,  209 ,  79 ,  44 ,  -   ,  -   ,  64 ,  22 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,139,District - Baghpat,Urban,Near the premises,  90 ,  21 ,  10 ,  -   ,  -   ,  55 ,  1 ,  -   ,  1 ,  -   ,  2 
+HH2406T,09,139,District - Baghpat,Urban,Away,  92 ,  25 ,  5 ,  -   ,  -   ,  29 ,  3 ,  -   ,  -   ,  -   ,  30 
+HH2406T,09,140,District - Ghaziabad,Total,Total,"  25,064 ","  10,002 ","  1,683 ",  167 ,  26 ,"  8,275 ","  4,133 ",  9 ,  22 ,  110 ,  637 
+HH2406T,09,140,District - Ghaziabad,Total,Within the premises,"  18,820 ","  8,921 ","  1,055 ",  97 ,  21 ,"  5,207 ","  3,519 ",  -   ,  -   ,  -   ,  -   
+HH2406T,09,140,District - Ghaziabad,Total,Near the premises,"  4,107 ",  834 ,  442 ,  52 ,  5 ,"  1,938 ",  561 ,  8 ,  18 ,  37 ,  212 
+HH2406T,09,140,District - Ghaziabad,Total,Away,"  2,137 ",  247 ,  186 ,  18 ,  -   ,"  1,130 ",  53 ,  1 ,  4 ,  73 ,  425 
+HH2406T,09,140,District - Ghaziabad,Rural,Total,"  2,608 ",  536 ,  99 ,  17 ,  -   ,"  1,891 ",  41 ,  -   ,  5 ,  2 ,  17 
+HH2406T,09,140,District - Ghaziabad,Rural,Within the premises,"  1,764 ",  415 ,  54 ,  11 ,  -   ,"  1,246 ",  38 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,140,District - Ghaziabad,Rural,Near the premises,  618 ,  93 ,  37 ,  6 ,  -   ,  469 ,  1 ,  -   ,  3 ,  2 ,  7 
+HH2406T,09,140,District - Ghaziabad,Rural,Away,  226 ,  28 ,  8 ,  -   ,  -   ,  176 ,  2 ,  -   ,  2 ,  -   ,  10 
+HH2406T,09,140,District - Ghaziabad,Urban,Total,"  22,456 ","  9,466 ","  1,584 ",  150 ,  26 ,"  6,384 ","  4,092 ",  9 ,  17 ,  108 ,  620 
+HH2406T,09,140,District - Ghaziabad,Urban,Within the premises,"  17,056 ","  8,506 ","  1,001 ",  86 ,  21 ,"  3,961 ","  3,481 ",  -   ,  -   ,  -   ,  -   
+HH2406T,09,140,District - Ghaziabad,Urban,Near the premises,"  3,489 ",  741 ,  405 ,  46 ,  5 ,"  1,469 ",  560 ,  8 ,  15 ,  35 ,  205 
+HH2406T,09,140,District - Ghaziabad,Urban,Away,"  1,911 ",  219 ,  178 ,  18 ,  -   ,  954 ,  51 ,  1 ,  2 ,  73 ,  415 
+HH2406T,09,141,District - Gautam Buddha Nagar,Total,Total,"  8,512 ","  4,482 ",  968 ,  35 ,  6 ,"  1,871 ","  1,008 ",  3 ,  1 ,  12 ,  126 
+HH2406T,09,141,District - Gautam Buddha Nagar,Total,Within the premises,"  6,915 ","  3,999 ",  675 ,  30 ,  3 ,"  1,307 ",  901 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,141,District - Gautam Buddha Nagar,Total,Near the premises,"  1,189 ",  371 ,  208 ,  3 ,  -   ,  417 ,  95 ,  2 ,  1 ,  10 ,  82 
+HH2406T,09,141,District - Gautam Buddha Nagar,Total,Away,  408 ,  112 ,  85 ,  2 ,  3 ,  147 ,  12 ,  1 ,  -   ,  2 ,  44 
+HH2406T,09,141,District - Gautam Buddha Nagar,Rural,Total,"  1,609 ",  695 ,  143 ,  16 ,  2 ,  646 ,  46 ,  -   ,  1 ,  1 ,  59 
+HH2406T,09,141,District - Gautam Buddha Nagar,Rural,Within the premises,"  1,152 ",  583 ,  56 ,  14 ,  1 ,  456 ,  42 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,141,District - Gautam Buddha Nagar,Rural,Near the premises,  287 ,  81 ,  52 ,  2 ,  -   ,  109 ,  4 ,  -   ,  1 ,  1 ,  37 
+HH2406T,09,141,District - Gautam Buddha Nagar,Rural,Away,  170 ,  31 ,  35 ,  -   ,  1 ,  81 ,  -   ,  -   ,  -   ,  -   ,  22 
+HH2406T,09,141,District - Gautam Buddha Nagar,Urban,Total,"  6,903 ","  3,787 ",  825 ,  19 ,  4 ,"  1,225 ",  962 ,  3 ,  -   ,  11 ,  67 
+HH2406T,09,141,District - Gautam Buddha Nagar,Urban,Within the premises,"  5,763 ","  3,416 ",  619 ,  16 ,  2 ,  851 ,  859 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,141,District - Gautam Buddha Nagar,Urban,Near the premises,  902 ,  290 ,  156 ,  1 ,  -   ,  308 ,  91 ,  2 ,  -   ,  9 ,  45 
+HH2406T,09,141,District - Gautam Buddha Nagar,Urban,Away,  238 ,  81 ,  50 ,  2 ,  2 ,  66 ,  12 ,  1 ,  -   ,  2 ,  22 
+HH2406T,09,142,District - Bulandshahr ,Total,Total,"  4,468 ","  1,100 ",  306 ,  12 ,  3 ,"  2,854 ",  87 ,  -   ,  -   ,  27 ,  79 
+HH2406T,09,142,District - Bulandshahr ,Total,Within the premises,"  3,310 ",  892 ,  170 ,  4 ,  2 ,"  2,164 ",  78 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,142,District - Bulandshahr ,Total,Near the premises,  776 ,  146 ,  87 ,  3 ,  1 ,  481 ,  6 ,  -   ,  -   ,  27 ,  25 
+HH2406T,09,142,District - Bulandshahr ,Total,Away,  382 ,  62 ,  49 ,  5 ,  -   ,  209 ,  3 ,  -   ,  -   ,  -   ,  54 
+HH2406T,09,142,District - Bulandshahr ,Rural,Total,"  2,517 ",  495 ,  169 ,  3 ,  3 ,"  1,784 ",  19 ,  -   ,  -   ,  2 ,  42 
+HH2406T,09,142,District - Bulandshahr ,Rural,Within the premises,"  1,714 ",  369 ,  66 ,  1 ,  2 ,"  1,262 ",  14 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,142,District - Bulandshahr ,Rural,Near the premises,  565 ,  97 ,  68 ,  1 ,  1 ,  380 ,  4 ,  -   ,  -   ,  2 ,  12 
+HH2406T,09,142,District - Bulandshahr ,Rural,Away,  238 ,  29 ,  35 ,  1 ,  -   ,  142 ,  1 ,  -   ,  -   ,  -   ,  30 
+HH2406T,09,142,District - Bulandshahr ,Urban,Total,"  1,951 ",  605 ,  137 ,  9 ,  -   ,"  1,070 ",  68 ,  -   ,  -   ,  25 ,  37 
+HH2406T,09,142,District - Bulandshahr ,Urban,Within the premises,"  1,596 ",  523 ,  104 ,  3 ,  -   ,  902 ,  64 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,142,District - Bulandshahr ,Urban,Near the premises,  211 ,  49 ,  19 ,  2 ,  -   ,  101 ,  2 ,  -   ,  -   ,  25 ,  13 
+HH2406T,09,142,District - Bulandshahr ,Urban,Away,  144 ,  33 ,  14 ,  4 ,  -   ,  67 ,  2 ,  -   ,  -   ,  -   ,  24 
+HH2406T,09,143,District - Aligarh,Total,Total,"  9,346 ","  3,487 ","  1,084 ",  67 ,  10 ,"  3,548 ",  947 ,  2 ,  2 ,  39 ,  160 
+HH2406T,09,143,District - Aligarh,Total,Within the premises,"  5,694 ","  2,735 ",  395 ,  26 ,  3 ,"  1,667 ",  868 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,143,District - Aligarh,Total,Near the premises,"  2,723 ",  578 ,  568 ,  28 ,  7 ,"  1,402 ",  72 ,  2 ,  -   ,  16 ,  50 
+HH2406T,09,143,District - Aligarh,Total,Away,  929 ,  174 ,  121 ,  13 ,  -   ,  479 ,  7 ,  -   ,  2 ,  23 ,  110 
+HH2406T,09,143,District - Aligarh,Rural,Total,"  3,985 ","  1,318 ",  392 ,  39 ,  7 ,"  2,132 ",  40 ,  1 ,  1 ,  -   ,  55 
+HH2406T,09,143,District - Aligarh,Rural,Within the premises,"  2,129 ",  944 ,  113 ,  6 ,  -   ,"  1,032 ",  34 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,143,District - Aligarh,Rural,Near the premises,"  1,304 ",  287 ,  187 ,  22 ,  7 ,  781 ,  5 ,  1 ,  -   ,  -   ,  14 
+HH2406T,09,143,District - Aligarh,Rural,Away,  552 ,  87 ,  92 ,  11 ,  -   ,  319 ,  1 ,  -   ,  1 ,  -   ,  41 
+HH2406T,09,143,District - Aligarh,Urban,Total,"  5,361 ","  2,169 ",  692 ,  28 ,  3 ,"  1,416 ",  907 ,  1 ,  1 ,  39 ,  105 
+HH2406T,09,143,District - Aligarh,Urban,Within the premises,"  3,565 ","  1,791 ",  282 ,  20 ,  3 ,  635 ,  834 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,143,District - Aligarh,Urban,Near the premises,"  1,419 ",  291 ,  381 ,  6 ,  -   ,  621 ,  67 ,  1 ,  -   ,  16 ,  36 
+HH2406T,09,143,District - Aligarh,Urban,Away,  377 ,  87 ,  29 ,  2 ,  -   ,  160 ,  6 ,  -   ,  1 ,  23 ,  69 
+HH2406T,09,144,District - Mahamaya Nagar,Total,Total,"  2,516 ",  828 ,  156 ,  26 ,  9 ,"  1,288 ",  159 ,  -   ,  -   ,  2 ,  48 
+HH2406T,09,144,District - Mahamaya Nagar,Total,Within the premises,"  1,020 ",  430 ,  35 ,  5 ,  4 ,  403 ,  143 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,144,District - Mahamaya Nagar,Total,Near the premises,"  1,087 ",  319 ,  90 ,  15 ,  5 ,  635 ,  8 ,  -   ,  -   ,  2 ,  13 
+HH2406T,09,144,District - Mahamaya Nagar,Total,Away,  409 ,  79 ,  31 ,  6 ,  -   ,  250 ,  8 ,  -   ,  -   ,  -   ,  35 
+HH2406T,09,144,District - Mahamaya Nagar,Rural,Total,"  1,834 ",  498 ,  135 ,  23 ,  6 ,"  1,088 ",  40 ,  -   ,  -   ,  -   ,  44 
+HH2406T,09,144,District - Mahamaya Nagar,Rural,Within the premises,  571 ,  217 ,  28 ,  3 ,  1 ,  294 ,  28 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,144,District - Mahamaya Nagar,Rural,Near the premises,  904 ,  223 ,  80 ,  14 ,  5 ,  566 ,  4 ,  -   ,  -   ,  -   ,  12 
+HH2406T,09,144,District - Mahamaya Nagar,Rural,Away,  359 ,  58 ,  27 ,  6 ,  -   ,  228 ,  8 ,  -   ,  -   ,  -   ,  32 
+HH2406T,09,144,District - Mahamaya Nagar,Urban,Total,  682 ,  330 ,  21 ,  3 ,  3 ,  200 ,  119 ,  -   ,  -   ,  2 ,  4 
+HH2406T,09,144,District - Mahamaya Nagar,Urban,Within the premises,  449 ,  213 ,  7 ,  2 ,  3 ,  109 ,  115 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,144,District - Mahamaya Nagar,Urban,Near the premises,  183 ,  96 ,  10 ,  1 ,  -   ,  69 ,  4 ,  -   ,  -   ,  2 ,  1 
+HH2406T,09,144,District - Mahamaya Nagar,Urban,Away,  50 ,  21 ,  4 ,  -   ,  -   ,  22 ,  -   ,  -   ,  -   ,  -   ,  3 
+HH2406T,09,145,District - Mathura,Total,Total,"  4,209 ","  1,093 ",  348 ,  51 ,  98 ,"  1,998 ",  549 ,  -   ,  2 ,  7 ,  63 
+HH2406T,09,145,District - Mathura,Total,Within the premises,"  2,213 ",  836 ,  104 ,  23 ,  7 ,  804 ,  439 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,145,District - Mathura,Total,Near the premises,"  1,157 ",  186 ,  142 ,  15 ,  22 ,  691 ,  85 ,  -   ,  2 ,  1 ,  13 
+HH2406T,09,145,District - Mathura,Total,Away,  839 ,  71 ,  102 ,  13 ,  69 ,  503 ,  25 ,  -   ,  -   ,  6 ,  50 
+HH2406T,09,145,District - Mathura,Rural,Total,"  2,111 ",  299 ,  119 ,  28 ,  93 ,"  1,375 ",  158 ,  -   ,  -   ,  3 ,  36 
+HH2406T,09,145,District - Mathura,Rural,Within the premises,  786 ,  192 ,  34 ,  12 ,  4 ,  402 ,  142 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,145,District - Mathura,Rural,Near the premises,  704 ,  69 ,  64 ,  6 ,  21 ,  528 ,  10 ,  -   ,  -   ,  -   ,  6 
+HH2406T,09,145,District - Mathura,Rural,Away,  621 ,  38 ,  21 ,  10 ,  68 ,  445 ,  6 ,  -   ,  -   ,  3 ,  30 
+HH2406T,09,145,District - Mathura,Urban,Total,"  2,098 ",  794 ,  229 ,  23 ,  5 ,  623 ,  391 ,  -   ,  2 ,  4 ,  27 
+HH2406T,09,145,District - Mathura,Urban,Within the premises,"  1,427 ",  644 ,  70 ,  11 ,  3 ,  402 ,  297 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,145,District - Mathura,Urban,Near the premises,  453 ,  117 ,  78 ,  9 ,  1 ,  163 ,  75 ,  -   ,  2 ,  1 ,  7 
+HH2406T,09,145,District - Mathura,Urban,Away,  218 ,  33 ,  81 ,  3 ,  1 ,  58 ,  19 ,  -   ,  -   ,  3 ,  20 
+HH2406T,09,146,District - Agra,Total,Total,"  12,294 ","  4,974 ",  781 ,  67 ,  341 ,"  3,947 ","  1,652 ",  3 ,  -   ,  17 ,  512 
+HH2406T,09,146,District - Agra,Total,Within the premises,"  7,103 ","  4,015 ",  359 ,  33 ,  21 ,"  1,459 ","  1,216 ",  -   ,  -   ,  -   ,  -   
+HH2406T,09,146,District - Agra,Total,Near the premises,"  3,208 ",  857 ,  339 ,  26 ,  41 ,"  1,600 ",  212 ,  3 ,  -   ,  9 ,  121 
+HH2406T,09,146,District - Agra,Total,Away,"  1,983 ",  102 ,  83 ,  8 ,  279 ,  888 ,  224 ,  -   ,  -   ,  8 ,  391 
+HH2406T,09,146,District - Agra,Rural,Total,"  3,056 ",  201 ,  135 ,  22 ,  331 ,"  2,033 ",  291 ,  1 ,  -   ,  1 ,  41 
+HH2406T,09,146,District - Agra,Rural,Within the premises,  547 ,  122 ,  27 ,  8 ,  13 ,  295 ,  82 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,146,District - Agra,Rural,Near the premises,"  1,361 ",  47 ,  75 ,  11 ,  39 ,"  1,112 ",  73 ,  1 ,  -   ,  -   ,  3 
+HH2406T,09,146,District - Agra,Rural,Away,"  1,148 ",  32 ,  33 ,  3 ,  279 ,  626 ,  136 ,  -   ,  -   ,  1 ,  38 
+HH2406T,09,146,District - Agra,Urban,Total,"  9,238 ","  4,773 ",  646 ,  45 ,  10 ,"  1,914 ","  1,361 ",  2 ,  -   ,  16 ,  471 
+HH2406T,09,146,District - Agra,Urban,Within the premises,"  6,556 ","  3,893 ",  332 ,  25 ,  8 ,"  1,164 ","  1,134 ",  -   ,  -   ,  -   ,  -   
+HH2406T,09,146,District - Agra,Urban,Near the premises,"  1,847 ",  810 ,  264 ,  15 ,  2 ,  488 ,  139 ,  2 ,  -   ,  9 ,  118 
+HH2406T,09,146,District - Agra,Urban,Away,  835 ,  70 ,  50 ,  5 ,  -   ,  262 ,  88 ,  -   ,  -   ,  7 ,  353 
+HH2406T,09,147,District - Firozabad,Total,Total,"  8,747 ","  2,411 ",  805 ,  66 ,  22 ,"  2,011 ","  2,786 ",  3 ,  10 ,  49 ,  584 
+HH2406T,09,147,District - Firozabad,Total,Within the premises,"  3,318 ","  1,615 ",  412 ,  33 ,  10 ,  352 ,  896 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,147,District - Firozabad,Total,Near the premises,"  3,231 ",  690 ,  344 ,  19 ,  9 ,"  1,259 ",  756 ,  2 ,  9 ,  31 ,  112 
+HH2406T,09,147,District - Firozabad,Total,Away,"  2,198 ",  106 ,  49 ,  14 ,  3 ,  400 ,"  1,134 ",  1 ,  1 ,  18 ,  472 
+HH2406T,09,147,District - Firozabad,Rural,Total,"  2,020 ",  268 ,  131 ,  14 ,  9 ,"  1,537 ",  53 ,  -   ,  4 ,  -   ,  4 
+HH2406T,09,147,District - Firozabad,Rural,Within the premises,  332 ,  68 ,  89 ,  1 ,  -   ,  158 ,  16 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,147,District - Firozabad,Rural,Near the premises,"  1,234 ",  130 ,  28 ,  5 ,  6 ,"  1,036 ",  24 ,  -   ,  4 ,  -   ,  1 
+HH2406T,09,147,District - Firozabad,Rural,Away,  454 ,  70 ,  14 ,  8 ,  3 ,  343 ,  13 ,  -   ,  -   ,  -   ,  3 
+HH2406T,09,147,District - Firozabad,Urban,Total,"  6,727 ","  2,143 ",  674 ,  52 ,  13 ,  474 ,"  2,733 ",  3 ,  6 ,  49 ,  580 
+HH2406T,09,147,District - Firozabad,Urban,Within the premises,"  2,986 ","  1,547 ",  323 ,  32 ,  10 ,  194 ,  880 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,147,District - Firozabad,Urban,Near the premises,"  1,997 ",  560 ,  316 ,  14 ,  3 ,  223 ,  732 ,  2 ,  5 ,  31 ,  111 
+HH2406T,09,147,District - Firozabad,Urban,Away,"  1,744 ",  36 ,  35 ,  6 ,  -   ,  57 ,"  1,121 ",  1 ,  1 ,  18 ,  469 
+HH2406T,09,148,District - Mainpuri,Total,Total,"  2,478 ",  522 ,  115 ,  17 ,  27 ,"  1,748 ",  35 ,  -   ,  -   ,  2 ,  12 
+HH2406T,09,148,District - Mainpuri,Total,Within the premises,"  1,124 ",  316 ,  55 ,  5 ,  3 ,  713 ,  32 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,148,District - Mainpuri,Total,Near the premises,"  1,049 ",  184 ,  49 ,  11 ,  21 ,  776 ,  2 ,  -   ,  -   ,  2 ,  4 
+HH2406T,09,148,District - Mainpuri,Total,Away,  305 ,  22 ,  11 ,  1 ,  3 ,  259 ,  1 ,  -   ,  -   ,  -   ,  8 
+HH2406T,09,148,District - Mainpuri,Rural,Total,"  1,707 ",  258 ,  48 ,  14 ,  26 ,"  1,348 ",  6 ,  -   ,  -   ,  1 ,  6 
+HH2406T,09,148,District - Mainpuri,Rural,Within the premises,  566 ,  88 ,  14 ,  4 ,  3 ,  453 ,  4 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,148,District - Mainpuri,Rural,Near the premises,  913 ,  154 ,  29 ,  9 ,  21 ,  695 ,  1 ,  -   ,  -   ,  1 ,  3 
+HH2406T,09,148,District - Mainpuri,Rural,Away,  228 ,  16 ,  5 ,  1 ,  2 ,  200 ,  1 ,  -   ,  -   ,  -   ,  3 
+HH2406T,09,148,District - Mainpuri,Urban,Total,  771 ,  264 ,  67 ,  3 ,  1 ,  400 ,  29 ,  -   ,  -   ,  1 ,  6 
+HH2406T,09,148,District - Mainpuri,Urban,Within the premises,  558 ,  228 ,  41 ,  1 ,  -   ,  260 ,  28 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,148,District - Mainpuri,Urban,Near the premises,  136 ,  30 ,  20 ,  2 ,  -   ,  81 ,  1 ,  -   ,  -   ,  1 ,  1 
+HH2406T,09,148,District - Mainpuri,Urban,Away,  77 ,  6 ,  6 ,  -   ,  1 ,  59 ,  -   ,  -   ,  -   ,  -   ,  5 
+HH2406T,09,149,District - Budaun,Total,Total,"  3,069 ",  608 ,  323 ,  10 ,  1 ,"  2,035 ",  13 ,  1 ,  3 ,  1 ,  74 
+HH2406T,09,149,District - Budaun,Total,Within the premises,"  2,012 ",  520 ,  180 ,  6 ,  -   ,"  1,295 ",  11 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,149,District - Budaun,Total,Near the premises,  807 ,  78 ,  97 ,  3 ,  -   ,  579 ,  2 ,  1 ,  3 ,  1 ,  43 
+HH2406T,09,149,District - Budaun,Total,Away,  250 ,  10 ,  46 ,  1 ,  1 ,  161 ,  -   ,  -   ,  -   ,  -   ,  31 
+HH2406T,09,149,District - Budaun,Rural,Total,"  2,307 ",  429 ,  124 ,  10 ,  1 ,"  1,679 ",  5 ,  1 ,  3 ,  1 ,  54 
+HH2406T,09,149,District - Budaun,Rural,Within the premises,"  1,440 ",  359 ,  55 ,  6 ,  -   ,"  1,017 ",  3 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,149,District - Budaun,Rural,Near the premises,  687 ,  61 ,  55 ,  3 ,  -   ,  535 ,  2 ,  1 ,  3 ,  1 ,  26 
+HH2406T,09,149,District - Budaun,Rural,Away,  180 ,  9 ,  14 ,  1 ,  1 ,  127 ,  -   ,  -   ,  -   ,  -   ,  28 
+HH2406T,09,149,District - Budaun,Urban,Total,  762 ,  179 ,  199 ,  -   ,  -   ,  356 ,  8 ,  -   ,  -   ,  -   ,  20 
+HH2406T,09,149,District - Budaun,Urban,Within the premises,  572 ,  161 ,  125 ,  -   ,  -   ,  278 ,  8 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,149,District - Budaun,Urban,Near the premises,  120 ,  17 ,  42 ,  -   ,  -   ,  44 ,  -   ,  -   ,  -   ,  -   ,  17 
+HH2406T,09,149,District - Budaun,Urban,Away,  70 ,  1 ,  32 ,  -   ,  -   ,  34 ,  -   ,  -   ,  -   ,  -   ,  3 
+HH2406T,09,150,District - Bareilly,Total,Total,"  7,474 ","  3,253 ",  650 ,  30 ,  5 ,"  3,287 ",  160 ,  3 ,  -   ,  21 ,  65 
+HH2406T,09,150,District - Bareilly,Total,Within the premises,"  6,396 ","  3,061 ",  472 ,  23 ,  3 ,"  2,679 ",  158 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,150,District - Bareilly,Total,Near the premises,  881 ,  177 ,  160 ,  7 ,  1 ,  478 ,  2 ,  3 ,  -   ,  21 ,  32 
+HH2406T,09,150,District - Bareilly,Total,Away,  197 ,  15 ,  18 ,  -   ,  1 ,  130 ,  -   ,  -   ,  -   ,  -   ,  33 
+HH2406T,09,150,District - Bareilly,Rural,Total,"  3,097 ",  954 ,  398 ,  8 ,  2 ,"  1,697 ",  4 ,  1 ,  -   ,  1 ,  32 
+HH2406T,09,150,District - Bareilly,Rural,Within the premises,"  2,340 ",  848 ,  258 ,  4 ,  -   ,"  1,226 ",  4 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,150,District - Bareilly,Rural,Near the premises,  598 ,  93 ,  129 ,  4 ,  1 ,  356 ,  -   ,  1 ,  -   ,  1 ,  13 
+HH2406T,09,150,District - Bareilly,Rural,Away,  159 ,  13 ,  11 ,  -   ,  1 ,  115 ,  -   ,  -   ,  -   ,  -   ,  19 
+HH2406T,09,150,District - Bareilly,Urban,Total,"  4,377 ","  2,299 ",  252 ,  22 ,  3 ,"  1,590 ",  156 ,  2 ,  -   ,  20 ,  33 
+HH2406T,09,150,District - Bareilly,Urban,Within the premises,"  4,056 ","  2,213 ",  214 ,  19 ,  3 ,"  1,453 ",  154 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,150,District - Bareilly,Urban,Near the premises,  283 ,  84 ,  31 ,  3 ,  -   ,  122 ,  2 ,  2 ,  -   ,  20 ,  19 
+HH2406T,09,150,District - Bareilly,Urban,Away,  38 ,  2 ,  7 ,  -   ,  -   ,  15 ,  -   ,  -   ,  -   ,  -   ,  14 
+HH2406T,09,151,District - Pilibhit,Total,Total,"  2,433 ",  706 ,  197 ,  8 ,  -   ,"  1,499 ",  8 ,  1 ,  3 ,  -   ,  11 
+HH2406T,09,151,District - Pilibhit,Total,Within the premises,"  1,749 ",  608 ,  159 ,  6 ,  -   ,  969 ,  7 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,151,District - Pilibhit,Total,Near the premises,  551 ,  69 ,  27 ,  1 ,  -   ,  442 ,  1 ,  1 ,  3 ,  -   ,  7 
+HH2406T,09,151,District - Pilibhit,Total,Away,  133 ,  29 ,  11 ,  1 ,  -   ,  88 ,  -   ,  -   ,  -   ,  -   ,  4 
+HH2406T,09,151,District - Pilibhit,Rural,Total,"  1,840 ",  411 ,  130 ,  7 ,  -   ,"  1,276 ",  6 ,  1 ,  3 ,  -   ,  6 
+HH2406T,09,151,District - Pilibhit,Rural,Within the premises,"  1,217 ",  319 ,  100 ,  5 ,  -   ,  788 ,  5 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,151,District - Pilibhit,Rural,Near the premises,  509 ,  65 ,  22 ,  1 ,  -   ,  412 ,  1 ,  1 ,  3 ,  -   ,  4 
+HH2406T,09,151,District - Pilibhit,Rural,Away,  114 ,  27 ,  8 ,  1 ,  -   ,  76 ,  -   ,  -   ,  -   ,  -   ,  2 
+HH2406T,09,151,District - Pilibhit,Urban,Total,  593 ,  295 ,  67 ,  1 ,  -   ,  223 ,  2 ,  -   ,  -   ,  -   ,  5 
+HH2406T,09,151,District - Pilibhit,Urban,Within the premises,  532 ,  289 ,  59 ,  1 ,  -   ,  181 ,  2 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,151,District - Pilibhit,Urban,Near the premises,  42 ,  4 ,  5 ,  -   ,  -   ,  30 ,  -   ,  -   ,  -   ,  -   ,  3 
+HH2406T,09,151,District - Pilibhit,Urban,Away,  19 ,  2 ,  3 ,  -   ,  -   ,  12 ,  -   ,  -   ,  -   ,  -   ,  2 
+HH2406T,09,152,District - Shahjahanpur,Total,Total,"  3,995 ",  795 ,  414 ,  20 ,  6 ,"  2,696 ",  17 ,  1 ,  6 ,  1 ,  39 
+HH2406T,09,152,District - Shahjahanpur,Total,Within the premises,"  2,709 ",  667 ,  273 ,  11 ,  2 ,"  1,739 ",  17 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,152,District - Shahjahanpur,Total,Near the premises,"  1,000 ",  117 ,  117 ,  2 ,  4 ,  728 ,  -   ,  1 ,  6 ,  -   ,  25 
+HH2406T,09,152,District - Shahjahanpur,Total,Away,  286 ,  11 ,  24 ,  7 ,  -   ,  229 ,  -   ,  -   ,  -   ,  1 ,  14 
+HH2406T,09,152,District - Shahjahanpur,Rural,Total,"  2,585 ",  452 ,  329 ,  9 ,  5 ,"  1,772 ",  3 ,  1 ,  3 ,  -   ,  11 
+HH2406T,09,152,District - Shahjahanpur,Rural,Within the premises,"  1,592 ",  339 ,  225 ,  7 ,  1 ,"  1,017 ",  3 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,152,District - Shahjahanpur,Rural,Near the premises,  787 ,  103 ,  92 ,  -   ,  4 ,  579 ,  -   ,  1 ,  3 ,  -   ,  5 
+HH2406T,09,152,District - Shahjahanpur,Rural,Away,  206 ,  10 ,  12 ,  2 ,  -   ,  176 ,  -   ,  -   ,  -   ,  -   ,  6 
+HH2406T,09,152,District - Shahjahanpur,Urban,Total,"  1,410 ",  343 ,  85 ,  11 ,  1 ,  924 ,  14 ,  -   ,  3 ,  1 ,  28 
+HH2406T,09,152,District - Shahjahanpur,Urban,Within the premises,"  1,117 ",  328 ,  48 ,  4 ,  1 ,  722 ,  14 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,152,District - Shahjahanpur,Urban,Near the premises,  213 ,  14 ,  25 ,  2 ,  -   ,  149 ,  -   ,  -   ,  3 ,  -   ,  20 
+HH2406T,09,152,District - Shahjahanpur,Urban,Away,  80 ,  1 ,  12 ,  5 ,  -   ,  53 ,  -   ,  -   ,  -   ,  1 ,  8 
+HH2406T,09,153,District - Kheri,Total,Total,"  11,786 ","  2,138 ","  1,416 ",  64 ,  76 ,"  7,963 ",  64 ,  2 ,  19 ,  5 ,  39 
+HH2406T,09,153,District - Kheri,Total,Within the premises,"  5,226 ","  1,084 ",  509 ,  29 ,  3 ,"  3,547 ",  54 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,153,District - Kheri,Total,Near the premises,"  5,268 ",  848 ,  811 ,  28 ,  42 ,"  3,491 ",  9 ,  1 ,  13 ,  4 ,  21 
+HH2406T,09,153,District - Kheri,Total,Away,"  1,292 ",  206 ,  96 ,  7 ,  31 ,  925 ,  1 ,  1 ,  6 ,  1 ,  18 
+HH2406T,09,153,District - Kheri,Rural,Total,"  11,058 ","  1,849 ","  1,352 ",  61 ,  75 ,"  7,638 ",  22 ,  2 ,  19 ,  5 ,  35 
+HH2406T,09,153,District - Kheri,Rural,Within the premises,"  4,713 ",  863 ,  477 ,  27 ,  3 ,"  3,331 ",  12 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,153,District - Kheri,Rural,Near the premises,"  5,091 ",  784 ,  781 ,  27 ,  41 ,"  3,412 ",  9 ,  1 ,  13 ,  4 ,  19 
+HH2406T,09,153,District - Kheri,Rural,Away,"  1,254 ",  202 ,  94 ,  7 ,  31 ,  895 ,  1 ,  1 ,  6 ,  1 ,  16 
+HH2406T,09,153,District - Kheri,Urban,Total,  728 ,  289 ,  64 ,  3 ,  1 ,  325 ,  42 ,  -   ,  -   ,  -   ,  4 
+HH2406T,09,153,District - Kheri,Urban,Within the premises,  513 ,  221 ,  32 ,  2 ,  -   ,  216 ,  42 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,153,District - Kheri,Urban,Near the premises,  177 ,  64 ,  30 ,  1 ,  1 ,  79 ,  -   ,  -   ,  -   ,  -   ,  2 
+HH2406T,09,153,District - Kheri,Urban,Away,  38 ,  4 ,  2 ,  -   ,  -   ,  30 ,  -   ,  -   ,  -   ,  -   ,  2 
+HH2406T,09,154,District - Sitapur,Total,Total,"  7,636 ","  1,877 ",  887 ,  66 ,  405 ,"  4,303 ",  47 ,  3 ,  6 ,  11 ,  31 
+HH2406T,09,154,District - Sitapur,Total,Within the premises,"  2,805 ","  1,173 ",  437 ,  10 ,  21 ,"  1,126 ",  38 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,154,District - Sitapur,Total,Near the premises,"  3,326 ",  509 ,  373 ,  48 ,  266 ,"  2,088 ",  8 ,  2 ,  4 ,  11 ,  17 
+HH2406T,09,154,District - Sitapur,Total,Away,"  1,505 ",  195 ,  77 ,  8 ,  118 ,"  1,089 ",  1 ,  1 ,  2 ,  -   ,  14 
+HH2406T,09,154,District - Sitapur,Rural,Total,"  6,757 ","  1,420 ",  845 ,  60 ,  403 ,"  3,984 ",  6 ,  3 ,  6 ,  7 ,  23 
+HH2406T,09,154,District - Sitapur,Rural,Within the premises,"  2,128 ",  748 ,  412 ,  8 ,  21 ,  939 ,  -   ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,154,District - Sitapur,Rural,Near the premises,"  3,169 ",  485 ,  358 ,  44 ,  264 ,"  1,988 ",  5 ,  2 ,  4 ,  7 ,  12 
+HH2406T,09,154,District - Sitapur,Rural,Away,"  1,460 ",  187 ,  75 ,  8 ,  118 ,"  1,057 ",  1 ,  1 ,  2 ,  -   ,  11 
+HH2406T,09,154,District - Sitapur,Urban,Total,  879 ,  457 ,  42 ,  6 ,  2 ,  319 ,  41 ,  -   ,  -   ,  4 ,  8 
+HH2406T,09,154,District - Sitapur,Urban,Within the premises,  677 ,  425 ,  25 ,  2 ,  -   ,  187 ,  38 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,154,District - Sitapur,Urban,Near the premises,  157 ,  24 ,  15 ,  4 ,  2 ,  100 ,  3 ,  -   ,  -   ,  4 ,  5 
+HH2406T,09,154,District - Sitapur,Urban,Away,  45 ,  8 ,  2 ,  -   ,  -   ,  32 ,  -   ,  -   ,  -   ,  -   ,  3 
+HH2406T,09,155,District - Hardoi,Total,Total,"  5,535 ","  1,171 ",  366 ,  68 ,  233 ,"  3,656 ",  15 ,  1 ,  1 ,  2 ,  22 
+HH2406T,09,155,District - Hardoi,Total,Within the premises,"  2,623 ",  800 ,  119 ,  11 ,  39 ,"  1,641 ",  13 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,155,District - Hardoi,Total,Near the premises,"  2,035 ",  300 ,  190 ,  39 ,  135 ,"  1,357 ",  2 ,  1 ,  1 ,  2 ,  8 
+HH2406T,09,155,District - Hardoi,Total,Away,  877 ,  71 ,  57 ,  18 ,  59 ,  658 ,  -   ,  -   ,  -   ,  -   ,  14 
+HH2406T,09,155,District - Hardoi,Rural,Total,"  4,680 ",  896 ,  332 ,  65 ,  233 ,"  3,129 ",  5 ,  1 ,  1 ,  2 ,  16 
+HH2406T,09,155,District - Hardoi,Rural,Within the premises,"  1,952 ",  562 ,  107 ,  10 ,  39 ,"  1,230 ",  4 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,155,District - Hardoi,Rural,Near the premises,"  1,910 ",  271 ,  170 ,  38 ,  135 ,"  1,287 ",  1 ,  1 ,  1 ,  2 ,  4 
+HH2406T,09,155,District - Hardoi,Rural,Away,  818 ,  63 ,  55 ,  17 ,  59 ,  612 ,  -   ,  -   ,  -   ,  -   ,  12 
+HH2406T,09,155,District - Hardoi,Urban,Total,  855 ,  275 ,  34 ,  3 ,  -   ,  527 ,  10 ,  -   ,  -   ,  -   ,  6 
+HH2406T,09,155,District - Hardoi,Urban,Within the premises,  671 ,  238 ,  12 ,  1 ,  -   ,  411 ,  9 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,155,District - Hardoi,Urban,Near the premises,  125 ,  29 ,  20 ,  1 ,  -   ,  70 ,  1 ,  -   ,  -   ,  -   ,  4 
+HH2406T,09,155,District - Hardoi,Urban,Away,  59 ,  8 ,  2 ,  1 ,  -   ,  46 ,  -   ,  -   ,  -   ,  -   ,  2 
+HH2406T,09,156,District - Unnao,Total,Total,"  4,549 ",  676 ,  216 ,  66 ,  241 ,"  3,255 ",  39 ,  -   ,  -   ,  3 ,  53 
+HH2406T,09,156,District - Unnao,Total,Within the premises,"  1,624 ",  323 ,  47 ,  17 ,  18 ,"  1,191 ",  28 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,156,District - Unnao,Total,Near the premises,"  2,268 ",  268 ,  149 ,  39 ,  171 ,"  1,613 ",  9 ,  -   ,  -   ,  3 ,  16 
+HH2406T,09,156,District - Unnao,Total,Away,  657 ,  85 ,  20 ,  10 ,  52 ,  451 ,  2 ,  -   ,  -   ,  -   ,  37 
+HH2406T,09,156,District - Unnao,Rural,Total,"  3,382 ",  427 ,  186 ,  55 ,  232 ,"  2,427 ",  15 ,  -   ,  -   ,  2 ,  38 
+HH2406T,09,156,District - Unnao,Rural,Within the premises,  830 ,  130 ,  32 ,  10 ,  18 ,  634 ,  6 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,156,District - Unnao,Rural,Near the premises,"  1,970 ",  213 ,  139 ,  35 ,  162 ,"  1,399 ",  8 ,  -   ,  -   ,  2 ,  12 
+HH2406T,09,156,District - Unnao,Rural,Away,  582 ,  84 ,  15 ,  10 ,  52 ,  394 ,  1 ,  -   ,  -   ,  -   ,  26 
+HH2406T,09,156,District - Unnao,Urban,Total,"  1,167 ",  249 ,  30 ,  11 ,  9 ,  828 ,  24 ,  -   ,  -   ,  1 ,  15 
+HH2406T,09,156,District - Unnao,Urban,Within the premises,  794 ,  193 ,  15 ,  7 ,  -   ,  557 ,  22 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,156,District - Unnao,Urban,Near the premises,  298 ,  55 ,  10 ,  4 ,  9 ,  214 ,  1 ,  -   ,  -   ,  1 ,  4 
+HH2406T,09,156,District - Unnao,Urban,Away,  75 ,  1 ,  5 ,  -   ,  -   ,  57 ,  1 ,  -   ,  -   ,  -   ,  11 
+HH2406T,09,157,District - Lucknow,Total,Total,"  14,083 ","  7,143 ",  758 ,  74 ,  45 ,"  4,808 ","  1,122 ",  11 ,  12 ,  27 ,  83 
+HH2406T,09,157,District - Lucknow,Total,Within the premises,"  8,330 ","  6,059 ",  342 ,  28 ,  14 ,  928 ,  959 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,157,District - Lucknow,Total,Near the premises,"  4,150 ",  818 ,  339 ,  27 ,  25 ,"  2,712 ",  128 ,  10 ,  11 ,  24 ,  56 
+HH2406T,09,157,District - Lucknow,Total,Away,"  1,603 ",  266 ,  77 ,  19 ,  6 ,"  1,168 ",  35 ,  1 ,  1 ,  3 ,  27 
+HH2406T,09,157,District - Lucknow,Rural,Total,"  3,761 ",  389 ,  117 ,  24 ,  31 ,"  3,114 ",  59 ,  3 ,  3 ,  6 ,  15 
+HH2406T,09,157,District - Lucknow,Rural,Within the premises,  690 ,  147 ,  18 ,  3 ,  4 ,  473 ,  45 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,157,District - Lucknow,Rural,Near the premises,"  2,257 ",  173 ,  88 ,  15 ,  22 ,"  1,926 ",  12 ,  3 ,  3 ,  6 ,  9 
+HH2406T,09,157,District - Lucknow,Rural,Away,  814 ,  69 ,  11 ,  6 ,  5 ,  715 ,  2 ,  -   ,  -   ,  -   ,  6 
+HH2406T,09,157,District - Lucknow,Urban,Total,"  10,322 ","  6,754 ",  641 ,  50 ,  14 ,"  1,694 ","  1,063 ",  8 ,  9 ,  21 ,  68 
+HH2406T,09,157,District - Lucknow,Urban,Within the premises,"  7,640 ","  5,912 ",  324 ,  25 ,  10 ,  455 ,  914 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,157,District - Lucknow,Urban,Near the premises,"  1,893 ",  645 ,  251 ,  12 ,  3 ,  786 ,  116 ,  7 ,  8 ,  18 ,  47 
+HH2406T,09,157,District - Lucknow,Urban,Away,  789 ,  197 ,  66 ,  13 ,  1 ,  453 ,  33 ,  1 ,  1 ,  3 ,  21 
+HH2406T,09,158,District - Rae Bareli,Total,Total,"  5,917 ","  1,483 ",  492 ,  97 ,  486 ,"  3,258 ",  56 ,  6 ,  10 ,  8 ,  21 
+HH2406T,09,158,District - Rae Bareli,Total,Within the premises,"  1,431 ",  591 ,  93 ,  23 ,  39 ,  641 ,  44 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,158,District - Rae Bareli,Total,Near the premises,"  3,319 ",  658 ,  321 ,  52 ,  336 ,"  1,911 ",  9 ,  4 ,  9 ,  6 ,  13 
+HH2406T,09,158,District - Rae Bareli,Total,Away,"  1,167 ",  234 ,  78 ,  22 ,  111 ,  706 ,  3 ,  2 ,  1 ,  2 ,  8 
+HH2406T,09,158,District - Rae Bareli,Rural,Total,"  5,537 ","  1,316 ",  465 ,  96 ,  486 ,"  3,119 ",  16 ,  6 ,  9 ,  8 ,  16 
+HH2406T,09,158,District - Rae Bareli,Rural,Within the premises,"  1,229 ",  475 ,  79 ,  22 ,  39 ,  606 ,  8 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,158,District - Rae Bareli,Rural,Near the premises,"  3,177 ",  624 ,  309 ,  52 ,  336 ,"  1,823 ",  5 ,  4 ,  8 ,  6 ,  10 
+HH2406T,09,158,District - Rae Bareli,Rural,Away,"  1,131 ",  217 ,  77 ,  22 ,  111 ,  690 ,  3 ,  2 ,  1 ,  2 ,  6 
+HH2406T,09,158,District - Rae Bareli,Urban,Total,  380 ,  167 ,  27 ,  1 ,  -   ,  139 ,  40 ,  -   ,  1 ,  -   ,  5 
+HH2406T,09,158,District - Rae Bareli,Urban,Within the premises,  202 ,  116 ,  14 ,  1 ,  -   ,  35 ,  36 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,158,District - Rae Bareli,Urban,Near the premises,  142 ,  34 ,  12 ,  -   ,  -   ,  88 ,  4 ,  -   ,  1 ,  -   ,  3 
+HH2406T,09,158,District - Rae Bareli,Urban,Away,  36 ,  17 ,  1 ,  -   ,  -   ,  16 ,  -   ,  -   ,  -   ,  -   ,  2 
+HH2406T,09,159,District - Farrukhabad,Total,Total,"  2,534 ",  432 ,  152 ,  12 ,  7 ,"  1,845 ",  44 ,  2 ,  3 ,  2 ,  35 
+HH2406T,09,159,District - Farrukhabad,Total,Within the premises,  650 ,  209 ,  28 ,  5 ,  2 ,  366 ,  40 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,159,District - Farrukhabad,Total,Near the premises,"  1,195 ",  149 ,  65 ,  5 ,  5 ,  943 ,  1 ,  2 ,  3 ,  2 ,  20 
+HH2406T,09,159,District - Farrukhabad,Total,Away,  689 ,  74 ,  59 ,  2 ,  -   ,  536 ,  3 ,  -   ,  -   ,  -   ,  15 
+HH2406T,09,159,District - Farrukhabad,Rural,Total,"  1,637 ",  202 ,  123 ,  9 ,  2 ,"  1,254 ",  6 ,  2 ,  3 ,  1 ,  35 
+HH2406T,09,159,District - Farrukhabad,Rural,Within the premises,  288 ,  64 ,  16 ,  3 ,  -   ,  202 ,  3 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,159,District - Farrukhabad,Rural,Near the premises,  851 ,  74 ,  54 ,  5 ,  2 ,  689 ,  1 ,  2 ,  3 ,  1 ,  20 
+HH2406T,09,159,District - Farrukhabad,Rural,Away,  498 ,  64 ,  53 ,  1 ,  -   ,  363 ,  2 ,  -   ,  -   ,  -   ,  15 
+HH2406T,09,159,District - Farrukhabad,Urban,Total,  897 ,  230 ,  29 ,  3 ,  5 ,  591 ,  38 ,  -   ,  -   ,  1 ,  -   
+HH2406T,09,159,District - Farrukhabad,Urban,Within the premises,  362 ,  145 ,  12 ,  2 ,  2 ,  164 ,  37 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,159,District - Farrukhabad,Urban,Near the premises,  344 ,  75 ,  11 ,  -   ,  3 ,  254 ,  -   ,  -   ,  -   ,  1 ,  -   
+HH2406T,09,159,District - Farrukhabad,Urban,Away,  191 ,  10 ,  6 ,  1 ,  -   ,  173 ,  1 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,160,District - Kannauj,Total,Total,"  3,017 ",  527 ,  162 ,  48 ,  5 ,"  2,190 ",  46 ,  2 ,  -   ,  10 ,  27 
+HH2406T,09,160,District - Kannauj,Total,Within the premises,  697 ,  267 ,  53 ,  6 ,  -   ,  341 ,  30 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,160,District - Kannauj,Total,Near the premises,"  1,570 ",  190 ,  79 ,  29 ,  5 ,"  1,235 ",  7 ,  2 ,  -   ,  8 ,  15 
+HH2406T,09,160,District - Kannauj,Total,Away,  750 ,  70 ,  30 ,  13 ,  -   ,  614 ,  9 ,  -   ,  -   ,  2 ,  12 
+HH2406T,09,160,District - Kannauj,Rural,Total,"  2,532 ",  299 ,  119 ,  45 ,  4 ,"  1,988 ",  43 ,  2 ,  -   ,  7 ,  25 
+HH2406T,09,160,District - Kannauj,Rural,Within the premises,  446 ,  78 ,  29 ,  5 ,  -   ,  307 ,  27 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,160,District - Kannauj,Rural,Near the premises,"  1,405 ",  154 ,  69 ,  28 ,  4 ,"  1,122 ",  7 ,  2 ,  -   ,  5 ,  14 
+HH2406T,09,160,District - Kannauj,Rural,Away,  681 ,  67 ,  21 ,  12 ,  -   ,  559 ,  9 ,  -   ,  -   ,  2 ,  11 
+HH2406T,09,160,District - Kannauj,Urban,Total,  485 ,  228 ,  43 ,  3 ,  1 ,  202 ,  3 ,  -   ,  -   ,  3 ,  2 
+HH2406T,09,160,District - Kannauj,Urban,Within the premises,  251 ,  189 ,  24 ,  1 ,  -   ,  34 ,  3 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,160,District - Kannauj,Urban,Near the premises,  165 ,  36 ,  10 ,  1 ,  1 ,  113 ,  -   ,  -   ,  -   ,  3 ,  1 
+HH2406T,09,160,District - Kannauj,Urban,Away,  69 ,  3 ,  9 ,  1 ,  -   ,  55 ,  -   ,  -   ,  -   ,  -   ,  1 
+HH2406T,09,161,District - Etawah,Total,Total,"  1,877 ",  332 ,  128 ,  16 ,  53 ,"  1,300 ",  35 ,  2 ,  -   ,  4 ,  7 
+HH2406T,09,161,District - Etawah,Total,Within the premises,  517 ,  221 ,  62 ,  2 ,  3 ,  203 ,  26 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,161,District - Etawah,Total,Near the premises,  952 ,  81 ,  58 ,  8 ,  37 ,  755 ,  8 ,  2 ,  -   ,  3 ,  -   
+HH2406T,09,161,District - Etawah,Total,Away,  408 ,  30 ,  8 ,  6 ,  13 ,  342 ,  1 ,  -   ,  -   ,  1 ,  7 
+HH2406T,09,161,District - Etawah,Rural,Total,"  1,382 ",  97 ,  53 ,  16 ,  52 ,"  1,152 ",  4 ,  -   ,  -   ,  3 ,  5 
+HH2406T,09,161,District - Etawah,Rural,Within the premises,  214 ,  27 ,  10 ,  2 ,  2 ,  171 ,  2 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,161,District - Etawah,Rural,Near the premises,  802 ,  43 ,  39 ,  8 ,  37 ,  671 ,  2 ,  -   ,  -   ,  2 ,  -   
+HH2406T,09,161,District - Etawah,Rural,Away,  366 ,  27 ,  4 ,  6 ,  13 ,  310 ,  -   ,  -   ,  -   ,  1 ,  5 
+HH2406T,09,161,District - Etawah,Urban,Total,  495 ,  235 ,  75 ,  -   ,  1 ,  148 ,  31 ,  2 ,  -   ,  1 ,  2 
+HH2406T,09,161,District - Etawah,Urban,Within the premises,  303 ,  194 ,  52 ,  -   ,  1 ,  32 ,  24 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,161,District - Etawah,Urban,Near the premises,  150 ,  38 ,  19 ,  -   ,  -   ,  84 ,  6 ,  2 ,  -   ,  1 ,  -   
+HH2406T,09,161,District - Etawah,Urban,Away,  42 ,  3 ,  4 ,  -   ,  -   ,  32 ,  1 ,  -   ,  -   ,  -   ,  2 
+HH2406T,09,162,District - Auraiya,Total,Total,"  1,561 ",  203 ,  142 ,  16 ,  42 ,"  1,143 ",  9 ,  -   ,  3 ,  -   ,  3 
+HH2406T,09,162,District - Auraiya,Total,Within the premises,  349 ,  102 ,  20 ,  5 ,  9 ,  205 ,  8 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,162,District - Auraiya,Total,Near the premises,  900 ,  83 ,  113 ,  5 ,  22 ,  673 ,  1 ,  -   ,  2 ,  -   ,  1 
+HH2406T,09,162,District - Auraiya,Total,Away,  312 ,  18 ,  9 ,  6 ,  11 ,  265 ,  -   ,  -   ,  1 ,  -   ,  2 
+HH2406T,09,162,District - Auraiya,Rural,Total,"  1,409 ",  131 ,  130 ,  10 ,  42 ,"  1,088 ",  3 ,  -   ,  3 ,  -   ,  2 
+HH2406T,09,162,District - Auraiya,Rural,Within the premises,  247 ,  49 ,  13 ,  3 ,  9 ,  171 ,  2 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,162,District - Auraiya,Rural,Near the premises,  857 ,  65 ,  108 ,  3 ,  22 ,  656 ,  1 ,  -   ,  2 ,  -   ,  -   
+HH2406T,09,162,District - Auraiya,Rural,Away,  305 ,  17 ,  9 ,  4 ,  11 ,  261 ,  -   ,  -   ,  1 ,  -   ,  2 
+HH2406T,09,162,District - Auraiya,Urban,Total,  152 ,  72 ,  12 ,  6 ,  -   ,  55 ,  6 ,  -   ,  -   ,  -   ,  1 
+HH2406T,09,162,District - Auraiya,Urban,Within the premises,  102 ,  53 ,  7 ,  2 ,  -   ,  34 ,  6 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,162,District - Auraiya,Urban,Near the premises,  43 ,  18 ,  5 ,  2 ,  -   ,  17 ,  -   ,  -   ,  -   ,  -   ,  1 
+HH2406T,09,162,District - Auraiya,Urban,Away,  7 ,  1 ,  -   ,  2 ,  -   ,  4 ,  -   ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,163,District - Kanpur Dehat,Total,Total,"  3,360 ",  492 ,  101 ,  68 ,  225 ,"  2,428 ",  11 ,  2 ,  11 ,  6 ,  16 
+HH2406T,09,163,District - Kanpur Dehat,Total,Within the premises,  727 ,  194 ,  27 ,  9 ,  11 ,  480 ,  6 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,163,District - Kanpur Dehat,Total,Near the premises,"  1,721 ",  202 ,  55 ,  51 ,  119 ,"  1,267 ",  4 ,  2 ,  10 ,  3 ,  8 
+HH2406T,09,163,District - Kanpur Dehat,Total,Away,  912 ,  96 ,  19 ,  8 ,  95 ,  681 ,  1 ,  -   ,  1 ,  3 ,  8 
+HH2406T,09,163,District - Kanpur Dehat,Rural,Total,"  3,049 ",  429 ,  81 ,  66 ,  222 ,"  2,217 ",  9 ,  2 ,  3 ,  6 ,  14 
+HH2406T,09,163,District - Kanpur Dehat,Rural,Within the premises,  523 ,  146 ,  14 ,  8 ,  10 ,  341 ,  4 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,163,District - Kanpur Dehat,Rural,Near the premises,"  1,638 ",  189 ,  50 ,  50 ,  119 ,"  1,212 ",  4 ,  2 ,  2 ,  3 ,  7 
+HH2406T,09,163,District - Kanpur Dehat,Rural,Away,  888 ,  94 ,  17 ,  8 ,  93 ,  664 ,  1 ,  -   ,  1 ,  3 ,  7 
+HH2406T,09,163,District - Kanpur Dehat,Urban,Total,  311 ,  63 ,  20 ,  2 ,  3 ,  211 ,  2 ,  -   ,  8 ,  -   ,  2 
+HH2406T,09,163,District - Kanpur Dehat,Urban,Within the premises,  204 ,  48 ,  13 ,  1 ,  1 ,  139 ,  2 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,163,District - Kanpur Dehat,Urban,Near the premises,  83 ,  13 ,  5 ,  1 ,  -   ,  55 ,  -   ,  -   ,  8 ,  -   ,  1 
+HH2406T,09,163,District - Kanpur Dehat,Urban,Away,  24 ,  2 ,  2 ,  -   ,  2 ,  17 ,  -   ,  -   ,  -   ,  -   ,  1 
+HH2406T,09,164,District - Kanpur Nagar,Total,Total,"  18,064 ","  5,779 ","  1,081 ",  92 ,  98 ,"  8,479 ","  2,295 ",  18 ,  7 ,  50 ,  165 
+HH2406T,09,164,District - Kanpur Nagar,Total,Within the premises,"  9,590 ","  4,802 ",  669 ,  33 ,  20 ,"  2,209 ","  1,857 ",  -   ,  -   ,  -   ,  -   
+HH2406T,09,164,District - Kanpur Nagar,Total,Near the premises,"  6,563 ",  865 ,  315 ,  43 ,  59 ,"  4,804 ",  322 ,  17 ,  7 ,  43 ,  88 
+HH2406T,09,164,District - Kanpur Nagar,Total,Away,"  1,911 ",  112 ,  97 ,  16 ,  19 ,"  1,466 ",  116 ,  1 ,  -   ,  7 ,  77 
+HH2406T,09,164,District - Kanpur Nagar,Rural,Total,"  2,578 ",  219 ,  39 ,  16 ,  62 ,"  2,225 ",  13 ,  3 ,  -   ,  -   ,  1 
+HH2406T,09,164,District - Kanpur Nagar,Rural,Within the premises,  410 ,  67 ,  5 ,  5 ,  4 ,  326 ,  3 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,164,District - Kanpur Nagar,Rural,Near the premises,"  1,674 ",  140 ,  24 ,  8 ,  39 ,"  1,450 ",  10 ,  2 ,  -   ,  -   ,  1 
+HH2406T,09,164,District - Kanpur Nagar,Rural,Away,  494 ,  12 ,  10 ,  3 ,  19 ,  449 ,  -   ,  1 ,  -   ,  -   ,  -   
+HH2406T,09,164,District - Kanpur Nagar,Urban,Total,"  15,486 ","  5,560 ","  1,042 ",  76 ,  36 ,"  6,254 ","  2,282 ",  15 ,  7 ,  50 ,  164 
+HH2406T,09,164,District - Kanpur Nagar,Urban,Within the premises,"  9,180 ","  4,735 ",  664 ,  28 ,  16 ,"  1,883 ","  1,854 ",  -   ,  -   ,  -   ,  -   
+HH2406T,09,164,District - Kanpur Nagar,Urban,Near the premises,"  4,889 ",  725 ,  291 ,  35 ,  20 ,"  3,354 ",  312 ,  15 ,  7 ,  43 ,  87 
+HH2406T,09,164,District - Kanpur Nagar,Urban,Away,"  1,417 ",  100 ,  87 ,  13 ,  -   ,"  1,017 ",  116 ,  -   ,  -   ,  7 ,  77 
+HH2406T,09,165,District - Jalaun ,Total,Total,"  2,169 ",  311 ,  96 ,  12 ,  90 ,"  1,644 ",  3 ,  -   ,  -   ,  1 ,  12 
+HH2406T,09,165,District - Jalaun ,Total,Within the premises,  755 ,  153 ,  20 ,  4 ,  5 ,  571 ,  2 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,165,District - Jalaun ,Total,Near the premises,"  1,109 ",  135 ,  53 ,  8 ,  60 ,  843 ,  1 ,  -   ,  -   ,  1 ,  8 
+HH2406T,09,165,District - Jalaun ,Total,Away,  305 ,  23 ,  23 ,  -   ,  25 ,  230 ,  -   ,  -   ,  -   ,  -   ,  4 
+HH2406T,09,165,District - Jalaun ,Rural,Total,"  1,571 ",  171 ,  57 ,  10 ,  88 ,"  1,243 ",  1 ,  -   ,  -   ,  1 ,  -   
+HH2406T,09,165,District - Jalaun ,Rural,Within the premises,  395 ,  61 ,  3 ,  2 ,  5 ,  324 ,  -   ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,165,District - Jalaun ,Rural,Near the premises,  907 ,  88 ,  31 ,  8 ,  58 ,  720 ,  1 ,  -   ,  -   ,  1 ,  -   
+HH2406T,09,165,District - Jalaun ,Rural,Away,  269 ,  22 ,  23 ,  -   ,  25 ,  199 ,  -   ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,165,District - Jalaun ,Urban,Total,  598 ,  140 ,  39 ,  2 ,  2 ,  401 ,  2 ,  -   ,  -   ,  -   ,  12 
+HH2406T,09,165,District - Jalaun ,Urban,Within the premises,  360 ,  92 ,  17 ,  2 ,  -   ,  247 ,  2 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,165,District - Jalaun ,Urban,Near the premises,  202 ,  47 ,  22 ,  -   ,  2 ,  123 ,  -   ,  -   ,  -   ,  -   ,  8 
+HH2406T,09,165,District - Jalaun ,Urban,Away,  36 ,  1 ,  -   ,  -   ,  -   ,  31 ,  -   ,  -   ,  -   ,  -   ,  4 
+HH2406T,09,166,District - Jhansi,Total,Total,"  6,372 ","  1,719 ",  322 ,  148 ,  449 ,"  3,411 ",  145 ,  7 ,  3 ,  37 ,  131 
+HH2406T,09,166,District - Jhansi,Total,Within the premises,"  2,501 ","  1,418 ",  104 ,  43 ,  57 ,  760 ,  119 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,166,District - Jhansi,Total,Near the premises,"  2,658 ",  228 ,  169 ,  75 ,  232 ,"  1,874 ",  20 ,  5 ,  3 ,  21 ,  31 
+HH2406T,09,166,District - Jhansi,Total,Away,"  1,213 ",  73 ,  49 ,  30 ,  160 ,  777 ,  6 ,  2 ,  -   ,  16 ,  100 
+HH2406T,09,166,District - Jhansi,Rural,Total,"  2,932 ",  199 ,  118 ,  72 ,  351 ,"  2,148 ",  21 ,  -   ,  2 ,  7 ,  14 
+HH2406T,09,166,District - Jhansi,Rural,Within the premises,  385 ,  78 ,  18 ,  10 ,  32 ,  239 ,  8 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,166,District - Jhansi,Rural,Near the premises,"  1,790 ",  83 ,  81 ,  46 ,  170 ,"  1,383 ",  10 ,  -   ,  2 ,  4 ,  11 
+HH2406T,09,166,District - Jhansi,Rural,Away,  757 ,  38 ,  19 ,  16 ,  149 ,  526 ,  3 ,  -   ,  -   ,  3 ,  3 
+HH2406T,09,166,District - Jhansi,Urban,Total,"  3,440 ","  1,520 ",  204 ,  76 ,  98 ,"  1,263 ",  124 ,  7 ,  1 ,  30 ,  117 
+HH2406T,09,166,District - Jhansi,Urban,Within the premises,"  2,116 ","  1,340 ",  86 ,  33 ,  25 ,  521 ,  111 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,166,District - Jhansi,Urban,Near the premises,  868 ,  145 ,  88 ,  29 ,  62 ,  491 ,  10 ,  5 ,  1 ,  17 ,  20 
+HH2406T,09,166,District - Jhansi,Urban,Away,  456 ,  35 ,  30 ,  14 ,  11 ,  251 ,  3 ,  2 ,  -   ,  13 ,  97 
+HH2406T,09,167,District - Lalitpur,Total,Total,"  15,123 ",  199 ,  58 ,  72 ,"  1,842 ","  12,800 ",  21 ,  8 ,  100 ,  20 ,  3 
+HH2406T,09,167,District - Lalitpur,Total,Within the premises,  346 ,  69 ,  5 ,  8 ,  44 ,  211 ,  9 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,167,District - Lalitpur,Total,Near the premises,"  8,590 ",  77 ,  40 ,  41 ,  458 ,"  7,958 ",  10 ,  1 ,  2 ,  1 ,  2 
+HH2406T,09,167,District - Lalitpur,Total,Away,"  6,187 ",  53 ,  13 ,  23 ,"  1,340 ","  4,631 ",  2 ,  7 ,  98 ,  19 ,  1 
+HH2406T,09,167,District - Lalitpur,Rural,Total,"  14,636 ",  135 ,  49 ,  67 ,"  1,830 ","  12,408 ",  16 ,  8 ,  100 ,  20 ,  3 
+HH2406T,09,167,District - Lalitpur,Rural,Within the premises,  271 ,  28 ,  1 ,  4 ,  38 ,  196 ,  4 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,167,District - Lalitpur,Rural,Near the premises,"  8,431 ",  62 ,  35 ,  40 ,  453 ,"  7,825 ",  10 ,  1 ,  2 ,  1 ,  2 
+HH2406T,09,167,District - Lalitpur,Rural,Away,"  5,934 ",  45 ,  13 ,  23 ,"  1,339 ","  4,387 ",  2 ,  7 ,  98 ,  19 ,  1 
+HH2406T,09,167,District - Lalitpur,Urban,Total,  487 ,  64 ,  9 ,  5 ,  12 ,  392 ,  5 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,167,District - Lalitpur,Urban,Within the premises,  75 ,  41 ,  4 ,  4 ,  6 ,  15 ,  5 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,167,District - Lalitpur,Urban,Near the premises,  159 ,  15 ,  5 ,  1 ,  5 ,  133 ,  -   ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,167,District - Lalitpur,Urban,Away,  253 ,  8 ,  -   ,  -   ,  1 ,  244 ,  -   ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,168,District - Hamirpur,Total,Total,"  1,364 ",  281 ,  105 ,  9 ,  38 ,  912 ,  6 ,  3 ,  1 ,  -   ,  9 
+HH2406T,09,168,District - Hamirpur,Total,Within the premises,  336 ,  184 ,  60 ,  -   ,  -   ,  91 ,  1 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,168,District - Hamirpur,Total,Near the premises,  717 ,  78 ,  42 ,  8 ,  21 ,  556 ,  2 ,  3 ,  1 ,  -   ,  6 
+HH2406T,09,168,District - Hamirpur,Total,Away,  311 ,  19 ,  3 ,  1 ,  17 ,  265 ,  3 ,  -   ,  -   ,  -   ,  3 
+HH2406T,09,168,District - Hamirpur,Rural,Total,  922 ,  117 ,  32 ,  8 ,  38 ,  713 ,  5 ,  3 ,  -   ,  -   ,  6 
+HH2406T,09,168,District - Hamirpur,Rural,Within the premises,  96 ,  53 ,  5 ,  -   ,  -   ,  38 ,  -   ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,168,District - Hamirpur,Rural,Near the premises,  587 ,  50 ,  24 ,  8 ,  21 ,  474 ,  2 ,  3 ,  -   ,  -   ,  5 
+HH2406T,09,168,District - Hamirpur,Rural,Away,  239 ,  14 ,  3 ,  -   ,  17 ,  201 ,  3 ,  -   ,  -   ,  -   ,  1 
+HH2406T,09,168,District - Hamirpur,Urban,Total,  442 ,  164 ,  73 ,  1 ,  -   ,  199 ,  1 ,  -   ,  1 ,  -   ,  3 
+HH2406T,09,168,District - Hamirpur,Urban,Within the premises,  240 ,  131 ,  55 ,  -   ,  -   ,  53 ,  1 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,168,District - Hamirpur,Urban,Near the premises,  130 ,  28 ,  18 ,  -   ,  -   ,  82 ,  -   ,  -   ,  1 ,  -   ,  1 
+HH2406T,09,168,District - Hamirpur,Urban,Away,  72 ,  5 ,  -   ,  1 ,  -   ,  64 ,  -   ,  -   ,  -   ,  -   ,  2 
+HH2406T,09,169,District - Mahoba,Total,Total,"  1,558 ",  134 ,  48 ,  19 ,  121 ,"  1,098 ",  46 ,  3 ,  2 ,  3 ,  84 
+HH2406T,09,169,District - Mahoba,Total,Within the premises,  218 ,  72 ,  7 ,  -   ,  18 ,  88 ,  33 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,169,District - Mahoba,Total,Near the premises,  932 ,  52 ,  36 ,  16 ,  74 ,  694 ,  13 ,  3 ,  2 ,  2 ,  40 
+HH2406T,09,169,District - Mahoba,Total,Away,  408 ,  10 ,  5 ,  3 ,  29 ,  316 ,  -   ,  -   ,  -   ,  1 ,  44 
+HH2406T,09,169,District - Mahoba,Rural,Total,  950 ,  35 ,  31 ,  8 ,  111 ,  679 ,  7 ,  1 ,  -   ,  2 ,  76 
+HH2406T,09,169,District - Mahoba,Rural,Within the premises,  58 ,  12 ,  4 ,  -   ,  13 ,  28 ,  1 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,169,District - Mahoba,Rural,Near the premises,  615 ,  20 ,  24 ,  6 ,  70 ,  454 ,  6 ,  1 ,  -   ,  1 ,  33 
+HH2406T,09,169,District - Mahoba,Rural,Away,  277 ,  3 ,  3 ,  2 ,  28 ,  197 ,  -   ,  -   ,  -   ,  1 ,  43 
+HH2406T,09,169,District - Mahoba,Urban,Total,  608 ,  99 ,  17 ,  11 ,  10 ,  419 ,  39 ,  2 ,  2 ,  1 ,  8 
+HH2406T,09,169,District - Mahoba,Urban,Within the premises,  160 ,  60 ,  3 ,  -   ,  5 ,  60 ,  32 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,169,District - Mahoba,Urban,Near the premises,  317 ,  32 ,  12 ,  10 ,  4 ,  240 ,  7 ,  2 ,  2 ,  1 ,  7 
+HH2406T,09,169,District - Mahoba,Urban,Away,  131 ,  7 ,  2 ,  1 ,  1 ,  119 ,  -   ,  -   ,  -   ,  -   ,  1 
+HH2406T,09,170,District - Banda,Total,Total,"  1,951 ",  381 ,  110 ,  21 ,  91 ,"  1,325 ",  11 ,  -   ,  4 ,  3 ,  5 
+HH2406T,09,170,District - Banda,Total,Within the premises,  509 ,  267 ,  26 ,  2 ,  8 ,  199 ,  7 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,170,District - Banda,Total,Near the premises,"  1,110 ",  86 ,  39 ,  12 ,  61 ,  901 ,  4 ,  -   ,  -   ,  3 ,  4 
+HH2406T,09,170,District - Banda,Total,Away,  332 ,  28 ,  45 ,  7 ,  22 ,  225 ,  -   ,  -   ,  4 ,  -   ,  1 
+HH2406T,09,170,District - Banda,Rural,Total,"  1,373 ",  118 ,  77 ,  20 ,  69 ,"  1,072 ",  6 ,  -   ,  4 ,  3 ,  4 
+HH2406T,09,170,District - Banda,Rural,Within the premises,  155 ,  27 ,  10 ,  2 ,  4 ,  107 ,  5 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,170,District - Banda,Rural,Near the premises,  948 ,  66 ,  24 ,  11 ,  49 ,  790 ,  1 ,  -   ,  -   ,  3 ,  4 
+HH2406T,09,170,District - Banda,Rural,Away,  270 ,  25 ,  43 ,  7 ,  16 ,  175 ,  -   ,  -   ,  4 ,  -   ,  -   
+HH2406T,09,170,District - Banda,Urban,Total,  578 ,  263 ,  33 ,  1 ,  22 ,  253 ,  5 ,  -   ,  -   ,  -   ,  1 
+HH2406T,09,170,District - Banda,Urban,Within the premises,  354 ,  240 ,  16 ,  -   ,  4 ,  92 ,  2 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,170,District - Banda,Urban,Near the premises,  162 ,  20 ,  15 ,  1 ,  12 ,  111 ,  3 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,170,District - Banda,Urban,Away,  62 ,  3 ,  2 ,  -   ,  6 ,  50 ,  -   ,  -   ,  -   ,  -   ,  1 
+HH2406T,09,171,District - Chitrakoot,Total,Total,"  1,144 ",  108 ,  36 ,  23 ,  109 ,  842 ,  11 ,  -   ,  1 ,  -   ,  14 
+HH2406T,09,171,District - Chitrakoot,Total,Within the premises,  125 ,  65 ,  8 ,  5 ,  2 ,  40 ,  5 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,171,District - Chitrakoot,Total,Near the premises,  715 ,  28 ,  24 ,  13 ,  53 ,  581 ,  5 ,  -   ,  -   ,  -   ,  11 
+HH2406T,09,171,District - Chitrakoot,Total,Away,  304 ,  15 ,  4 ,  5 ,  54 ,  221 ,  1 ,  -   ,  1 ,  -   ,  3 
+HH2406T,09,171,District - Chitrakoot,Rural,Total,"  1,032 ",  61 ,  31 ,  21 ,  108 ,  785 ,  11 ,  -   ,  1 ,  -   ,  14 
+HH2406T,09,171,District - Chitrakoot,Rural,Within the premises,  74 ,  23 ,  6 ,  5 ,  2 ,  33 ,  5 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,171,District - Chitrakoot,Rural,Near the premises,  669 ,  23 ,  22 ,  11 ,  52 ,  545 ,  5 ,  -   ,  -   ,  -   ,  11 
+HH2406T,09,171,District - Chitrakoot,Rural,Away,  289 ,  15 ,  3 ,  5 ,  54 ,  207 ,  1 ,  -   ,  1 ,  -   ,  3 
+HH2406T,09,171,District - Chitrakoot,Urban,Total,  112 ,  47 ,  5 ,  2 ,  1 ,  57 ,  -   ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,171,District - Chitrakoot,Urban,Within the premises,  51 ,  42 ,  2 ,  -   ,  -   ,  7 ,  -   ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,171,District - Chitrakoot,Urban,Near the premises,  46 ,  5 ,  2 ,  2 ,  1 ,  36 ,  -   ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,171,District - Chitrakoot,Urban,Away,  15 ,  -   ,  1 ,  -   ,  -   ,  14 ,  -   ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,172,District - Fatehpur,Total,Total,"  4,908 ",  739 ,  261 ,  58 ,  429 ,"  3,248 ",  26 ,  2 ,  2 ,  9 ,  134 
+HH2406T,09,172,District - Fatehpur,Total,Within the premises,  800 ,  364 ,  45 ,  8 ,  27 ,  345 ,  11 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,172,District - Fatehpur,Total,Near the premises,"  2,869 ",  267 ,  149 ,  38 ,  265 ,"  2,003 ",  4 ,  1 ,  2 ,  8 ,  132 
+HH2406T,09,172,District - Fatehpur,Total,Away,"  1,239 ",  108 ,  67 ,  12 ,  137 ,  900 ,  11 ,  1 ,  -   ,  1 ,  2 
+HH2406T,09,172,District - Fatehpur,Rural,Total,"  4,078 ",  368 ,  185 ,  50 ,  421 ,"  3,013 ",  19 ,  2 ,  2 ,  9 ,  9 
+HH2406T,09,172,District - Fatehpur,Rural,Within the premises,  414 ,  72 ,  13 ,  8 ,  22 ,  293 ,  6 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,172,District - Fatehpur,Rural,Near the premises,"  2,546 ",  207 ,  109 ,  33 ,  262 ,"  1,914 ",  2 ,  1 ,  2 ,  8 ,  8 
+HH2406T,09,172,District - Fatehpur,Rural,Away,"  1,118 ",  89 ,  63 ,  9 ,  137 ,  806 ,  11 ,  1 ,  -   ,  1 ,  1 
+HH2406T,09,172,District - Fatehpur,Urban,Total,  830 ,  371 ,  76 ,  8 ,  8 ,  235 ,  7 ,  -   ,  -   ,  -   ,  125 
+HH2406T,09,172,District - Fatehpur,Urban,Within the premises,  386 ,  292 ,  32 ,  -   ,  5 ,  52 ,  5 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,172,District - Fatehpur,Urban,Near the premises,  323 ,  60 ,  40 ,  5 ,  3 ,  89 ,  2 ,  -   ,  -   ,  -   ,  124 
+HH2406T,09,172,District - Fatehpur,Urban,Away,  121 ,  19 ,  4 ,  3 ,  -   ,  94 ,  -   ,  -   ,  -   ,  -   ,  1 
+HH2406T,09,173,District - Pratapgarh,Total,Total,"  5,695 ","  1,381 ",  491 ,  120 ,  676 ,"  2,914 ",  34 ,  5 ,  6 ,  14 ,  54 
+HH2406T,09,173,District - Pratapgarh,Total,Within the premises,"  1,269 ",  371 ,  111 ,  17 ,  71 ,  682 ,  17 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,173,District - Pratapgarh,Total,Near the premises,"  3,272 ",  762 ,  295 ,  73 ,  470 ,"  1,633 ",  10 ,  4 ,  5 ,  10 ,  10 
+HH2406T,09,173,District - Pratapgarh,Total,Away,"  1,154 ",  248 ,  85 ,  30 ,  135 ,  599 ,  7 ,  1 ,  1 ,  4 ,  44 
+HH2406T,09,173,District - Pratapgarh,Rural,Total,"  5,485 ","  1,277 ",  466 ,  118 ,  671 ,"  2,851 ",  25 ,  5 ,  6 ,  13 ,  53 
+HH2406T,09,173,District - Pratapgarh,Rural,Within the premises,"  1,121 ",  274 ,  97 ,  16 ,  70 ,  656 ,  8 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,173,District - Pratapgarh,Rural,Near the premises,"  3,220 ",  757 ,  284 ,  72 ,  466 ,"  1,604 ",  10 ,  4 ,  5 ,  9 ,  9 
+HH2406T,09,173,District - Pratapgarh,Rural,Away,"  1,144 ",  246 ,  85 ,  30 ,  135 ,  591 ,  7 ,  1 ,  1 ,  4 ,  44 
+HH2406T,09,173,District - Pratapgarh,Urban,Total,  210 ,  104 ,  25 ,  2 ,  5 ,  63 ,  9 ,  -   ,  -   ,  1 ,  1 
+HH2406T,09,173,District - Pratapgarh,Urban,Within the premises,  148 ,  97 ,  14 ,  1 ,  1 ,  26 ,  9 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,173,District - Pratapgarh,Urban,Near the premises,  52 ,  5 ,  11 ,  1 ,  4 ,  29 ,  -   ,  -   ,  -   ,  1 ,  1 
+HH2406T,09,173,District - Pratapgarh,Urban,Away,  10 ,  2 ,  -   ,  -   ,  -   ,  8 ,  -   ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,174,District - Kaushambi,Total,Total,"  3,337 ",  421 ,  160 ,  52 ,  160 ,"  2,517 ",  17 ,  -   ,  1 ,  6 ,  3 
+HH2406T,09,174,District - Kaushambi,Total,Within the premises,  307 ,  148 ,  13 ,  4 ,  3 ,  132 ,  7 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,174,District - Kaushambi,Total,Near the premises,"  2,113 ",  244 ,  114 ,  33 ,  116 ,"  1,598 ",  6 ,  -   ,  -   ,  2 ,  -   
+HH2406T,09,174,District - Kaushambi,Total,Away,  917 ,  29 ,  33 ,  15 ,  41 ,  787 ,  4 ,  -   ,  1 ,  4 ,  3 
+HH2406T,09,174,District - Kaushambi,Rural,Total,"  3,096 ",  329 ,  126 ,  51 ,  159 ,"  2,404 ",  17 ,  -   ,  1 ,  6 ,  3 
+HH2406T,09,174,District - Kaushambi,Rural,Within the premises,  222 ,  81 ,  1 ,  3 ,  3 ,  127 ,  7 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,174,District - Kaushambi,Rural,Near the premises,"  2,037 ",  222 ,  96 ,  33 ,  115 ,"  1,563 ",  6 ,  -   ,  -   ,  2 ,  -   
+HH2406T,09,174,District - Kaushambi,Rural,Away,  837 ,  26 ,  29 ,  15 ,  41 ,  714 ,  4 ,  -   ,  1 ,  4 ,  3 
+HH2406T,09,174,District - Kaushambi,Urban,Total,  241 ,  92 ,  34 ,  1 ,  1 ,  113 ,  -   ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,174,District - Kaushambi,Urban,Within the premises,  85 ,  67 ,  12 ,  1 ,  -   ,  5 ,  -   ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,174,District - Kaushambi,Urban,Near the premises,  76 ,  22 ,  18 ,  -   ,  1 ,  35 ,  -   ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,174,District - Kaushambi,Urban,Away,  80 ,  3 ,  4 ,  -   ,  -   ,  73 ,  -   ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,175,District - Allahabad ,Total,Total,"  14,344 ","  4,173 ",  651 ,  256 ,"  1,891 ","  7,006 ",  170 ,  14 ,  37 ,  35 ,  111 
+HH2406T,09,175,District - Allahabad ,Total,Within the premises,"  4,762 ","  3,044 ",  175 ,  38 ,  244 ,"  1,150 ",  111 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,175,District - Allahabad ,Total,Near the premises,"  6,087 ",  784 ,  342 ,  143 ,"  1,124 ","  3,564 ",  35 ,  12 ,  15 ,  25 ,  43 
+HH2406T,09,175,District - Allahabad ,Total,Away,"  3,495 ",  345 ,  134 ,  75 ,  523 ,"  2,292 ",  24 ,  2 ,  22 ,  10 ,  68 
+HH2406T,09,175,District - Allahabad ,Rural,Total,"  10,398 ","  1,096 ",  405 ,  237 ,"  1,842 ","  6,580 ",  90 ,  8 ,  34 ,  33 ,  73 
+HH2406T,09,175,District - Allahabad ,Rural,Within the premises,"  1,774 ",  345 ,  71 ,  28 ,  227 ,"  1,063 ",  40 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,175,District - Allahabad ,Rural,Near the premises,"  5,440 ",  476 ,  226 ,  139 ,"  1,102 ","  3,405 ",  29 ,  6 ,  12 ,  23 ,  22 
+HH2406T,09,175,District - Allahabad ,Rural,Away,"  3,184 ",  275 ,  108 ,  70 ,  513 ,"  2,112 ",  21 ,  2 ,  22 ,  10 ,  51 
+HH2406T,09,175,District - Allahabad ,Urban,Total,"  3,946 ","  3,077 ",  246 ,  19 ,  49 ,  426 ,  80 ,  6 ,  3 ,  2 ,  38 
+HH2406T,09,175,District - Allahabad ,Urban,Within the premises,"  2,988 ","  2,699 ",  104 ,  10 ,  17 ,  87 ,  71 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,175,District - Allahabad ,Urban,Near the premises,  647 ,  308 ,  116 ,  4 ,  22 ,  159 ,  6 ,  6 ,  3 ,  2 ,  21 
+HH2406T,09,175,District - Allahabad ,Urban,Away,  311 ,  70 ,  26 ,  5 ,  10 ,  180 ,  3 ,  -   ,  -   ,  -   ,  17 
+HH2406T,09,176,District - Bara Banki,Total,Total,"  4,829 ","  1,003 ",  246 ,  47 ,  104 ,"  3,277 ",  16 ,  -   ,  6 ,  5 ,  125 
+HH2406T,09,176,District - Bara Banki,Total,Within the premises,"  2,019 ",  568 ,  101 ,  17 ,  14 ,"  1,308 ",  11 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,176,District - Bara Banki,Total,Near the premises,"  1,984 ",  312 ,  93 ,  21 ,  60 ,"  1,446 ",  4 ,  -   ,  6 ,  4 ,  38 
+HH2406T,09,176,District - Bara Banki,Total,Away,  826 ,  123 ,  52 ,  9 ,  30 ,  523 ,  1 ,  -   ,  -   ,  1 ,  87 
+HH2406T,09,176,District - Bara Banki,Rural,Total,"  4,200 ",  863 ,  186 ,  38 ,  101 ,"  2,969 ",  9 ,  -   ,  6 ,  3 ,  25 
+HH2406T,09,176,District - Bara Banki,Rural,Within the premises,"  1,624 ",  446 ,  58 ,  10 ,  13 ,"  1,091 ",  6 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,176,District - Bara Banki,Rural,Near the premises,"  1,888 ",  300 ,  79 ,  21 ,  58 ,"  1,405 ",  3 ,  -   ,  6 ,  3 ,  13 
+HH2406T,09,176,District - Bara Banki,Rural,Away,  688 ,  117 ,  49 ,  7 ,  30 ,  473 ,  -   ,  -   ,  -   ,  -   ,  12 
+HH2406T,09,176,District - Bara Banki,Urban,Total,  629 ,  140 ,  60 ,  9 ,  3 ,  308 ,  7 ,  -   ,  -   ,  2 ,  100 
+HH2406T,09,176,District - Bara Banki,Urban,Within the premises,  395 ,  122 ,  43 ,  7 ,  1 ,  217 ,  5 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,176,District - Bara Banki,Urban,Near the premises,  96 ,  12 ,  14 ,  -   ,  2 ,  41 ,  1 ,  -   ,  -   ,  1 ,  25 
+HH2406T,09,176,District - Bara Banki,Urban,Away,  138 ,  6 ,  3 ,  2 ,  -   ,  50 ,  1 ,  -   ,  -   ,  1 ,  75 
+HH2406T,09,177,District - Faizabad,Total,Total,"  3,904 ","  1,033 ",  231 ,  35 ,  67 ,"  2,444 ",  46 ,  3 ,  5 ,  3 ,  37 
+HH2406T,09,177,District - Faizabad,Total,Within the premises,"  1,982 ",  633 ,  126 ,  11 ,  12 ,"  1,169 ",  31 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,177,District - Faizabad,Total,Near the premises,"  1,533 ",  331 ,  86 ,  14 ,  46 ,"  1,014 ",  6 ,  2 ,  5 ,  3 ,  26 
+HH2406T,09,177,District - Faizabad,Total,Away,  389 ,  69 ,  19 ,  10 ,  9 ,  261 ,  9 ,  1 ,  -   ,  -   ,  11 
+HH2406T,09,177,District - Faizabad,Rural,Total,"  2,921 ",  728 ,  175 ,  28 ,  62 ,"  1,882 ",  5 ,  2 ,  5 ,  2 ,  32 
+HH2406T,09,177,District - Faizabad,Rural,Within the premises,"  1,287 ",  364 ,  85 ,  9 ,  10 ,  816 ,  3 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,177,District - Faizabad,Rural,Near the premises,"  1,287 ",  298 ,  71 ,  13 ,  44 ,  832 ,  -   ,  1 ,  5 ,  2 ,  21 
+HH2406T,09,177,District - Faizabad,Rural,Away,  347 ,  66 ,  19 ,  6 ,  8 ,  234 ,  2 ,  1 ,  -   ,  -   ,  11 
+HH2406T,09,177,District - Faizabad,Urban,Total,  983 ,  305 ,  56 ,  7 ,  5 ,  562 ,  41 ,  1 ,  -   ,  1 ,  5 
+HH2406T,09,177,District - Faizabad,Urban,Within the premises,  695 ,  269 ,  41 ,  2 ,  2 ,  353 ,  28 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,177,District - Faizabad,Urban,Near the premises,  246 ,  33 ,  15 ,  1 ,  2 ,  182 ,  6 ,  1 ,  -   ,  1 ,  5 
+HH2406T,09,177,District - Faizabad,Urban,Away,  42 ,  3 ,  -   ,  4 ,  1 ,  27 ,  7 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,178,District - Ambedkar Nagar,Total,Total,"  2,678 ",  839 ,  306 ,  32 ,  5 ,"  1,429 ",  4 ,  1 ,  4 ,  3 ,  55 
+HH2406T,09,178,District - Ambedkar Nagar,Total,Within the premises,  997 ,  298 ,  94 ,  6 ,  3 ,  593 ,  3 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,178,District - Ambedkar Nagar,Total,Near the premises,"  1,301 ",  448 ,  172 ,  17 ,  1 ,  632 ,  1 ,  1 ,  4 ,  3 ,  22 
+HH2406T,09,178,District - Ambedkar Nagar,Total,Away,  380 ,  93 ,  40 ,  9 ,  1 ,  204 ,  -   ,  -   ,  -   ,  -   ,  33 
+HH2406T,09,178,District - Ambedkar Nagar,Rural,Total,"  2,502 ",  776 ,  293 ,  30 ,  4 ,"  1,341 ",  4 ,  1 ,  4 ,  2 ,  47 
+HH2406T,09,178,District - Ambedkar Nagar,Rural,Within the premises,  863 ,  239 ,  87 ,  5 ,  2 ,  527 ,  3 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,178,District - Ambedkar Nagar,Rural,Near the premises,"  1,268 ",  444 ,  166 ,  16 ,  1 ,  618 ,  1 ,  1 ,  4 ,  2 ,  15 
+HH2406T,09,178,District - Ambedkar Nagar,Rural,Away,  371 ,  93 ,  40 ,  9 ,  1 ,  196 ,  -   ,  -   ,  -   ,  -   ,  32 
+HH2406T,09,178,District - Ambedkar Nagar,Urban,Total,  176 ,  63 ,  13 ,  2 ,  1 ,  88 ,  -   ,  -   ,  -   ,  1 ,  8 
+HH2406T,09,178,District - Ambedkar Nagar,Urban,Within the premises,  134 ,  59 ,  7 ,  1 ,  1 ,  66 ,  -   ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,178,District - Ambedkar Nagar,Urban,Near the premises,  33 ,  4 ,  6 ,  1 ,  -   ,  14 ,  -   ,  -   ,  -   ,  1 ,  7 
+HH2406T,09,178,District - Ambedkar Nagar,Urban,Away,  9 ,  -   ,  -   ,  -   ,  -   ,  8 ,  -   ,  -   ,  -   ,  -   ,  1 
+HH2406T,09,179,District - Sultanpur,Total,Total,"  5,097 ","  1,389 ",  528 ,  99 ,  309 ,"  2,667 ",  32 ,  7 ,  10 ,  10 ,  46 
+HH2406T,09,179,District - Sultanpur,Total,Within the premises,"  1,611 ",  660 ,  145 ,  19 ,  52 ,  709 ,  26 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,179,District - Sultanpur,Total,Near the premises,"  2,533 ",  526 ,  285 ,  62 ,  205 ,"  1,417 ",  4 ,  6 ,  5 ,  6 ,  17 
+HH2406T,09,179,District - Sultanpur,Total,Away,  953 ,  203 ,  98 ,  18 ,  52 ,  541 ,  2 ,  1 ,  5 ,  4 ,  29 
+HH2406T,09,179,District - Sultanpur,Rural,Total,"  4,605 ","  1,083 ",  462 ,  90 ,  306 ,"  2,581 ",  15 ,  7 ,  9 ,  9 ,  43 
+HH2406T,09,179,District - Sultanpur,Rural,Within the premises,"  1,295 ",  401 ,  129 ,  14 ,  52 ,  688 ,  11 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,179,District - Sultanpur,Rural,Near the premises,"  2,393 ",  485 ,  241 ,  61 ,  204 ,"  1,370 ",  2 ,  6 ,  4 ,  5 ,  15 
+HH2406T,09,179,District - Sultanpur,Rural,Away,  917 ,  197 ,  92 ,  15 ,  50 ,  523 ,  2 ,  1 ,  5 ,  4 ,  28 
+HH2406T,09,179,District - Sultanpur,Urban,Total,  492 ,  306 ,  66 ,  9 ,  3 ,  86 ,  17 ,  -   ,  1 ,  1 ,  3 
+HH2406T,09,179,District - Sultanpur,Urban,Within the premises,  316 ,  259 ,  16 ,  5 ,  -   ,  21 ,  15 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,179,District - Sultanpur,Urban,Near the premises,  140 ,  41 ,  44 ,  1 ,  1 ,  47 ,  2 ,  -   ,  1 ,  1 ,  2 
+HH2406T,09,179,District - Sultanpur,Urban,Away,  36 ,  6 ,  6 ,  3 ,  2 ,  18 ,  -   ,  -   ,  -   ,  -   ,  1 
+HH2406T,09,180,District - Bahraich,Total,Total,"  6,691 ","  1,590 ","  1,052 ",  183 ,  61 ,"  3,729 ",  27 ,  2 ,  1 ,  2 ,  44 
+HH2406T,09,180,District - Bahraich,Total,Within the premises,"  3,878 ","  1,132 ",  529 ,  141 ,  12 ,"  2,040 ",  24 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,180,District - Bahraich,Total,Near the premises,"  2,264 ",  399 ,  455 ,  29 ,  28 ,"  1,308 ",  2 ,  2 ,  1 ,  2 ,  38 
+HH2406T,09,180,District - Bahraich,Total,Away,  549 ,  59 ,  68 ,  13 ,  21 ,  381 ,  1 ,  -   ,  -   ,  -   ,  6 
+HH2406T,09,180,District - Bahraich,Rural,Total,"  5,602 ","  1,198 ",  951 ,  88 ,  57 ,"  3,252 ",  10 ,  1 ,  1 ,  2 ,  42 
+HH2406T,09,180,District - Bahraich,Rural,Within the premises,"  2,931 ",  770 ,  447 ,  48 ,  8 ,"  1,651 ",  7 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,180,District - Bahraich,Rural,Near the premises,"  2,197 ",  383 ,  441 ,  28 ,  28 ,"  1,274 ",  2 ,  1 ,  1 ,  2 ,  37 
+HH2406T,09,180,District - Bahraich,Rural,Away,  474 ,  45 ,  63 ,  12 ,  21 ,  327 ,  1 ,  -   ,  -   ,  -   ,  5 
+HH2406T,09,180,District - Bahraich,Urban,Total,"  1,089 ",  392 ,  101 ,  95 ,  4 ,  477 ,  17 ,  1 ,  -   ,  -   ,  2 
+HH2406T,09,180,District - Bahraich,Urban,Within the premises,  947 ,  362 ,  82 ,  93 ,  4 ,  389 ,  17 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,180,District - Bahraich,Urban,Near the premises,  67 ,  16 ,  14 ,  1 ,  -   ,  34 ,  -   ,  1 ,  -   ,  -   ,  1 
+HH2406T,09,180,District - Bahraich,Urban,Away,  75 ,  14 ,  5 ,  1 ,  -   ,  54 ,  -   ,  -   ,  -   ,  -   ,  1 
+HH2406T,09,181,District - Shrawasti,Total,Total,"  2,041 ",  635 ,  408 ,  24 ,  82 ,  871 ,  -   ,  2 ,  -   ,  3 ,  16 
+HH2406T,09,181,District - Shrawasti,Total,Within the premises,"  1,049 ",  422 ,  223 ,  4 ,  20 ,  380 ,  -   ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,181,District - Shrawasti,Total,Near the premises,  821 ,  182 ,  161 ,  15 ,  50 ,  399 ,  -   ,  2 ,  -   ,  3 ,  9 
+HH2406T,09,181,District - Shrawasti,Total,Away,  171 ,  31 ,  24 ,  5 ,  12 ,  92 ,  -   ,  -   ,  -   ,  -   ,  7 
+HH2406T,09,181,District - Shrawasti,Rural,Total,"  1,911 ",  555 ,  407 ,  23 ,  82 ,  823 ,  -   ,  2 ,  -   ,  3 ,  16 
+HH2406T,09,181,District - Shrawasti,Rural,Within the premises,  943 ,  363 ,  222 ,  3 ,  20 ,  335 ,  -   ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,181,District - Shrawasti,Rural,Near the premises,  803 ,  167 ,  161 ,  15 ,  50 ,  396 ,  -   ,  2 ,  -   ,  3 ,  9 
+HH2406T,09,181,District - Shrawasti,Rural,Away,  165 ,  25 ,  24 ,  5 ,  12 ,  92 ,  -   ,  -   ,  -   ,  -   ,  7 
+HH2406T,09,181,District - Shrawasti,Urban,Total,  130 ,  80 ,  1 ,  1 ,  -   ,  48 ,  -   ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,181,District - Shrawasti,Urban,Within the premises,  106 ,  59 ,  1 ,  1 ,  -   ,  45 ,  -   ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,181,District - Shrawasti,Urban,Near the premises,  18 ,  15 ,  -   ,  -   ,  -   ,  3 ,  -   ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,181,District - Shrawasti,Urban,Away,  6 ,  6 ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,182,District - Balrampur,Total,Total,"  5,052 ","  1,101 ","  1,299 ",  35 ,  449 ,"  2,136 ",  6 ,  2 ,  1 ,  3 ,  20 
+HH2406T,09,182,District - Balrampur,Total,Within the premises,"  2,246 ",  601 ,  597 ,  7 ,  48 ,  988 ,  5 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,182,District - Balrampur,Total,Near the premises,"  2,263 ",  393 ,  598 ,  24 ,  253 ,  985 ,  1 ,  2 ,  -   ,  2 ,  5 
+HH2406T,09,182,District - Balrampur,Total,Away,  543 ,  107 ,  104 ,  4 ,  148 ,  163 ,  -   ,  -   ,  1 ,  1 ,  15 
+HH2406T,09,182,District - Balrampur,Rural,Total,"  4,727 ",  889 ,"  1,278 ",  33 ,  449 ,"  2,052 ",  3 ,  1 ,  1 ,  3 ,  18 
+HH2406T,09,182,District - Balrampur,Rural,Within the premises,"  1,980 ",  428 ,  579 ,  5 ,  48 ,  918 ,  2 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,182,District - Balrampur,Rural,Near the premises,"  2,214 ",  361 ,  595 ,  24 ,  253 ,  972 ,  1 ,  1 ,  -   ,  2 ,  5 
+HH2406T,09,182,District - Balrampur,Rural,Away,  533 ,  100 ,  104 ,  4 ,  148 ,  162 ,  -   ,  -   ,  1 ,  1 ,  13 
+HH2406T,09,182,District - Balrampur,Urban,Total,  325 ,  212 ,  21 ,  2 ,  -   ,  84 ,  3 ,  1 ,  -   ,  -   ,  2 
+HH2406T,09,182,District - Balrampur,Urban,Within the premises,  266 ,  173 ,  18 ,  2 ,  -   ,  70 ,  3 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,182,District - Balrampur,Urban,Near the premises,  49 ,  32 ,  3 ,  -   ,  -   ,  13 ,  -   ,  1 ,  -   ,  -   ,  -   
+HH2406T,09,182,District - Balrampur,Urban,Away,  10 ,  7 ,  -   ,  -   ,  -   ,  1 ,  -   ,  -   ,  -   ,  -   ,  2 
+HH2406T,09,183,District - Gonda,Total,Total,"  4,917 ","  1,417 ",  991 ,  42 ,  28 ,"  2,379 ",  15 ,  1 ,  6 ,  5 ,  33 
+HH2406T,09,183,District - Gonda,Total,Within the premises,"  2,145 ",  802 ,  353 ,  6 ,  3 ,  970 ,  11 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,183,District - Gonda,Total,Near the premises,"  2,392 ",  534 ,  593 ,  34 ,  20 ,"  1,188 ",  3 ,  1 ,  5 ,  5 ,  9 
+HH2406T,09,183,District - Gonda,Total,Away,  380 ,  81 ,  45 ,  2 ,  5 ,  221 ,  1 ,  -   ,  1 ,  -   ,  24 
+HH2406T,09,183,District - Gonda,Rural,Total,"  4,532 ","  1,233 ",  937 ,  39 ,  27 ,"  2,247 ",  8 ,  1 ,  4 ,  4 ,  32 
+HH2406T,09,183,District - Gonda,Rural,Within the premises,"  1,812 ",  630 ,  304 ,  3 ,  2 ,  869 ,  4 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,183,District - Gonda,Rural,Near the premises,"  2,353 ",  524 ,  589 ,  34 ,  20 ,"  1,166 ",  3 ,  1 ,  3 ,  4 ,  9 
+HH2406T,09,183,District - Gonda,Rural,Away,  367 ,  79 ,  44 ,  2 ,  5 ,  212 ,  1 ,  -   ,  1 ,  -   ,  23 
+HH2406T,09,183,District - Gonda,Urban,Total,  385 ,  184 ,  54 ,  3 ,  1 ,  132 ,  7 ,  -   ,  2 ,  1 ,  1 
+HH2406T,09,183,District - Gonda,Urban,Within the premises,  333 ,  172 ,  49 ,  3 ,  1 ,  101 ,  7 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,183,District - Gonda,Urban,Near the premises,  39 ,  10 ,  4 ,  -   ,  -   ,  22 ,  -   ,  -   ,  2 ,  1 ,  -   
+HH2406T,09,183,District - Gonda,Urban,Away,  13 ,  2 ,  1 ,  -   ,  -   ,  9 ,  -   ,  -   ,  -   ,  -   ,  1 
+HH2406T,09,184,District - Siddharthnagar,Total,Total,"  5,383 ","  1,486 ",  946 ,  22 ,  23 ,"  2,791 ",  31 ,  3 ,  9 ,  12 ,  60 
+HH2406T,09,184,District - Siddharthnagar,Total,Within the premises,"  2,071 ",  625 ,  372 ,  7 ,  2 ,"  1,041 ",  24 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,184,District - Siddharthnagar,Total,Near the premises,"  2,726 ",  764 ,  479 ,  10 ,  17 ,"  1,397 ",  7 ,  2 ,  8 ,  11 ,  31 
+HH2406T,09,184,District - Siddharthnagar,Total,Away,  586 ,  97 ,  95 ,  5 ,  4 ,  353 ,  -   ,  1 ,  1 ,  1 ,  29 
+HH2406T,09,184,District - Siddharthnagar,Rural,Total,"  4,750 ","  1,312 ",  791 ,  21 ,  23 ,"  2,511 ",  11 ,  2 ,  9 ,  12 ,  58 
+HH2406T,09,184,District - Siddharthnagar,Rural,Within the premises,"  1,696 ",  507 ,  278 ,  7 ,  2 ,  897 ,  5 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,184,District - Siddharthnagar,Rural,Near the premises,"  2,509 ",  712 ,  421 ,  9 ,  17 ,"  1,293 ",  6 ,  1 ,  8 ,  11 ,  31 
+HH2406T,09,184,District - Siddharthnagar,Rural,Away,  545 ,  93 ,  92 ,  5 ,  4 ,  321 ,  -   ,  1 ,  1 ,  1 ,  27 
+HH2406T,09,184,District - Siddharthnagar,Urban,Total,  633 ,  174 ,  155 ,  1 ,  -   ,  280 ,  20 ,  1 ,  -   ,  -   ,  2 
+HH2406T,09,184,District - Siddharthnagar,Urban,Within the premises,  375 ,  118 ,  94 ,  -   ,  -   ,  144 ,  19 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,184,District - Siddharthnagar,Urban,Near the premises,  217 ,  52 ,  58 ,  1 ,  -   ,  104 ,  1 ,  1 ,  -   ,  -   ,  -   
+HH2406T,09,184,District - Siddharthnagar,Urban,Away,  41 ,  4 ,  3 ,  -   ,  -   ,  32 ,  -   ,  -   ,  -   ,  -   ,  2 
+HH2406T,09,185,District - Basti,Total,Total,"  2,776 ",  735 ,  406 ,  18 ,  3 ,"  1,552 ",  20 ,  1 ,  5 ,  4 ,  32 
+HH2406T,09,185,District - Basti,Total,Within the premises,"  1,336 ",  397 ,  168 ,  6 ,  1 ,  746 ,  18 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,185,District - Basti,Total,Near the premises,"  1,255 ",  304 ,  209 ,  11 ,  2 ,  704 ,  2 ,  1 ,  5 ,  4 ,  13 
+HH2406T,09,185,District - Basti,Total,Away,  185 ,  34 ,  29 ,  1 ,  -   ,  102 ,  -   ,  -   ,  -   ,  -   ,  19 
+HH2406T,09,185,District - Basti,Rural,Total,"  2,494 ",  619 ,  390 ,  18 ,  2 ,"  1,412 ",  15 ,  1 ,  4 ,  4 ,  29 
+HH2406T,09,185,District - Basti,Rural,Within the premises,"  1,109 ",  301 ,  155 ,  6 ,  -   ,  633 ,  14 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,185,District - Basti,Rural,Near the premises,"  1,206 ",  285 ,  206 ,  11 ,  2 ,  680 ,  1 ,  1 ,  4 ,  4 ,  12 
+HH2406T,09,185,District - Basti,Rural,Away,  179 ,  33 ,  29 ,  1 ,  -   ,  99 ,  -   ,  -   ,  -   ,  -   ,  17 
+HH2406T,09,185,District - Basti,Urban,Total,  282 ,  116 ,  16 ,  -   ,  1 ,  140 ,  5 ,  -   ,  1 ,  -   ,  3 
+HH2406T,09,185,District - Basti,Urban,Within the premises,  227 ,  96 ,  13 ,  -   ,  1 ,  113 ,  4 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,185,District - Basti,Urban,Near the premises,  49 ,  19 ,  3 ,  -   ,  -   ,  24 ,  1 ,  -   ,  1 ,  -   ,  1 
+HH2406T,09,185,District - Basti,Urban,Away,  6 ,  1 ,  -   ,  -   ,  -   ,  3 ,  -   ,  -   ,  -   ,  -   ,  2 
+HH2406T,09,186,District - Sant Kabir Nagar,Total,Total,"  2,205 ",  559 ,  305 ,  17 ,  3 ,"  1,275 ",  26 ,  3 ,  1 ,  5 ,  11 
+HH2406T,09,186,District - Sant Kabir Nagar,Total,Within the premises,  865 ,  273 ,  95 ,  6 ,  2 ,  468 ,  21 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,186,District - Sant Kabir Nagar,Total,Near the premises,"  1,129 ",  248 ,  185 ,  9 ,  1 ,  669 ,  5 ,  2 ,  1 ,  4 ,  5 
+HH2406T,09,186,District - Sant Kabir Nagar,Total,Away,  211 ,  38 ,  25 ,  2 ,  -   ,  138 ,  -   ,  1 ,  -   ,  1 ,  6 
+HH2406T,09,186,District - Sant Kabir Nagar,Rural,Total,"  2,015 ",  517 ,  293 ,  15 ,  3 ,"  1,161 ",  6 ,  3 ,  1 ,  5 ,  11 
+HH2406T,09,186,District - Sant Kabir Nagar,Rural,Within the premises,  716 ,  241 ,  87 ,  5 ,  2 ,  378 ,  3 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,186,District - Sant Kabir Nagar,Rural,Near the premises,"  1,089 ",  238 ,  182 ,  8 ,  1 ,  645 ,  3 ,  2 ,  1 ,  4 ,  5 
+HH2406T,09,186,District - Sant Kabir Nagar,Rural,Away,  210 ,  38 ,  24 ,  2 ,  -   ,  138 ,  -   ,  1 ,  -   ,  1 ,  6 
+HH2406T,09,186,District - Sant Kabir Nagar,Urban,Total,  190 ,  42 ,  12 ,  2 ,  -   ,  114 ,  20 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,186,District - Sant Kabir Nagar,Urban,Within the premises,  149 ,  32 ,  8 ,  1 ,  -   ,  90 ,  18 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,186,District - Sant Kabir Nagar,Urban,Near the premises,  40 ,  10 ,  3 ,  1 ,  -   ,  24 ,  2 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,186,District - Sant Kabir Nagar,Urban,Away,  1 ,  -   ,  1 ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,187,District - Mahrajganj,Total,Total,"  7,299 ","  2,238 ","  1,665 ",  33 ,  19 ,"  3,201 ",  37 ,  4 ,  10 ,  14 ,  78 
+HH2406T,09,187,District - Mahrajganj,Total,Within the premises,"  3,145 ","  1,106 ",  664 ,  7 ,  3 ,"  1,335 ",  30 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,187,District - Mahrajganj,Total,Near the premises,"  3,428 ",  903 ,  894 ,  21 ,  12 ,"  1,544 ",  2 ,  4 ,  10 ,  14 ,  24 
+HH2406T,09,187,District - Mahrajganj,Total,Away,  726 ,  229 ,  107 ,  5 ,  4 ,  322 ,  5 ,  -   ,  -   ,  -   ,  54 
+HH2406T,09,187,District - Mahrajganj,Rural,Total,"  6,537 ","  1,869 ","  1,637 ",  32 ,  19 ,"  2,873 ",  6 ,  3 ,  10 ,  12 ,  76 
+HH2406T,09,187,District - Mahrajganj,Rural,Within the premises,"  2,648 ",  801 ,  653 ,  6 ,  3 ,"  1,182 ",  3 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,187,District - Mahrajganj,Rural,Near the premises,"  3,218 ",  869 ,  878 ,  21 ,  12 ,"  1,389 ",  1 ,  3 ,  10 ,  12 ,  23 
+HH2406T,09,187,District - Mahrajganj,Rural,Away,  671 ,  199 ,  106 ,  5 ,  4 ,  302 ,  2 ,  -   ,  -   ,  -   ,  53 
+HH2406T,09,187,District - Mahrajganj,Urban,Total,  762 ,  369 ,  28 ,  1 ,  -   ,  328 ,  31 ,  1 ,  -   ,  2 ,  2 
+HH2406T,09,187,District - Mahrajganj,Urban,Within the premises,  497 ,  305 ,  11 ,  1 ,  -   ,  153 ,  27 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,187,District - Mahrajganj,Urban,Near the premises,  210 ,  34 ,  16 ,  -   ,  -   ,  155 ,  1 ,  1 ,  -   ,  2 ,  1 
+HH2406T,09,187,District - Mahrajganj,Urban,Away,  55 ,  30 ,  1 ,  -   ,  -   ,  20 ,  3 ,  -   ,  -   ,  -   ,  1 
+HH2406T,09,188,District - Gorakhpur,Total,Total,"  10,484 ","  3,777 ",  975 ,  64 ,  22 ,"  5,196 ",  325 ,  11 ,  8 ,  20 ,  86 
+HH2406T,09,188,District - Gorakhpur,Total,Within the premises,"  5,899 ","  2,280 ",  425 ,  30 ,  2 ,"  2,861 ",  301 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,188,District - Gorakhpur,Total,Near the premises,"  3,946 ","  1,350 ",  475 ,  30 ,  18 ,"  1,981 ",  21 ,  10 ,  8 ,  20 ,  33 
+HH2406T,09,188,District - Gorakhpur,Total,Away,  639 ,  147 ,  75 ,  4 ,  2 ,  354 ,  3 ,  1 ,  -   ,  -   ,  53 
+HH2406T,09,188,District - Gorakhpur,Rural,Total,"  7,553 ","  2,510 ",  778 ,  46 ,  20 ,"  4,094 ",  16 ,  6 ,  5 ,  4 ,  74 
+HH2406T,09,188,District - Gorakhpur,Rural,Within the premises,"  3,484 ","  1,244 ",  290 ,  14 ,  1 ,"  1,928 ",  7 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,188,District - Gorakhpur,Rural,Near the premises,"  3,487 ","  1,130 ",  426 ,  28 ,  18 ,"  1,838 ",  7 ,  5 ,  5 ,  4 ,  26 
+HH2406T,09,188,District - Gorakhpur,Rural,Away,  582 ,  136 ,  62 ,  4 ,  1 ,  328 ,  2 ,  1 ,  -   ,  -   ,  48 
+HH2406T,09,188,District - Gorakhpur,Urban,Total,"  2,931 ","  1,267 ",  197 ,  18 ,  2 ,"  1,102 ",  309 ,  5 ,  3 ,  16 ,  12 
+HH2406T,09,188,District - Gorakhpur,Urban,Within the premises,"  2,415 ","  1,036 ",  135 ,  16 ,  1 ,  933 ,  294 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,188,District - Gorakhpur,Urban,Near the premises,  459 ,  220 ,  49 ,  2 ,  -   ,  143 ,  14 ,  5 ,  3 ,  16 ,  7 
+HH2406T,09,188,District - Gorakhpur,Urban,Away,  57 ,  11 ,  13 ,  -   ,  1 ,  26 ,  1 ,  -   ,  -   ,  -   ,  5 
+HH2406T,09,189,District - Kushinagar,Total,Total,"  5,164 ","  1,375 ",  698 ,  30 ,  11 ,"  2,938 ",  19 ,  3 ,  4 ,  1 ,  85 
+HH2406T,09,189,District - Kushinagar,Total,Within the premises,"  2,345 ",  737 ,  266 ,  5 ,  6 ,"  1,318 ",  13 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,189,District - Kushinagar,Total,Near the premises,"  2,166 ",  548 ,  284 ,  19 ,  3 ,"  1,273 ",  3 ,  2 ,  2 ,  1 ,  31 
+HH2406T,09,189,District - Kushinagar,Total,Away,  653 ,  90 ,  148 ,  6 ,  2 ,  347 ,  3 ,  1 ,  2 ,  -   ,  54 
+HH2406T,09,189,District - Kushinagar,Rural,Total,"  4,975 ","  1,320 ",  676 ,  29 ,  11 ,"  2,840 ",  13 ,  3 ,  4 ,  1 ,  78 
+HH2406T,09,189,District - Kushinagar,Rural,Within the premises,"  2,234 ",  701 ,  252 ,  5 ,  6 ,"  1,262 ",  8 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,189,District - Kushinagar,Rural,Near the premises,"  2,105 ",  531 ,  277 ,  19 ,  3 ,"  1,238 ",  3 ,  2 ,  2 ,  1 ,  29 
+HH2406T,09,189,District - Kushinagar,Rural,Away,  636 ,  88 ,  147 ,  5 ,  2 ,  340 ,  2 ,  1 ,  2 ,  -   ,  49 
+HH2406T,09,189,District - Kushinagar,Urban,Total,  189 ,  55 ,  22 ,  1 ,  -   ,  98 ,  6 ,  -   ,  -   ,  -   ,  7 
+HH2406T,09,189,District - Kushinagar,Urban,Within the premises,  111 ,  36 ,  14 ,  -   ,  -   ,  56 ,  5 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,189,District - Kushinagar,Urban,Near the premises,  61 ,  17 ,  7 ,  -   ,  -   ,  35 ,  -   ,  -   ,  -   ,  -   ,  2 
+HH2406T,09,189,District - Kushinagar,Urban,Away,  17 ,  2 ,  1 ,  1 ,  -   ,  7 ,  1 ,  -   ,  -   ,  -   ,  5 
+HH2406T,09,190,District - Deoria,Total,Total,"  22,471 ","  3,470 ","  1,506 ",  109 ,  23 ,"  16,996 ",  110 ,  4 ,  15 ,  27 ,  211 
+HH2406T,09,190,District - Deoria,Total,Within the premises,"  11,842 ","  1,947 ",  714 ,  43 ,  10 ,"  9,033 ",  95 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,190,District - Deoria,Total,Near the premises,"  8,799 ","  1,271 ",  667 ,  54 ,  11 ,"  6,683 ",  13 ,  4 ,  12 ,  22 ,  62 
+HH2406T,09,190,District - Deoria,Total,Away,"  1,830 ",  252 ,  125 ,  12 ,  2 ,"  1,280 ",  2 ,  -   ,  3 ,  5 ,  149 
+HH2406T,09,190,District - Deoria,Rural,Total,"  20,904 ","  3,085 ","  1,419 ",  103 ,  20 ,"  16,010 ",  24 ,  4 ,  15 ,  24 ,  200 
+HH2406T,09,190,District - Deoria,Rural,Within the premises,"  10,625 ","  1,646 ",  651 ,  39 ,  7 ,"  8,272 ",  10 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,190,District - Deoria,Rural,Near the premises,"  8,501 ","  1,193 ",  647 ,  52 ,  11 ,"  6,492 ",  12 ,  4 ,  12 ,  19 ,  59 
+HH2406T,09,190,District - Deoria,Rural,Away,"  1,778 ",  246 ,  121 ,  12 ,  2 ,"  1,246 ",  2 ,  -   ,  3 ,  5 ,  141 
+HH2406T,09,190,District - Deoria,Urban,Total,"  1,567 ",  385 ,  87 ,  6 ,  3 ,  986 ,  86 ,  -   ,  -   ,  3 ,  11 
+HH2406T,09,190,District - Deoria,Urban,Within the premises,"  1,217 ",  301 ,  63 ,  4 ,  3 ,  761 ,  85 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,190,District - Deoria,Urban,Near the premises,  298 ,  78 ,  20 ,  2 ,  -   ,  191 ,  1 ,  -   ,  -   ,  3 ,  3 
+HH2406T,09,190,District - Deoria,Urban,Away,  52 ,  6 ,  4 ,  -   ,  -   ,  34 ,  -   ,  -   ,  -   ,  -   ,  8 
+HH2406T,09,191,District - Azamgarh,Total,Total,"  7,646 ","  1,263 ",  544 ,  45 ,  18 ,"  5,537 ",  43 ,  7 ,  17 ,  16 ,  156 
+HH2406T,09,191,District - Azamgarh,Total,Within the premises,"  2,801 ",  510 ,  126 ,  16 ,  5 ,"  2,111 ",  33 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,191,District - Azamgarh,Total,Near the premises,"  3,871 ",  611 ,  367 ,  22 ,  10 ,"  2,790 ",  9 ,  6 ,  12 ,  14 ,  30 
+HH2406T,09,191,District - Azamgarh,Total,Away,  974 ,  142 ,  51 ,  7 ,  3 ,  636 ,  1 ,  1 ,  5 ,  2 ,  126 
+HH2406T,09,191,District - Azamgarh,Rural,Total,"  7,132 ","  1,106 ",  519 ,  43 ,  17 ,"  5,240 ",  17 ,  7 ,  17 ,  16 ,  150 
+HH2406T,09,191,District - Azamgarh,Rural,Within the premises,"  2,432 ",  395 ,  110 ,  14 ,  5 ,"  1,899 ",  9 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,191,District - Azamgarh,Rural,Near the premises,"  3,747 ",  580 ,  360 ,  22 ,  9 ,"  2,709 ",  7 ,  6 ,  12 ,  14 ,  28 
+HH2406T,09,191,District - Azamgarh,Rural,Away,  953 ,  131 ,  49 ,  7 ,  3 ,  632 ,  1 ,  1 ,  5 ,  2 ,  122 
+HH2406T,09,191,District - Azamgarh,Urban,Total,  514 ,  157 ,  25 ,  2 ,  1 ,  297 ,  26 ,  -   ,  -   ,  -   ,  6 
+HH2406T,09,191,District - Azamgarh,Urban,Within the premises,  369 ,  115 ,  16 ,  2 ,  -   ,  212 ,  24 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,191,District - Azamgarh,Urban,Near the premises,  124 ,  31 ,  7 ,  -   ,  1 ,  81 ,  2 ,  -   ,  -   ,  -   ,  2 
+HH2406T,09,191,District - Azamgarh,Urban,Away,  21 ,  11 ,  2 ,  -   ,  -   ,  4 ,  -   ,  -   ,  -   ,  -   ,  4 
+HH2406T,09,192,District - Mau,Total,Total,"  6,945 ",  851 ,  215 ,  33 ,  9 ,"  5,678 ",  42 ,  -   ,  4 ,  6 ,  107 
+HH2406T,09,192,District - Mau,Total,Within the premises,"  4,028 ",  558 ,  104 ,  12 ,  3 ,"  3,314 ",  37 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,192,District - Mau,Total,Near the premises,"  2,349 ",  263 ,  84 ,  16 ,  6 ,"  1,928 ",  3 ,  -   ,  3 ,  6 ,  40 
+HH2406T,09,192,District - Mau,Total,Away,  568 ,  30 ,  27 ,  5 ,  -   ,  436 ,  2 ,  -   ,  1 ,  -   ,  67 
+HH2406T,09,192,District - Mau,Rural,Total,"  5,384 ",  532 ,  144 ,  28 ,  9 ,"  4,586 ",  3 ,  -   ,  3 ,  5 ,  74 
+HH2406T,09,192,District - Mau,Rural,Within the premises,"  2,768 ",  279 ,  55 ,  8 ,  3 ,"  2,421 ",  2 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,192,District - Mau,Rural,Near the premises,"  2,120 ",  236 ,  67 ,  15 ,  6 ,"  1,760 ",  1 ,  -   ,  2 ,  5 ,  28 
+HH2406T,09,192,District - Mau,Rural,Away,  496 ,  17 ,  22 ,  5 ,  -   ,  405 ,  -   ,  -   ,  1 ,  -   ,  46 
+HH2406T,09,192,District - Mau,Urban,Total,"  1,561 ",  319 ,  71 ,  5 ,  -   ,"  1,092 ",  39 ,  -   ,  1 ,  1 ,  33 
+HH2406T,09,192,District - Mau,Urban,Within the premises,"  1,260 ",  279 ,  49 ,  4 ,  -   ,  893 ,  35 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,192,District - Mau,Urban,Near the premises,  229 ,  27 ,  17 ,  1 ,  -   ,  168 ,  2 ,  -   ,  1 ,  1 ,  12 
+HH2406T,09,192,District - Mau,Urban,Away,  72 ,  13 ,  5 ,  -   ,  -   ,  31 ,  2 ,  -   ,  -   ,  -   ,  21 
+HH2406T,09,193,District - Ballia,Total,Total,"  22,547 ","  2,561 ",  957 ,  153 ,  92 ,"  18,320 ",  49 ,  5 ,  32 ,  37 ,  341 
+HH2406T,09,193,District - Ballia,Total,Within the premises,"  13,838 ","  1,712 ",  390 ,  74 ,  11 ,"  11,616 ",  35 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,193,District - Ballia,Total,Near the premises,"  6,119 ",  634 ,  392 ,  58 ,  46 ,"  4,799 ",  8 ,  4 ,  29 ,  29 ,  120 
+HH2406T,09,193,District - Ballia,Total,Away,"  2,590 ",  215 ,  175 ,  21 ,  35 ,"  1,905 ",  6 ,  1 ,  3 ,  8 ,  221 
+HH2406T,09,193,District - Ballia,Rural,Total,"  20,325 ","  2,023 ",  802 ,  139 ,  84 ,"  16,897 ",  42 ,  5 ,  26 ,  27 ,  280 
+HH2406T,09,193,District - Ballia,Rural,Within the premises,"  12,187 ","  1,278 ",  287 ,  66 ,  10 ,"  10,518 ",  28 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,193,District - Ballia,Rural,Near the premises,"  5,742 ",  548 ,  354 ,  53 ,  41 ,"  4,592 ",  8 ,  4 ,  23 ,  19 ,  100 
+HH2406T,09,193,District - Ballia,Rural,Away,"  2,396 ",  197 ,  161 ,  20 ,  33 ,"  1,787 ",  6 ,  1 ,  3 ,  8 ,  180 
+HH2406T,09,193,District - Ballia,Urban,Total,"  2,222 ",  538 ,  155 ,  14 ,  8 ,"  1,423 ",  7 ,  -   ,  6 ,  10 ,  61 
+HH2406T,09,193,District - Ballia,Urban,Within the premises,"  1,651 ",  434 ,  103 ,  8 ,  1 ,"  1,098 ",  7 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,193,District - Ballia,Urban,Near the premises,  377 ,  86 ,  38 ,  5 ,  5 ,  207 ,  -   ,  -   ,  6 ,  10 ,  20 
+HH2406T,09,193,District - Ballia,Urban,Away,  194 ,  18 ,  14 ,  1 ,  2 ,  118 ,  -   ,  -   ,  -   ,  -   ,  41 
+HH2406T,09,194,District - Jaunpur,Total,Total,"  9,691 ","  2,311 ",  899 ,  211 ,  687 ,"  5,272 ",  107 ,  15 ,  16 ,  26 ,  147 
+HH2406T,09,194,District - Jaunpur,Total,Within the premises,"  2,414 ",  825 ,  240 ,  53 ,  68 ,"  1,169 ",  59 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,194,District - Jaunpur,Total,Near the premises,"  5,585 ","  1,281 ",  522 ,  98 ,  424 ,"  3,144 ",  35 ,  13 ,  9 ,  14 ,  45 
+HH2406T,09,194,District - Jaunpur,Total,Away,"  1,692 ",  205 ,  137 ,  60 ,  195 ,  959 ,  13 ,  2 ,  7 ,  12 ,  102 
+HH2406T,09,194,District - Jaunpur,Rural,Total,"  8,918 ","  1,865 ",  853 ,  200 ,  683 ,"  5,098 ",  58 ,  13 ,  15 ,  22 ,  111 
+HH2406T,09,194,District - Jaunpur,Rural,Within the premises,"  1,958 ",  484 ,  218 ,  47 ,  66 ,"  1,113 ",  30 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,194,District - Jaunpur,Rural,Near the premises,"  5,398 ","  1,200 ",  511 ,  95 ,  422 ,"  3,091 ",  19 ,  11 ,  8 ,  13 ,  28 
+HH2406T,09,194,District - Jaunpur,Rural,Away,"  1,562 ",  181 ,  124 ,  58 ,  195 ,  894 ,  9 ,  2 ,  7 ,  9 ,  83 
+HH2406T,09,194,District - Jaunpur,Urban,Total,  773 ,  446 ,  46 ,  11 ,  4 ,  174 ,  49 ,  2 ,  1 ,  4 ,  36 
+HH2406T,09,194,District - Jaunpur,Urban,Within the premises,  456 ,  341 ,  22 ,  6 ,  2 ,  56 ,  29 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,194,District - Jaunpur,Urban,Near the premises,  187 ,  81 ,  11 ,  3 ,  2 ,  53 ,  16 ,  2 ,  1 ,  1 ,  17 
+HH2406T,09,194,District - Jaunpur,Urban,Away,  130 ,  24 ,  13 ,  2 ,  -   ,  65 ,  4 ,  -   ,  -   ,  3 ,  19 
+HH2406T,09,195,District - Ghazipur,Total,Total,"  11,658 ","  1,153 ",  529 ,  241 ,  311 ,"  9,150 ",  76 ,  4 ,  6 ,  5 ,  183 
+HH2406T,09,195,District - Ghazipur,Total,Within the premises,"  4,219 ",  689 ,  165 ,  64 ,  37 ,"  3,240 ",  24 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,195,District - Ghazipur,Total,Near the premises,"  4,818 ",  324 ,  270 ,  123 ,  147 ,"  3,837 ",  37 ,  4 ,  3 ,  4 ,  69 
+HH2406T,09,195,District - Ghazipur,Total,Away,"  2,621 ",  140 ,  94 ,  54 ,  127 ,"  2,073 ",  15 ,  -   ,  3 ,  1 ,  114 
+HH2406T,09,195,District - Ghazipur,Rural,Total,"  10,887 ",  821 ,  484 ,  234 ,  299 ,"  8,806 ",  55 ,  4 ,  6 ,  5 ,  173 
+HH2406T,09,195,District - Ghazipur,Rural,Within the premises,"  3,670 ",  376 ,  143 ,  61 ,  33 ,"  3,040 ",  17 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,195,District - Ghazipur,Rural,Near the premises,"  4,683 ",  309 ,  256 ,  121 ,  143 ,"  3,758 ",  23 ,  4 ,  3 ,  4 ,  62 
+HH2406T,09,195,District - Ghazipur,Rural,Away,"  2,534 ",  136 ,  85 ,  52 ,  123 ,"  2,008 ",  15 ,  -   ,  3 ,  1 ,  111 
+HH2406T,09,195,District - Ghazipur,Urban,Total,  771 ,  332 ,  45 ,  7 ,  12 ,  344 ,  21 ,  -   ,  -   ,  -   ,  10 
+HH2406T,09,195,District - Ghazipur,Urban,Within the premises,  549 ,  313 ,  22 ,  3 ,  4 ,  200 ,  7 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,195,District - Ghazipur,Urban,Near the premises,  135 ,  15 ,  14 ,  2 ,  4 ,  79 ,  14 ,  -   ,  -   ,  -   ,  7 
+HH2406T,09,195,District - Ghazipur,Urban,Away,  87 ,  4 ,  9 ,  2 ,  4 ,  65 ,  -   ,  -   ,  -   ,  -   ,  3 
+HH2406T,09,196,District - Chandauli,Total,Total,"  2,663 ",  581 ,  115 ,  64 ,  381 ,"  1,474 ",  20 ,  -   ,  3 ,  4 ,  21 
+HH2406T,09,196,District - Chandauli,Total,Within the premises,"  1,008 ",  465 ,  76 ,  14 ,  34 ,  415 ,  4 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,196,District - Chandauli,Total,Near the premises,  977 ,  92 ,  27 ,  31 ,  210 ,  593 ,  7 ,  -   ,  2 ,  3 ,  12 
+HH2406T,09,196,District - Chandauli,Total,Away,  678 ,  24 ,  12 ,  19 ,  137 ,  466 ,  9 ,  -   ,  1 ,  1 ,  9 
+HH2406T,09,196,District - Chandauli,Rural,Total,"  1,822 ",  160 ,  37 ,  43 ,  336 ,"  1,208 ",  12 ,  -   ,  3 ,  4 ,  19 
+HH2406T,09,196,District - Chandauli,Rural,Within the premises,  392 ,  91 ,  8 ,  12 ,  32 ,  248 ,  1 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,196,District - Chandauli,Rural,Near the premises,  810 ,  51 ,  17 ,  20 ,  189 ,  516 ,  2 ,  -   ,  2 ,  3 ,  10 
+HH2406T,09,196,District - Chandauli,Rural,Away,  620 ,  18 ,  12 ,  11 ,  115 ,  444 ,  9 ,  -   ,  1 ,  1 ,  9 
+HH2406T,09,196,District - Chandauli,Urban,Total,  841 ,  421 ,  78 ,  21 ,  45 ,  266 ,  8 ,  -   ,  -   ,  -   ,  2 
+HH2406T,09,196,District - Chandauli,Urban,Within the premises,  616 ,  374 ,  68 ,  2 ,  2 ,  167 ,  3 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,196,District - Chandauli,Urban,Near the premises,  167 ,  41 ,  10 ,  11 ,  21 ,  77 ,  5 ,  -   ,  -   ,  -   ,  2 
+HH2406T,09,196,District - Chandauli,Urban,Away,  58 ,  6 ,  -   ,  8 ,  22 ,  22 ,  -   ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,197,District - Varanasi,Total,Total,"  9,986 ","  4,285 ",  426 ,  109 ,  494 ,"  4,121 ",  418 ,  6 ,  2 ,  37 ,  88 
+HH2406T,09,197,District - Varanasi,Total,Within the premises,"  5,601 ","  3,759 ",  205 ,  34 ,  87 ,"  1,186 ",  330 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,197,District - Varanasi,Total,Near the premises,"  2,642 ",  425 ,  164 ,  41 ,  248 ,"  1,634 ",  50 ,  6 ,  1 ,  28 ,  45 
+HH2406T,09,197,District - Varanasi,Total,Away,"  1,743 ",  101 ,  57 ,  34 ,  159 ,"  1,301 ",  38 ,  -   ,  1 ,  9 ,  43 
+HH2406T,09,197,District - Varanasi,Rural,Total,"  3,979 ",  299 ,  75 ,  46 ,  435 ,"  2,951 ",  116 ,  -   ,  1 ,  5 ,  51 
+HH2406T,09,197,District - Varanasi,Rural,Within the premises,  909 ,  137 ,  25 ,  5 ,  75 ,  601 ,  66 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,197,District - Varanasi,Rural,Near the premises,"  1,790 ",  110 ,  33 ,  17 ,  228 ,"  1,349 ",  29 ,  -   ,  1 ,  3 ,  20 
+HH2406T,09,197,District - Varanasi,Rural,Away,"  1,280 ",  52 ,  17 ,  24 ,  132 ,"  1,001 ",  21 ,  -   ,  -   ,  2 ,  31 
+HH2406T,09,197,District - Varanasi,Urban,Total,"  6,007 ","  3,986 ",  351 ,  63 ,  59 ,"  1,170 ",  302 ,  6 ,  1 ,  32 ,  37 
+HH2406T,09,197,District - Varanasi,Urban,Within the premises,"  4,692 ","  3,622 ",  180 ,  29 ,  12 ,  585 ,  264 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,197,District - Varanasi,Urban,Near the premises,  852 ,  315 ,  131 ,  24 ,  20 ,  285 ,  21 ,  6 ,  -   ,  25 ,  25 
+HH2406T,09,197,District - Varanasi,Urban,Away,  463 ,  49 ,  40 ,  10 ,  27 ,  300 ,  17 ,  -   ,  1 ,  7 ,  12 
+HH2406T,09,198,District - Sant Ravidas Nagar (Bhadohi),Total,Total,"  2,811 ",  257 ,  158 ,  76 ,  512 ,"  1,701 ",  62 ,  3 ,  17 ,  4 ,  21 
+HH2406T,09,198,District - Sant Ravidas Nagar (Bhadohi),Total,Within the premises,  510 ,  121 ,  31 ,  16 ,  76 ,  252 ,  14 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,198,District - Sant Ravidas Nagar (Bhadohi),Total,Near the premises,"  1,549 ",  93 ,  95 ,  47 ,  338 ,  934 ,  24 ,  3 ,  -   ,  4 ,  11 
+HH2406T,09,198,District - Sant Ravidas Nagar (Bhadohi),Total,Away,  752 ,  43 ,  32 ,  13 ,  98 ,  515 ,  24 ,  -   ,  17 ,  -   ,  10 
+HH2406T,09,198,District - Sant Ravidas Nagar (Bhadohi),Rural,Total,"  2,520 ",  129 ,  138 ,  72 ,  498 ,"  1,583 ",  56 ,  3 ,  17 ,  4 ,  20 
+HH2406T,09,198,District - Sant Ravidas Nagar (Bhadohi),Rural,Within the premises,  388 ,  36 ,  21 ,  15 ,  76 ,  230 ,  10 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,198,District - Sant Ravidas Nagar (Bhadohi),Rural,Near the premises,"  1,448 ",  57 ,  89 ,  46 ,  328 ,  887 ,  23 ,  3 ,  -   ,  4 ,  11 
+HH2406T,09,198,District - Sant Ravidas Nagar (Bhadohi),Rural,Away,  684 ,  36 ,  28 ,  11 ,  94 ,  466 ,  23 ,  -   ,  17 ,  -   ,  9 
+HH2406T,09,198,District - Sant Ravidas Nagar (Bhadohi),Urban,Total,  291 ,  128 ,  20 ,  4 ,  14 ,  118 ,  6 ,  -   ,  -   ,  -   ,  1 
+HH2406T,09,198,District - Sant Ravidas Nagar (Bhadohi),Urban,Within the premises,  122 ,  85 ,  10 ,  1 ,  -   ,  22 ,  4 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,198,District - Sant Ravidas Nagar (Bhadohi),Urban,Near the premises,  101 ,  36 ,  6 ,  1 ,  10 ,  47 ,  1 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,198,District - Sant Ravidas Nagar (Bhadohi),Urban,Away,  68 ,  7 ,  4 ,  2 ,  4 ,  49 ,  1 ,  -   ,  -   ,  -   ,  1 
+HH2406T,09,199,District - Mirzapur,Total,Total,"  6,172 ",  750 ,  215 ,  169 ,  746 ,"  4,111 ",  74 ,  51 ,  16 ,  18 ,  22 
+HH2406T,09,199,District - Mirzapur,Total,Within the premises,"  1,165 ",  475 ,  75 ,  31 ,  63 ,  485 ,  36 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,199,District - Mirzapur,Total,Near the premises,"  2,903 ",  216 ,  124 ,  80 ,  396 ,"  2,034 ",  18 ,  16 ,  5 ,  2 ,  12 
+HH2406T,09,199,District - Mirzapur,Total,Away,"  2,104 ",  59 ,  16 ,  58 ,  287 ,"  1,592 ",  20 ,  35 ,  11 ,  16 ,  10 
+HH2406T,09,199,District - Mirzapur,Rural,Total,"  5,009 ",  150 ,  86 ,  135 ,  721 ,"  3,783 ",  32 ,  51 ,  16 ,  18 ,  17 
+HH2406T,09,199,District - Mirzapur,Rural,Within the premises,  548 ,  36 ,  12 ,  11 ,  61 ,  415 ,  13 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,199,District - Mirzapur,Rural,Near the premises,"  2,501 ",  67 ,  62 ,  68 ,  381 ,"  1,883 ",  8 ,  16 ,  5 ,  2 ,  9 
+HH2406T,09,199,District - Mirzapur,Rural,Away,"  1,960 ",  47 ,  12 ,  56 ,  279 ,"  1,485 ",  11 ,  35 ,  11 ,  16 ,  8 
+HH2406T,09,199,District - Mirzapur,Urban,Total,"  1,163 ",  600 ,  129 ,  34 ,  25 ,  328 ,  42 ,  -   ,  -   ,  -   ,  5 
+HH2406T,09,199,District - Mirzapur,Urban,Within the premises,  617 ,  439 ,  63 ,  20 ,  2 ,  70 ,  23 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,199,District - Mirzapur,Urban,Near the premises,  402 ,  149 ,  62 ,  12 ,  15 ,  151 ,  10 ,  -   ,  -   ,  -   ,  3 
+HH2406T,09,199,District - Mirzapur,Urban,Away,  144 ,  12 ,  4 ,  2 ,  8 ,  107 ,  9 ,  -   ,  -   ,  -   ,  2 
+HH2406T,09,200,District - Sonbhadra,Total,Total,"  69,272 ","  2,665 ",  720 ,  836 ,"  19,651 ","  41,484 ",  201 ,  522 ,"  2,254 ",  451 ,  488 
+HH2406T,09,200,District - Sonbhadra,Total,Within the premises,"  4,256 ","  1,206 ",  55 ,  70 ,"  1,159 ","  1,677 ",  89 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,200,District - Sonbhadra,Total,Near the premises,"  36,227 ",  880 ,  415 ,  439 ,"  10,826 ","  23,014 ",  54 ,  67 ,  340 ,  121 ,  71 
+HH2406T,09,200,District - Sonbhadra,Total,Away,"  28,789 ",  579 ,  250 ,  327 ,"  7,666 ","  16,793 ",  58 ,  455 ,"  1,914 ",  330 ,  417 
+HH2406T,09,200,District - Sonbhadra,Rural,Total,"  66,182 ","  1,326 ",  583 ,  803 ,"  19,358 ","  40,373 ",  116 ,  520 ,"  2,249 ",  387 ,  467 
+HH2406T,09,200,District - Sonbhadra,Rural,Within the premises,"  2,930 ",  101 ,  33 ,  54 ,"  1,126 ","  1,563 ",  53 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,200,District - Sonbhadra,Rural,Near the premises,"  35,251 ",  731 ,  361 ,  435 ,"  10,666 ","  22,438 ",  36 ,  66 ,  335 ,  116 ,  67 
+HH2406T,09,200,District - Sonbhadra,Rural,Away,"  28,001 ",  494 ,  189 ,  314 ,"  7,566 ","  16,372 ",  27 ,  454 ,"  1,914 ",  271 ,  400 
+HH2406T,09,200,District - Sonbhadra,Urban,Total,"  3,090 ","  1,339 ",  137 ,  33 ,  293 ,"  1,111 ",  85 ,  2 ,  5 ,  64 ,  21 
+HH2406T,09,200,District - Sonbhadra,Urban,Within the premises,"  1,326 ","  1,105 ",  22 ,  16 ,  33 ,  114 ,  36 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,200,District - Sonbhadra,Urban,Near the premises,  976 ,  149 ,  54 ,  4 ,  160 ,  576 ,  18 ,  1 ,  5 ,  5 ,  4 
+HH2406T,09,200,District - Sonbhadra,Urban,Away,  788 ,  85 ,  61 ,  13 ,  100 ,  421 ,  31 ,  1 ,  -   ,  59 ,  17 
+HH2406T,09,201,District - Etah,Total,Total,"  2,382 ",  789 ,  142 ,  7 ,  2 ,"  1,267 ",  164 ,  -   ,  1 ,  -   ,  10 
+HH2406T,09,201,District - Etah,Total,Within the premises,"  1,142 ",  524 ,  31 ,  3 ,  1 ,  425 ,  158 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,201,District - Etah,Total,Near the premises,  911 ,  209 ,  97 ,  3 ,  -   ,  592 ,  4 ,  -   ,  1 ,  -   ,  5 
+HH2406T,09,201,District - Etah,Total,Away,  329 ,  56 ,  14 ,  1 ,  1 ,  250 ,  2 ,  -   ,  -   ,  -   ,  5 
+HH2406T,09,201,District - Etah,Rural,Total,"  1,725 ",  604 ,  127 ,  6 ,  2 ,  967 ,  17 ,  -   ,  1 ,  -   ,  1 
+HH2406T,09,201,District - Etah,Rural,Within the premises,  663 ,  364 ,  24 ,  2 ,  1 ,  256 ,  16 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,201,District - Etah,Rural,Near the premises,  777 ,  188 ,  92 ,  3 ,  -   ,  492 ,  1 ,  -   ,  1 ,  -   ,  -   
+HH2406T,09,201,District - Etah,Rural,Away,  285 ,  52 ,  11 ,  1 ,  1 ,  219 ,  -   ,  -   ,  -   ,  -   ,  1 
+HH2406T,09,201,District - Etah,Urban,Total,  657 ,  185 ,  15 ,  1 ,  -   ,  300 ,  147 ,  -   ,  -   ,  -   ,  9 
+HH2406T,09,201,District - Etah,Urban,Within the premises,  479 ,  160 ,  7 ,  1 ,  -   ,  169 ,  142 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,201,District - Etah,Urban,Near the premises,  134 ,  21 ,  5 ,  -   ,  -   ,  100 ,  3 ,  -   ,  -   ,  -   ,  5 
+HH2406T,09,201,District - Etah,Urban,Away,  44 ,  4 ,  3 ,  -   ,  -   ,  31 ,  2 ,  -   ,  -   ,  -   ,  4 
+HH2406T,09,202,District - Kanshiram Nagar,Total,Total,"  1,760 ",  545 ,  177 ,  12 ,  12 ,  966 ,  26 ,  -   ,  2 ,  2 ,  18 
+HH2406T,09,202,District - Kanshiram Nagar,Total,Within the premises,"  1,185 ",  418 ,  87 ,  7 ,  5 ,  648 ,  20 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,202,District - Kanshiram Nagar,Total,Near the premises,  438 ,  97 ,  80 ,  4 ,  6 ,  226 ,  6 ,  -   ,  2 ,  2 ,  15 
+HH2406T,09,202,District - Kanshiram Nagar,Total,Away,  137 ,  30 ,  10 ,  1 ,  1 ,  92 ,  -   ,  -   ,  -   ,  -   ,  3 
+HH2406T,09,202,District - Kanshiram Nagar,Rural,Total,"  1,187 ",  268 ,  117 ,  8 ,  7 ,  757 ,  15 ,  -   ,  -   ,  1 ,  14 
+HH2406T,09,202,District - Kanshiram Nagar,Rural,Within the premises,  744 ,  185 ,  52 ,  4 ,  2 ,  489 ,  12 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,202,District - Kanshiram Nagar,Rural,Near the premises,  335 ,  63 ,  55 ,  3 ,  4 ,  195 ,  3 ,  -   ,  -   ,  1 ,  11 
+HH2406T,09,202,District - Kanshiram Nagar,Rural,Away,  108 ,  20 ,  10 ,  1 ,  1 ,  73 ,  -   ,  -   ,  -   ,  -   ,  3 
+HH2406T,09,202,District - Kanshiram Nagar,Urban,Total,  573 ,  277 ,  60 ,  4 ,  5 ,  209 ,  11 ,  -   ,  2 ,  1 ,  4 
+HH2406T,09,202,District - Kanshiram Nagar,Urban,Within the premises,  441 ,  233 ,  35 ,  3 ,  3 ,  159 ,  8 ,  -   ,  -   ,  -   ,  -   
+HH2406T,09,202,District - Kanshiram Nagar,Urban,Near the premises,  103 ,  34 ,  25 ,  1 ,  2 ,  31 ,  3 ,  -   ,  2 ,  1 ,  4 
+HH2406T,09,202,District - Kanshiram Nagar,Urban,Away,  29 ,  10 ,  -   ,  -   ,  -   ,  19 ,  -   ,  -   ,  -   ,  -   ,  -   

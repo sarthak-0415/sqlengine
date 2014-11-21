@@ -1,0 +1,4 @@
+1
+7
+select distinct id from countries;
+0

@@ -1,0 +1,3 @@
+7
+SELECT    some_column_name FROM table1, table2 WHERE column_name = (SELECT 2_column_name FROM 2_table1 ,2_table2  WHERE 2_where_clause);
+0

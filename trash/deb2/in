@@ -1,0 +1,6 @@
+5
+select some_column from some_table where some_where_condition groupby some_groupby_clause having some_having_clause orderby some_orderby_clause
+select <col1>,<col2> from <tablename>;
+select distinct(<col1>) from <table name> where <col1> <op> <value>
+select * from <table1>, <table2> where <col1>=<col2> groupby <col1> having <col1>=50 orderby <col2>;
+select <col1>,<col2> from <non_existing_table>

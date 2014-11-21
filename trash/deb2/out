@@ -1,0 +1,50 @@
+
+initial query:: select some_column from some_table where some_where_condition groupby some_groupby_clause having some_having_clause orderby some_orderby_clause
+passed query select some_column from some_table where some_where_condition groupby some_groupby_clause having some_having_clause orderby some_orderby_clause
+
+from clause: some_table 
+select clause: some_column 
+clause:: 
+some_orderby_clause
+some_having_clause 
+some_groupby_clause 
+some_where_condition 
+initial query:: select <col1>,<col2> from <tablename>;
+passed query select <col1>,<col2> from <tablename>;
+
+from clause: <tablename>;
+select clause: <col1><col2> 
+clause:: 
+
+
+
+
+initial query:: select distinct(<col1>) from <table name> where <col1> <op> <value>
+passed query select distinct(<col1>) from <table name> where <col1> <op> <value>
+
+from clause: <table name> 
+select clause: distinct(<col1>) 
+clause:: 
+
+
+
+<col1> <op> <value>
+initial query:: select * from <table1>, <table2> where <col1>=<col2> groupby <col1> having <col1>=50 orderby <col2>;
+passed query select * from <table1>, <table2> where <col1>=<col2> groupby <col1> having <col1>=50 orderby <col2>;
+
+from clause: <table1> <table2> 
+select clause: * 
+clause:: 
+<col2>;
+<col1>=50 
+<col1> 
+<col1>=<col2> 
+initial query:: select <col1>,<col2> from <non_existing_table>
+passed query select <col1>,<col2> from <non_existing_table>
+
+from clause: <non_existing_table>
+select clause: <col1><col2> 
+clause:: 
+
+
+
